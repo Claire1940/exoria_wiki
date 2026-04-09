@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "description": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, fabricación, biomas, logros, supervivencia, Steam",
-      "ogTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "ogDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros, finales y consejos de supervivencia para la aventura surrealista de sandbox de vóxeles en Steam.",
-      "twitterTitle": "Wiki de Lucid Blocks - Fabricación, biomas y logros",
-      "twitterDescription": "La Wiki de Lucid Blocks cubre fabricación, biomas, criaturas, objetos, logros y consejos de supervivencia para el sandbox surrealista de vóxeles en Steam."
+      "title": "Exoria Wiki - Códigos, Clases y Jefes",
+      "description": "Sigue los códigos, clases, razas, jefes, mazmorras y el progreso de Purity en Exoria con guías claras de Roblox diseñadas para subir de nivel, rerolls y drops más rápido.",
+      "keywords": "Exoria, Roblox, códigos de Exoria, clases de Exoria, jefes de Exoria, misiones de Exoria, Exoria Wiki",
+      "ogTitle": "Exoria Wiki - Códigos, Clases y Jefes",
+      "ogDescription": "Sigue los códigos, clases, razas, jefes, mazmorras y el progreso de Purity en Exoria con guías claras de Roblox diseñadas para subir de nivel, rerolls y drops más rápido.",
+      "twitterTitle": "Exoria Wiki - Códigos, Clases y Jefes",
+      "twitterDescription": "Sigue los códigos, clases, razas, jefes, mazmorras y el progreso de Purity en Exoria con guías claras de Roblox."
     }
   },
   "nav": {
@@ -22,7 +22,7 @@
   "common": {
     "home": "Inicio",
     "more": "Más",
-    "playNow": "Juega en Steam",
+    "playNow": "Jugar en Steam",
     "switchLanguage": "Cambiar idioma",
     "switchTheme": "Cambiar tema",
     "lightMode": "Modo claro",
@@ -34,721 +34,700 @@
     "readMore": "Leer más"
   },
   "hero": {
-    "badge": "__PROTECTED_c0b0161c__ Sandbox de supervivencia de vóxeles",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explora biomas oníricos, fusiona objetos con Apotheosis, construye libremente y sobrevive a criaturas extrañas en este sandbox surrealista de mundo abierto en Steam.",
-    "getFreeCodesCTA": "Explorar guía de fabricación",
-    "playOnSteamCTA": "Jugar en Steam",
+    "badge": "RPG de Roblox inspirado en Blue Exorcist",
+    "title": "Exoria Wiki",
+    "description": "Explora Exoria con guías rápidas de códigos, clases, razas, jefes, mazmorras, misiones y progreso de Purity en un centro de Roblox Wiki organizado.",
+    "getFreeCodesCTA": "Obtén códigos gratis",
+    "playOnSteamCTA": "Jugar en Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Jugadores en línea"
+        "value": "53.9K+",
+        "label": "Visitas totales"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Pico de CCU"
+        "value": "6,325",
+        "label": "Favoritos"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Reseñas positivas"
+        "value": "264",
+        "label": "Jugadores activos"
       },
       "stat4": {
-        "value": "12 de mar. de 2026",
-        "label": "Fecha de lanzamiento"
+        "value": "6 de abr. de 2026",
+        "label": "Última actualización"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Lucid Blocks",
-    "description": "Explora biomas surrealistas, fusiona objetos con Apotheosis y sobrevive a criaturas extrañas en este sandbox de vóxeles onírico en Steam."
+    "title": "Jugabilidad de Exoria",
+    "description": "Explora zonas malditas, domina tu clase y raza, sigue el camino de Purity y derrota jefes en este RPG de Roblox de anime oscuro inspirado en Blue Exorcist."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Recursos",
-    "subtitle": "Todo lo que necesitas para explorar, fabricar y sobrevivir en Lucid Blocks",
+    "title": "Exoria",
+    "titleHighlight": "Wiki",
+    "subtitle": "Tu guía completa de códigos, recursos, consejos para principiantes y progreso de Purity en Exoria",
     "cards": [
       {
+        "icon": "Star",
+        "title": "Códigos de Exoria",
+        "description": "Todos los códigos activos y expirados, además de instrucciones de canje paso a paso"
+      },
+      {
+        "icon": "Users",
+        "title": "Exoria Trello y Discord",
+        "description": "Tablero oficial de Trello y Discord para referencia de sistemas y actualizaciones en vivo"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Guía para principiantes",
-        "description": "Primeros pasos, exploración y progresión inicial"
+        "title": "Guía para principiantes de Exoria",
+        "description": "Ciclo principal, elecciones de Purity, rolls y prioridades de la primera sesión"
       },
       {
         "icon": "Sparkles",
-        "title": "Fabricación de Apotheosis",
-        "description": "Sistema de fusión libre y recetas iniciales"
-      },
-      {
-        "icon": "Hammer",
-        "title": "Herramientas y armas",
-        "description": "Pico de escarcha, Azrael, __PROTECTED_6a765cb2__ y más"
-      },
-      {
-        "icon": "Package",
-        "title": "Almacenamiento e inventario",
-        "description": "Cubos de suministros, gabinetes y almacenamiento de Qualia"
-      },
-      {
-        "icon": "Home",
-        "title": "Qualia y construcción de bases",
-        "description": "Qualia personal y configuración de la base"
-      },
-      {
-        "icon": "Eye",
-        "title": "Regiones del mundo",
-        "description": "Fog Meadow, Ciénaga de la Esencia y más"
-      },
-      {
-        "icon": "AlertTriangle",
-        "title": "Criaturas y enemigos",
-        "description": "Maniquíes, arañas y cómo sobrevivir"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Equipo de movilidad",
-        "description": "__PROTECTED_6a765cb2__, Guante planeador, __PROTECTED_163b9bec__"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Cultivo y crecimiento",
-        "description": "Progresión de semillas y recolección de materiales"
-      },
-      {
-        "icon": "Star",
-        "title": "Mejores desbloqueos iniciales",
-        "description": "Mejoras prioritarias para la primera hora"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Seguimiento de logros",
-        "description": "Los 19 logros y condiciones de Steam"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Preguntas frecuentes del modo un jugador",
-        "description": "Preguntas sobre plataformas, precio, cooperativo e idiomas"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck y controles",
-        "description": "Configuración de Proton 9.0.4 y consejos para el control"
-      },
-      {
-        "icon": "Settings",
-        "title": "Ajustes y accesibilidad",
-        "description": "Ocultar manos, __PROTECTED_38625270__ y opciones de pantalla"
-      },
-      {
-        "icon": "Clock",
-        "title": "Actualizaciones y notas del parche",
-        "description": "Correcciones recientes y notas de la hoja de ruta"
+        "title": "Guía del camino de Purity en Exoria",
+        "description": "Alineación moral, orden de desbloqueo de habilidades y reacciones del mundo explicadas"
       },
       {
         "icon": "Shield",
-        "title": "Solución de cierres inesperados",
-        "description": "Verificación de __PROTECTED_38625270__, ruta de registros y reporte de errores"
+        "title": "Guía de clases de Exoria",
+        "description": "Caminos de Sword y Aria explicados con progresión de clase a forma"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Guía de armas de Exoria",
+        "description": "Habilidades con nombre, tipos de ataque y comparación de líneas de combate"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Guía de razas de Exoria",
+        "description": "Selección de raza, estrategia de reroll y caminos de progresión de forma"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Guía del árbol de habilidades de Exoria",
+        "description": "Alineación de Purity, orden de desbloqueo de habilidades y planificación del árbol"
+      },
+      {
+        "icon": "Swords",
+        "title": "Guía de jefes de Exoria",
+        "description": "Encuentros con jefes, mecánicas de Malphas, contexto de mazmorras y farmeo de drops raros"
+      },
+      {
+        "icon": "Map",
+        "title": "Guía de mazmorras de Exoria",
+        "description": "Mecánicas de mazmorras, ciclo de nivelación, estructura de recompensas y rutas vinculadas a Purity"
+      },
+      {
+        "icon": "Compass",
+        "title": "Guía de misiones de Exoria",
+        "description": "Flujo de misiones de Purity, elecciones de alineación, tiempos de desbloqueo de habilidades y reacciones del mundo"
+      },
+      {
+        "icon": "Layers",
+        "title": "Guía de cartas de Exoria",
+        "description": "Sistema de recolección de cartas, enlaces de desbloqueo de habilidades, farmeo de drops raros y planificación de builds"
+      },
+      {
+        "icon": "Gem",
+        "title": "Guía de accesorios de Exoria",
+        "description": "Artefactos, formas, auras y sinergia de razas explicados para el ajuste de builds post-clase"
+      },
+      {
+        "icon": "Calendar",
+        "title": "Guía de eventos de Exoria",
+        "description": "Drops de Discord, referencia de eventos en Trello, ventanas de actualización e hitos de lanzamiento"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Notas del parche de la Actualización 2 de Exoria",
+        "description": "Cronología completa de parches públicos desde el Acceso Anticipado hasta el Free-to-Play y la Actualización 2"
+      },
+      {
+        "icon": "CalendarDays",
+        "title": "Fecha de lanzamiento de Exoria",
+        "description": "Fechas exactas de lanzamiento del Acceso Anticipado y Free-to-Play con contexto de hitos"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Guía para principiantes de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "Comienza aprendiendo cómo se conectan la exploración, la fusión y la progresión. Lucid Blocks premia la experimentación, por lo que el progreso temprano proviene de recolectar materiales inusuales, probar combinaciones y desbloquear tu Qualia personal.",
+    "exoriaCodes": {
+      "title": "Códigos de Exoria",
+      "eyebrow": "Recompensas gratuitas",
+      "intro": "Los códigos son el impulso inicial más rápido en Exoria, otorgándote giros y recompensas gratis antes de que comiences tu viaje. Usa el botón de Códigos en la pantalla de carga para reclamar todos los códigos activos.",
+      "activeBadge": "Activo",
+      "expiredBadge": "Expirado",
+      "codes": [
+        {
+          "code": "ASCENSION4K",
+          "reward": "Giros gratis",
+          "status": "activo"
+        },
+        {
+          "code": "LUCKOVERDRIVE",
+          "reward": "Giros gratis",
+          "status": "activo"
+        },
+        {
+          "code": "FREETOPLAY",
+          "reward": "Recompensa gratuita",
+          "status": "activo"
+        },
+        {
+          "code": "UPDATE2",
+          "reward": "Recompensa gratuita",
+          "status": "activo"
+        },
+        {
+          "code": "PATCH",
+          "reward": "Recompensa gratuita",
+          "status": "activo"
+        },
+        {
+          "code": "CONSOLE",
+          "reward": "Recompensa gratuita",
+          "status": "activo"
+        },
+        {
+          "code": "MOREROLLS",
+          "reward": "Recompensa gratuita",
+          "status": "activo"
+        },
+        {
+          "code": "MORESOON",
+          "reward": "Recompensa gratuita",
+          "status": "activo"
+        },
+        {
+          "code": "UPDATE1",
+          "reward": "Recompensa",
+          "status": "expirado"
+        },
+        {
+          "code": "ROLLUP",
+          "reward": "Recompensa",
+          "status": "expirado"
+        },
+        {
+          "code": "WELCOME",
+          "reward": "Recompensa",
+          "status": "expirado"
+        },
+        {
+          "code": "FREEROLLS",
+          "reward": "Recompensa",
+          "status": "expirado"
+        },
+        {
+          "code": "EXORCIST",
+          "reward": "Recompensa",
+          "status": "expirado"
+        }
+      ],
+      "redeemTitle": "Cómo canjear códigos de Exoria",
+      "redeemSteps": [
+        "Inicia Exoria en Roblox.",
+        "Haz clic en Códigos en la página de carga o en el menú principal.",
+        "Pega un código válido en el cuadro de texto.",
+        "Presiona CLAIM CODE para recibir tu recompensa."
+      ],
+      "milestoneBadge": "El próximo código se lanzará a los 1,750 likes"
+    },
+    "exoriaTrelloAndDiscord": {
+      "title": "Trello y Discord de Exoria",
+      "eyebrow": "Recursos oficiales",
+      "intro": "Usa el tablero oficial de Trello para consultar los sistemas y Discord para anuncios en vivo y lanzamientos de códigos de HADEZ STUDIO.",
+      "cards": [
+        {
+          "title": "Tablero oficial de Trello",
+          "description": "La referencia principal para clases, armas, razas, accesorios, mazmorras, eventos y jefes. Úsalo para el Camino de Purity e información sobre drops raros.",
+          "href": "https://trello.com/b/KlMVXIcV/exoria",
+          "tag": "Sistemas"
+        },
+        {
+          "title": "Para qué usar Trello",
+          "description": "Consulta mecánicas, estadísticas de objetos y hojas de ruta de contenido. Especialmente útil para planificar tu combinación de clase y raza antes de invertir giros.",
+          "href": "https://trello.com/b/KlMVXIcV/exoria",
+          "tag": "Referencia"
+        },
+        {
+          "title": "Discord oficial",
+          "description": "El centro principal para hitos de desarrollo en vivo, lanzamientos de códigos y discusiones de la comunidad con el equipo de HADEZ STUDIO.",
+          "href": "https://discord.com/invite/9cc94Qz",
+          "tag": "Comunidad"
+        },
+        {
+          "title": "Para qué usar Discord",
+          "description": "Mantente al tanto de nuevos códigos, anuncios, charlas sobre parches y actualizaciones directas de los desarrolladores. El canal más rápido para información urgente.",
+          "href": "https://discord.com/invite/9cc94Qz",
+          "tag": "Actualizaciones en vivo"
+        }
+      ]
+    },
+    "exoriaBeginnerGuide": {
+      "title": "Guía para principiantes de Exoria",
+      "eyebrow": "Primeros pasos",
+      "intro": "Exoria es un RPG de anime de mundo abierto donde creces jugando. Concéntrate primero en los códigos, luego sigue el ciclo principal de lucha, exploración, misiones y caza de jefes para subir de nivel rápido.",
       "steps": [
         {
-          "title": "Explora antes de comprometerte",
-          "description": "Camina hacia el exterior, mina bloques comunes y conserva cualquier botín extraño que encuentres. El progreso inicial se trata menos de misiones fijas y más de descubrir en qué se pueden convertir los materiales."
+          "title": "Reclama tus códigos antes de entrar al mundo",
+          "description": "Usa primero el botón de Codes en la pantalla de carga. Los códigos son la fuente más rápida de tiros gratuitos, relanzamientos y recompensas iniciales en Exoria."
         },
         {
-          "title": "Desbloquea tu Qualia personal pronto",
-          "description": "Tu Qualia personal es uno de los hitos iniciales más importantes. Te brinda un lugar confiable para reagruparte y construir a su alrededor."
+          "title": "Sigue el ciclo principal en lugar de deambular sin rumbo",
+          "description": "Sube de nivel simplemente jugando: lucha contra enemigos, explora zonas malditas, haz misiones o caza jefes. Ese es el orden de prioridad más claro para tu primera sesión."
         },
         {
-          "title": "Usa Osmio para progresar rápido al inicio",
-          "description": "El Osmio es uno de los materiales iniciales más útiles. Una ruta inicial popular es combinar Osmio con palos para fabricar un Pico de Escarcha para minar rápido."
+          "title": "Trata la Purity como una elección de build temprana",
+          "description": "La progresión de Exoria está ligada a la Purity. Tu alineación cambia el ritmo de tu build y el orden de acceso a las habilidades desde el principio."
         },
         {
-          "title": "Registra las buenas fusiones",
-          "description": "Lleva un registro de las combinaciones exitosas en tu diario. Lucid Blocks tiene muchas rutas de fusión posibles, por lo que anotar los resultados útiles ahorra mucho tiempo."
+          "title": "Usa los tiros y relanzamientos con un propósito",
+          "description": "Los códigos de Exoria ayudan a perfeccionar la raza y habilidades de tu personaje mediante relanzamientos. Usa las recompensas de códigos gratuitos de inmediato en lugar de guardarlas para después."
+        },
+        {
+          "title": "Abre Trello cuando necesites detalles del sistema",
+          "description": "Para clases, armas, razas, accesorios, mazmorras, eventos o jefes, el tablero oficial de Trello es la referencia más rápida y completa."
         }
       ],
       "quickTips": [
-        "Apotheosis no requiere una lista de recetas fija.",
-        "La generación de mundo infinito significa que moverte hacia arriba o hacia lo profundo puede revelar materiales completamente diferentes.",
-        "Las herramientas de movimiento y el equipo de utilidad se convierten en una gran mejora de calidad de vida una vez que comienzas a desbloquearlos.",
-        "Perderse al principio es normal, pero las herramientas útiles, el almacenamiento y las opciones de movimiento crecen como bola de nieve rápidamente una vez que tus primeras buenas fusiones empiezan a funcionar."
+        "Siempre reclama los códigos primero: otorgan tiros gratuitos antes de que entres al mundo",
+        "La alineación de Purity afecta el orden de desbloqueo de habilidades y la disponibilidad de misiones desde el inicio",
+        "Relanzar la raza es más valioso en el juego temprano antes de comprometerse con una build",
+        "Los drops de jefes y las cartas raras se detallan en el tablero oficial de Trello",
+        "Discord es el canal más rápido para nuevos lanzamientos de códigos y anuncios de parches"
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Artesanía de Apotheosis en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "Apotheosis es el sistema de fusión sin restricciones del juego. En lugar de memorizar un libro de recetas tradicional, combinas materiales, observas el resultado y construyes tu propio conocimiento de artesanía con el tiempo.",
-      "cards": [
-        {
-          "name": "Fusión de forma libre",
-          "description": "Apotheosis te permite fusionar diferentes objetos sin necesidad de seguir una lista de recetas fija."
-        },
-        {
-          "name": "Múltiples resultados útiles",
-          "description": "Diferentes materiales suelen orientarse hacia ciertos resultados. Los descubrimientos de la comunidad muestran que insumos similares pueden derivar en herramientas prácticas, almacenamiento o mejoras de combate."
-        },
-        {
-          "name": "Artesanía basada en el diario",
-          "description": "La mejor manera de aprender Apotheosis es registrar tus combinaciones exitosas. Tu diario se convertirá rápidamente en tu propia referencia de artesanía."
-        },
-        {
-          "name": "Fusiones iniciales probadas por la comunidad",
-          "description": "Ejemplos iniciales populares incluyen Osmio más Palo para un Pico de Escarcha, Palo más Apéndice de Tungsteno para Azrael, y Azrael más Magnetita para el Estoque de Zarcillo."
-        }
-      ],
-      "milestones": [
-        "Fusionar un objeto",
-        "Fusionar una alimaña",
-        "Fusionar un artefacto divino"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Herramientas y armas de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mezcla equipo de utilidad oficial con armas iniciales descubiertas por la comunidad. La mejor configuración suele ser una mezcla de minería rápida, travesía segura y una opción de combate confiable.",
-      "items": [
-        {
-          "name": "Pico de Escarcha",
-          "type": "Herramienta de minería",
-          "description": "Un pico inicial rápido y económico hecho de Osmio y Palo. Los jugadores lo usan para acelerar la recolección inicial de materiales."
-        },
-        {
-          "name": "Azrael",
-          "type": "Arma inicial",
-          "description": "Una ruta práctica para un arma inicial fabricada con un Palo y un Apéndice de Tungsteno."
-        },
-        {
-          "name": "Estoque de Zarcillo",
-          "type": "Arma mejorada",
-          "description": "Una continuación más fuerte creada al combinar Azrael con Magnetita. Es una de las rutas de combate inicial-media más útiles compartidas por los jugadores."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de travesía oficial que mejora enormemente el movimiento y la exploración vertical."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de movilidad",
-          "description": "Un objeto de movimiento oficial que ayuda a cubrir terreno de forma más segura y eficiente."
-        },
-        {
-          "name": "Varita de Bola",
-          "type": "Arma de utilidad",
-          "description": "Un objeto de utilidad a distancia oficial que expande tus opciones de combate y acertijos."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de travesía",
-          "description": "Un objeto de utilidad oficial para llegar a áreas que de otro modo ralentizarían la exploración."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Destacados oficialmente como parte del conjunto de herramientas principal y útiles para atravesar amenazas u obstáculos."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Almacenamiento e inventario de Lucid Blocks",
-      "displayType": "solutionCards",
-      "intro": "La presión del inventario comienza temprano en Lucid Blocks, por lo que construir almacenamiento debería ser uno de tus primeros objetivos. Ya destacan varias soluciones probadas por jugadores reales.",
-      "solutions": [
-        {
-          "name": "Cubo de Almacenamiento",
-          "role": "Almacenamiento tipo cofre",
-          "description": "Los Cubos de Almacenamiento son una de las soluciones prácticas más tempranas y los jugadores los tratan como el contenedor principal tipo cofre del juego."
-        },
-        {
-          "name": "Gabinete",
-          "role": "Almacenamiento de base simple",
-          "description": "Los gabinetes son otra opción de almacenamiento confirmada. Una receta inicial compartida usa 1 de Madera cortada y 1 de Cuerda."
-        },
-        {
-          "name": "Qualia personal",
-          "role": "Centro de almacenamiento a largo plazo",
-          "description": "Una vez desbloqueada, tu Qualia personal se convierte en un lugar natural para organizar materiales, fabricar en paz y expandir la configuración de tu base."
-        },
-        {
-          "name": "Seguimiento en el diario",
-          "role": "Eficiencia de inventario",
-          "description": "Registrar combinaciones útiles en tu diario reduce el desperdicio de materiales y facilita mucho la gestión del inventario."
-        }
-      ],
-      "managementTips": [
-        "Prioriza una opción de almacenamiento confiable antes de acumular botines raros.",
-        "Construye alrededor de tu Qualia personal una vez que esté disponible.",
-        "Mantén separados los materiales de artesanía, las herramientas de combate y el equipo de movimiento para que las mejoras sean más fáciles de planificar.",
-        "Usa tu diario como parte de la gestión del inventario, no solo para descubrir recetas."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Qualia y construcción de bases en Lucid Blocks",
-      "displayType": "cards",
-      "intro": "La Qualia es uno de los hitos de progresión más importantes en Lucid Blocks. Te brinda un espacio personal para reagruparte, almacenar materiales y convertir gradualmente el progreso de exploración en una verdadera base de operaciones.",
-      "cards": [
-        {
-          "name": "Qualia personal",
-          "description": "Desbloquear una Qualia es un hito inicial que te da un lugar más confiable al cual regresar mientras exploras el mundo exterior."
-        },
-        {
-          "name": "Construcción centrada en el almacenamiento",
-          "description": "Muchos jugadores comienzan usando su Qualia como un centro de almacenamiento antes de convertirla en una base más grande con espacios organizados para artesanía y construcción."
-        },
-        {
-          "name": "Construcción creativa de hogares",
-          "description": "Lucid Blocks admite la construcción creativa, y los jugadores ya están usando los espacios de Qualia para crear casas y diseños personalizados."
-        },
-        {
-          "name": "Centro de progresión",
-          "description": "Una base sólida te ayuda a separar el botín de exploración, los materiales de artesanía, las semillas, las herramientas y el equipo de movilidad para planificar mejor tus próximas mejoras."
-        }
-      ],
-      "highlights": [
-        "Entrar en una qualia",
-        "Almacenar materiales de forma segura",
-        "Expandir de la utilidad a la decoración",
-        "Usar el espacio de la base para apoyar la artesanía y el cultivo"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Regiones del mundo de Lucid Blocks",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks utiliza generación de mundo infinito, por lo que los jugadores siguen descubriendo nuevos entornos y estructuras. Algunos lugares con nombre ya aparecen en los logros y en las discusiones de la comunidad.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Área destacada por la comunidad",
-          "description": "Fog Meadow ya es conocida entre los jugadores como un área tensa asociada con amenazas ocultas y encuentros peligrosos."
-        },
-        {
-          "name": "Línea ley de Tiamana",
-          "type": "Punto de referencia de descubrimiento",
-          "description": "La línea ley de tiamana es lo suficientemente importante como para tener su propio hito de logro, lo que la convierte en uno de los descubrimientos mundiales con nombre más claros hasta ahora."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Espacio de construcción",
-          "description": "Los jugadores ya están usando Clonaqualia como un lugar para construir casas, almacenar materiales y experimentar con diseños más permanentes."
-        },
-        {
-          "name": "Ciénaga de Esencia",
-          "type": "Área de recolección",
-          "description": "La Ciénaga de Esencia está siendo compartida por los jugadores como una ubicación útil para recolectar recursos, especialmente para luchar contra slimes y ganar experiencia."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Criaturas y enemigos de Lucid Blocks",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mezcla criaturas surreales con peligros reales. Las descripciones oficiales y las publicaciones de la comunidad apuntan a un mundo lleno de vida extraña, amenazas hostiles y algunos encuentros destacados que los jugadores recuerdan rápidamente.",
-      "creatures": [
-        {
-          "name": "Maniquíes",
-          "role": "Enemigo hostil",
-          "description": "Los maniquíes son uno de los enemigos nombrados oficialmente en el mundo y parte del catálogo de amenazas surreales del juego."
-        },
-        {
-          "name": "Geles blandos",
-          "role": "Enemigo hostil",
-          "description": "Los geles blandos son otro tipo de enemigo nombrado oficialmente y ayudan a definir el extraño estilo biológico del juego."
-        },
-        {
-          "name": "Seres de dimensiones superiores",
-          "role": "Enemigo hostil",
-          "description": "Estos seres se presentan como parte del catálogo de enemigos más abstractos e inquietantes del mundo."
-        },
-        {
-          "name": "Arañas colosales",
-          "role": "Amenaza mayor",
-          "description": "Las arañas son uno de los enemigos más temidos de inmediato en las discusiones de la comunidad y son claramente un peligro memorable."
-        },
-        {
-          "name": "__PROTECTED_26ee183b__",
-          "role": "Criatura con nombre",
-          "description": "__PROTECTED_26ee183b__ es lo suficientemente notable como para tener su propio logro, lo que lo convierte en uno de los encuentros con criaturas nombradas más claros del juego."
-        },
-        {
-          "name": "Alimañas adorables",
-          "role": "Criatura interactuable",
-          "description": "Las alimañas no solo son parte de la progresión de fusión, también se les puede cambiar el nombre, dándoles un papel más personal que a los enemigos estándar."
-        },
-        {
-          "name": "Criatura blasfema",
-          "role": "Amenaza de élite",
-          "description": "La criatura blasfema está vinculada a un logro de combate dedicado, lo que la marca como un encuentro enemigo significativo."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Equipo de movilidad de Lucid Blocks",
-      "displayType": "itemCards",
-      "intro": "Las mejoras de movimiento son uno de los mayores saltos en la calidad de vida en Lucid Blocks. Una vez que desbloqueas tus primeras herramientas de travesía, la exploración se vuelve más rápida, segura y mucho más gratificante.",
-      "items": [
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "type": "Herramienta de travesía",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y tiene su propio logro dedicado."
-        },
-        {
-          "name": "Guante planeador",
-          "type": "Movilidad aérea",
-          "description": "El guante planeador permite un viaje mucho más fluido y es otro hito importante de progresión con su propio logro."
-        },
-        {
-          "name": "__PROTECTED_163b9bec__",
-          "type": "Herramienta de travesía",
-          "description": "Los planeadores abeja se destacan oficialmente como parte del conjunto de herramientas de movimiento del juego para cubrir terreno de manera más eficiente."
-        },
-        {
-          "name": "Varita de Bola",
-          "type": "Equipo de utilidad",
-          "description": "Las varitas de bola son una de las herramientas especiales destacadas oficialmente y expanden la forma en que te mueves o interactúas con el mundo."
-        },
-        {
-          "name": "Equipo de buceo",
-          "type": "Equipo de exploración",
-          "description": "El equipo de buceo figura oficialmente como parte del conjunto de utilidad principal para llegar a áreas que de otro modo serían más difíciles de explorar."
-        },
-        {
-          "name": "Explosivos",
-          "type": "Daño de utilidad",
-          "description": "Los explosivos están destacados oficialmente y vinculados a un hito de logro, lo que los hace parte de la progresión de utilidad principal del juego."
-        }
-      ],
-      "unlockMilestones": [
-        "Dominar un gancho",
-        "Volar con el guante planeador",
-        "Empuñar una varita de proyectiles",
-        "Empuñar un explosivo"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Cultivo y crecimiento en Lucid Blocks",
-      "displayType": "mixedCards",
-      "intro": "El crecimiento es parte de la progresión real en Lucid Blocks. El cultivo no se trata solo de plantar y cosechar, sino también de establecer rutas de materiales repetibles que mantengan el flujo de tus herramientas, armas y opciones de artesanía.",
-      "sections": [
-        {
-          "name": "Progresión de semillas",
-          "description": "Plantar y fertilizar semillas es un hito real en el juego, y cosechar una nuez completamente crecida es parte de la misma ruta de crecimiento."
-        },
-        {
-          "name": "Recolección de materiales",
-          "description": "Un ciclo práctico de recolección inicial es crear Cápsulas de Mercurio, que generan pequeños slimes que sueltan zarcillos y viscosidad para materiales de artesanía repetibles."
-        },
-        {
-          "name": "Sustento de herramientas",
-          "description": "La recolección de recursos se vuelve mucho más fuerte una vez que puedes reunir consistentemente Osmio, fragmentos de vidrio, plantas y materiales de slime para artesanías posteriores."
-        },
-        {
-          "name": "Rutina de base",
-          "description": "La mejor configuración de cultivo apoya más que solo la comida. Debería abastecer tu almacenamiento, herramientas de movimiento, mejoras de armas y futuros experimentos de fusión."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilizar una semilla",
-        "Cosechar una nuez completamente crecida",
-        "Crear ciclos de materiales repetibles",
-        "Convertir el cultivo en progresión a largo plazo"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Mejores desbloqueos iniciales de Lucid Blocks",
-      "displayType": "priorityCards",
-      "intro": "Los desbloqueos iniciales más fuertes son aquellos que mejoran la seguridad, el almacenamiento y el movimiento. En Lucid Blocks, unas pocas mejoras prácticas pueden hacer que el resto del juego sea mucho más fluido.",
-      "priorities": [
-        {
-          "name": "Qualia personal",
-          "priority": "Esencial",
-          "description": "Tan pronto como obtengas acceso a tu Qualia personal, tu partida se volverá mucho más estable. Actúa como un centro confiable para el almacenamiento, la construcción y el reagrupamiento."
-        },
-        {
-          "name": "Pico de Escarcha",
-          "priority": "Muy alta",
-          "description": "Una herramienta de minería inicial rápida y barata hecha de Osmio y Palo. Es una de las mejoras más útiles para acelerar la recolección inicial de recursos."
-        },
-        {
-          "name": "Cubo de Almacenamiento",
-          "priority": "Muy alta",
-          "description": "La presión del inventario comienza pronto, por lo que obtener tu primer contenedor confiable tipo cofre es una mejora importante de calidad de vida."
-        },
-        {
-          "name": "__PROTECTED_6a765cb2__",
-          "priority": "Alta",
-          "description": "El gancho es uno de los hitos de movimiento más claros del juego y rápidamente hace que la exploración sea más rápida y segura."
-        },
-        {
-          "name": "Guante planeador",
-          "priority": "Alta",
-          "description": "El guante planeador añade otro gran impulso a la movilidad y hace que el movimiento a larga distancia sea mucho más eficiente."
-        },
-        {
-          "name": "Varita de proyectiles o bombas",
-          "priority": "Alta",
-          "description": "Una herramienta a distancia o una opción explosiva te brinda una respuesta más segura ante enemigos peligrosos y encuentros tipo desafío."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Seguimiento de logros de Lucid Blocks",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks tiene actualmente 19 logros de Steam, y se dividen naturalmente en progresión de exploración, artesanía, movilidad, combate y crecimiento.",
-      "groups": [
-        {
-          "name": "Exploración",
-          "achievements": [
-            {
-              "title": "__PROTECTED_c973d4a3__ α",
-              "description": "Entrar en una qualia."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ γ",
-              "description": "Descubrir una línea ley de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ δ",
-              "description": "Superar un desafío de tiamana."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ ε",
-              "description": "Logro oculto."
-            }
-          ]
-        },
-        {
-          "name": "Artesanía e invocación",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fusionar un objeto."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fusionar una alimaña."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fusionar un artefacto divino."
-            },
-            {
-              "title": "Arcángel β",
-              "description": "Invoca tu fe."
-            }
-          ]
-        },
-        {
-          "name": "Movilidad y utilidad",
-          "achievements": [
-            {
-              "title": "Virtud α",
-              "description": "Volar con el guante planeador."
-            },
-            {
-              "title": "Virtud β",
-              "description": "Dominar un gancho."
-            },
-            {
-              "title": "Arcángel α",
-              "description": "Empuñar una varita de proyectiles."
-            },
-            {
-              "title": "Arcángel γ",
-              "description": "Empuñar un explosivo."
-            }
-          ]
-        },
-        {
-          "name": "Combate y criaturas",
-          "achievements": [
-            {
-              "title": "Masacre de __PROTECTED_26ee183b__",
-              "description": "Derrotar osos burbuja inocentes."
-            },
-            {
-              "title": "Arcángel δ",
-              "description": "Eliminar una criatura blasfema."
-            },
-            {
-              "title": "__PROTECTED_c973d4a3__ β",
-              "description": "Morir."
-            },
-            {
-              "title": "Dominio γ",
-              "description": "Cambiar el nombre a una alimaña adorable."
-            }
-          ]
-        },
-        {
-          "name": "Crecimiento y cultivo",
-          "achievements": [
-            {
-              "title": "Dominio α",
-              "description": "Fertilizar una semilla."
-            },
-            {
-              "title": "Dominio β",
-              "description": "Cosechar una nuez completamente crecida."
-            },
-            {
-              "title": "Dominio δ",
-              "description": "Logro oculto."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Preguntas frecuentes sobre un solo jugador y plataformas de Lucid Blocks",
-      "displayType": "accordion",
-      "intro": "Estas son las preguntas principales sobre plataformas y acceso que los jugadores suelen hacer antes de comprar Lucid Blocks.",
+    "exoriaPurityPathGuide": {
+      "title": "Guía de la Senda de Purity en Exoria",
+      "eyebrow": "Sistema de Build",
+      "intro": "La Senda de Purity es uno de los sistemas de progresión definitorios de Exoria. Tu alineación moral moldea tus habilidades, el acceso a misiones y cómo reaccionan partes del mundo a tu personaje.",
       "faqs": [
         {
-          "question": "¿Es Lucid Blocks para un solo jugador?",
-          "answer": "Sí. Lucid Blocks es un juego para un solo jugador."
+          "question": "¿Qué es la Senda de Purity en Exoria?",
+          "answer": "La Senda de Purity es el sistema de alineación moral de Exoria. Es una mecánica de progresión central que define el orden de desbloqueo de habilidades, el acceso a misiones y la respuesta del mundo del juego hacia tu personaje."
         },
         {
-          "question": "¿Está planeado el multijugador o cooperativo?",
-          "answer": "No. No se planea multijugador para el lanzamiento ni para futuras actualizaciones."
+          "question": "¿Cómo cambias tu Purity en Exoria?",
+          "answer": "Moldeas tu alineación realizando misiones de Purity, que pueden ser positivas o negativas. Tus elecciones mueven gradualmente a tu personaje hacia un camino más puro o más oscuro con el tiempo."
         },
         {
-          "question": "¿Dónde puedo jugar Lucid Blocks?",
-          "answer": "Actualmente está disponible en Steam para Windows."
+          "question": "¿Qué afecta la Purity en Exoria?",
+          "answer": "La Purity afecta la rapidez con la que se desbloquean las habilidades en el árbol de habilidades. Tanto las habilidades como las misiones están restringidas por tu progresión de alineación, lo que la convierte en una de las decisiones iniciales más impactantes."
         },
         {
-          "question": "¿Cuánto cuesta Lucid Blocks?",
-          "answer": "$9.99 en Steam."
-        },
-        {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 o 9.0.4 es la configuración recomendada habitualmente para Steam Deck."
-        },
-        {
-          "question": "¿Lucid Blocks funciona en Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
-        },
-        {
-          "question": "¿Habrá soporte para Mac o Android?",
-          "answer": "Es posible que sean compatibles en el futuro, pero no son plataformas de lanzamiento actuales."
-        },
-        {
-          "question": "¿Lucid Blocks tiene traducciones?",
-          "answer": "No. Actualmente no hay traducciones planeadas."
-        },
-        {
-          "question": "¿Lucid Blocks seguirá recibiendo actualizaciones?",
-          "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "question": "¿El mundo de Exoria reacciona a tu alineación?",
+          "answer": "Sí. Una Purity alta puede atraer a ciertos enemigos, y algunas áreas responden de manera diferente según tu alineación. El sistema plantea tu elección como purificar el mundo frente a abrazar un poder más oscuro."
         }
       ]
     },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks en Steam Deck y controles",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks puede ejecutarse en Steam Deck, pero la configuración predeterminada puede necesitar ajustes. El teclado y el mouse siguen siendo la opción más fluida para los menús y el juego en general.",
+    "exoriaClassesGuide": {
+      "title": "Guía de Clases de Exoria",
+      "eyebrow": "Rutas de Build",
+      "intro": "La elección de clase en Exoria define cómo luchas, qué habilidades priorizas y qué tan naturalmente se conecta tu build con la progresión de la Senda de Purity, el farmeo de jefes y las mejoras de formas avanzadas.",
+      "cards": [
+        {
+          "title": "Clase Espada",
+          "tag": "Cuerpo a cuerpo de vanguardia",
+          "description": "La Espada es el punto de entrada más sencillo para los jugadores que buscan combate cercano directo. La cobertura dedicada y una mejora de habilidades de espada la convierten en la clase más fuerte para destacar.",
+          "highlights": [
+            "Demostración dedicada de la Clase Espada en el canal oficial",
+            "El video de seguimiento de mejora de espada confirma la iteración activa",
+            "Página de destino ideal para combos, mejoras y builds listas para jefes"
+          ]
+        },
+        {
+          "title": "Clase Aria",
+          "tag": "Ruta basada en habilidades",
+          "description": "Aria es la otra ruta de clase principal visible en los medios oficiales. Tiene múltiples clips de habilidades nombradas, lo que da a los usuarios una razón clara para explorar una cobertura de clase más profunda.",
+          "highlights": [
+            "El canal oficial hace referencia directa a la Clase Aria",
+            "Los clips de Aria nombrados incluyen LightShot y Smash",
+            "Centro sólido para vistas previas de habilidades, orden de desbloqueo y conexiones de formas"
+          ]
+        },
+        {
+          "title": "Progresión de Clase a Forma",
+          "tag": "Identidad avanzada",
+          "description": "La discusión de clases en Exoria se extiende naturalmente a la progresión de formas. La Dark Aria Form y la Legendary Demon Form hacen que la identidad de clase en etapas avanzadas sea una intención de búsqueda real.",
+          "highlights": [
+            "Dark Aria Form ya está destacada en los shorts oficiales",
+            "Legendary Demon Form cuenta con una demostración oficial",
+            "Puente desde las páginas de clase hacia la progresión del juego tardío"
+          ]
+        },
+        {
+          "title": "Planificación de Clase vinculada a Purity",
+          "tag": "Sistema de progresión",
+          "description": "La Senda de Purity afecta la rapidez con la que se abren ciertas habilidades y misiones, por lo que la planificación de clase funciona mejor cuando se vincula a la planificación de alineación desde el principio.",
+          "highlights": [
+            "Las misiones de Purity positivas y negativas afectan la progresión",
+            "La alineación cambia el ritmo del árbol de habilidades",
+            "Se recomienda usar como sección de planificación de clase dentro de cada página de build principal"
+          ]
+        }
+      ]
+    },
+    "exoriaWeaponsGuide": {
+      "title": "Guía de Armas de Exoria",
+      "eyebrow": "Equipo de Combate",
+      "intro": "La intención de las armas en Exoria está estrechamente ligada a la identidad de clase, ataques nombrados, recompensas de jefes y progresión de cartas raras. Revisa la tabla para encontrar tu línea de combate y ver a dónde conduce.",
+      "tableHeaders": [
+        "Nombre",
+        "Tipo",
+        "Rol de Build",
+        "Detalles"
+      ],
+      "rows": [
+        {
+          "name": "Sword",
+          "type": "Ruta de arma",
+          "buildRole": "Ruta cuerpo a cuerpo directa",
+          "details": "Identidad base de espada, habilidades de espada mejoradas, clips de combos y progresión cuerpo a cuerpo ideal para jefes"
+        },
+        {
+          "name": "Aria",
+          "type": "Línea de combate vinculada a clase",
+          "buildRole": "Ruta enfocada en habilidades",
+          "details": "Resumen de la Clase Aria más ataques nombrados como LightShot, Smash y Ground Stab"
+        },
+        {
+          "name": "Abyss Sphere",
+          "type": "Habilidad nombrada",
+          "buildRole": "Ataque especial característico",
+          "details": "Página de habilidad con animación, caso de uso y ubicación dentro de una build de Aria o de senda oscura"
+        },
+        {
+          "name": "Nether Devourer",
+          "type": "Habilidad nombrada",
+          "buildRole": "Fantasía de poder de senda oscura",
+          "details": "Página de habilidad dedicada vinculada a la identidad de progresión oscura y metraje de demostración"
+        },
+        {
+          "name": "Ascension Breaker",
+          "type": "Habilidad nombrada",
+          "buildRole": "Rematador de ráfaga",
+          "details": "Movimiento de estilo rematador con ubicación de combo, demostración visual y notas de emparejamiento de build"
+        },
+        {
+          "name": "Phoenix Requiem",
+          "type": "Habilidad nombrada",
+          "buildRole": "Movimiento de demostración de alto impacto",
+          "details": "Página de movimiento independiente con vista previa de animación y enlaces de vuelta a su ruta de clase principal"
+        }
+      ]
+    },
+    "exoriaRacesGuide": {
+      "title": "Guía de Razas de Exoria",
+      "eyebrow": "Razas y Formas",
+      "intro": "La elección de raza en Exoria es parte de tu identidad de build a largo plazo. Los rerolls, el ajuste pasivo y la progresión de formas posteriores importan más cuando se eligen temprano en lugar de corregirse después.",
+      "cards": [
+        {
+          "title": "El Ajuste de Raza es lo Primero",
+          "tag": "Progresión Temprana",
+          "description": "Exoria vincula la planificación de razas directamente con el crecimiento del personaje a largo plazo. El enfoque más sólido es ayudar a los usuarios a decidir si su primera tirada respalda la build que quieren jugar.",
+          "highlights": [
+            "La elección de raza es parte de la optimización de la build desde el inicio",
+            "Los rerolls son valiosos porque el ajuste de raza afecta la sensación de progresión",
+            "Mejor estructura: conservar o reroll, emparejamiento de clase, ajuste pasivo"
+          ]
+        },
+        {
+          "title": "Rerolls y Corrección de Raza",
+          "tag": "Corrección de Build",
+          "description": "Los rerolls son una de las formas más rápidas en que los jugadores corrigen una mala configuración inicial, lo que hace que las páginas de razas tengan naturalmente una alta conversión cuando se combinan con códigos y consejos para principiantes.",
+          "highlights": [
+            "Las recompensas enfocadas en tiradas son fundamentales en las búsquedas de códigos de Exoria",
+            "Las páginas de razas funcionan mejor cuando enlazan directamente a recursos de reroll",
+            "Llamada destacada junto a los módulos de principiantes y clases"
+          ]
+        },
+        {
+          "title": "Transformación de Demonio",
+          "tag": "Camino de Forma",
+          "description": "Tratada oficialmente como un gancho de progresión importante. La Transformación de Demonio conecta identidad, visuales y progresión de poder en un solo clic como un destino sólido relacionado con las razas.",
+          "highlights": [
+            "El short oficial de la Transformación de Demonio ya está disponible en el canal",
+            "Ideal para usuarios de caminos oscuros que buscan una página de identidad sólida",
+            "Funciona bien como una página secundaria bajo razas y formas"
+          ]
+        },
+        {
+          "title": "Forma de Demonio Legendario",
+          "tag": "Forma Avanzada",
+          "description": "Una de las páginas de identidad de alto nivel más claras que Exoria puede mostrar. Visualmente impactante, comunica de inmediato que la planificación de razas lleva a algo significativo.",
+          "highlights": [
+            "Presentada oficialmente en el canal de Exoria",
+            "Buen destino para jugadores avanzados que buscan una progresión destacada",
+            "Combina bien con guías sobre condiciones de desbloqueo y elección de camino"
+          ]
+        },
+        {
+          "title": "Forma de Aria Oscura",
+          "tag": "Forma Especializada",
+          "description": "La Forma de Aria Oscura le da a la capa de razas y formas un segundo ancla sólida además de la progresión de demonio, creando un puente natural entre el contenido de razas y la ruta de clase Aria.",
+          "highlights": [
+            "El short oficial le da a esta forma una identidad propia y clara",
+            "Útil para usuarios que comparan direcciones de builds de luz y oscuridad",
+            "Es mejor enlazarla tanto desde las páginas de razas como desde las páginas de builds de Aria"
+          ]
+        }
+      ]
+    },
+    "exoriaSkillTreeGuide": {
+      "title": "Guía del Árbol de Habilidades de Exoria",
+      "eyebrow": "Progresión",
+      "intro": "El árbol de habilidades de Exoria se basa en la alineación moral. Entender el camino de Purity temprano desbloquea mejores rutas, desperdicia menos rerolls y te permite construir con más intención desde el principio.",
       "faqs": [
         {
-          "question": "¿Lucid Blocks funciona en Steam Deck?",
-          "answer": "Sí. Proton 9.0 funciona bien, y Proton 9.0.4 es una solución compartida habitualmente para problemas en Steam Deck."
+          "question": "¿Qué cambia realmente el ritmo de tu árbol de habilidades en Exoria?",
+          "answer": "Tu camino de Purity cambia la rapidez con la que se abren partes del árbol. Exoria utiliza misiones de Purity positivas y negativas, y tu dirección de alineación determina qué habilidades y líneas de misiones se desbloquean antes o después."
         },
         {
-          "question": "¿Qué debo hacer si los controles de Steam Deck no funcionan?",
-          "answer": "Fuerza la compatibilidad y cambia el juego a Proton 9.0.4. Es posible que la configuración predeterminada no acepte correctamente la entrada del control."
+          "question": "¿Por qué el camino de Purity de Exoria importa más que una cadena de misiones normal?",
+          "answer": "El camino de Purity no es solo texto de ambientación. Afecta directamente la progresión al controlar el tiempo de acceso a habilidades y misiones, por lo que dos jugadores con el mismo tiempo de juego pueden terminar en cronogramas de builds muy diferentes."
         },
         {
-          "question": "¿Lucid Blocks es compatible con controles?",
-          "answer": "Sí, pero no se recomienda jugar con control porque los menús del juego no están diseñados para ello."
+          "question": "¿Cómo debería un jugador nuevo de Exoria planificar el primer tramo del árbol de habilidades?",
+          "answer": "Elige primero una dirección de clase, luego compromete tus misiones iniciales en torno a la alineación que quieras impulsar. Esto mantiene tu ruta de clase, plan de raza y orden de desbloqueo de habilidades moviéndose en la misma dirección."
         },
         {
-          "question": "¿Es posible el soporte para Linux?",
-          "answer": "Sí. Se informa que Proton 9.0 funciona bien para Linux y Steam Deck."
+          "question": "¿Cómo cambia la alineación el mundo de Exoria en sí?",
+          "answer": "El mundo de Exoria reacciona a la Purity. Algunas áreas responden a tu alineación, y una Purity alta puede atraer enemigos, lo que convierte el sistema del árbol de habilidades también en un sistema de estado del mundo."
         },
         {
-          "question": "¿Cuál es la mejor configuración de entrada?",
-          "answer": "El teclado y el mouse son la opción más fluida para la navegación por los menús y el juego general momento a momento."
+          "question": "¿Cuáles son los mejores puntos de entrada al árbol de habilidades de Exoria para jugadores nuevos?",
+          "answer": "Comienza con lo básico del camino de Purity, luego elige entre rutas de misiones positivas y negativas. Prioriza los nodos de desbloqueo temprano y usa las páginas de clase, raza y forma para guiar tu siguiente paso sin adivinar."
         }
       ]
     },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Ajustes y accesibilidad de Lucid Blocks",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks ya cuenta con algunos ajustes prácticos y notas de compatibilidad que son importantes de inmediato cuando los jugadores inician el juego por primera vez.",
-      "settings": [
+    "exoriaBossesGuide": {
+      "eyebrow": "Progresión de Jefes",
+      "title": "Guía de Jefes de Exoria",
+      "subtitle": "Los jefes son un gancho de progresión central en Exoria, desde encuentros con nombre como Malphas hasta el farmeo de drops raros y habilidades que evolucionan en las mazmorras de jefes.",
+      "intro": "Exoria plantea la caza de jefes como parte del ciclo principal de subida de nivel junto con las misiones y la exploración. Los encuentros con jefes están vinculados a drops raros y habilidades evolutivas, lo que los convierte en algo más que simples peleas de una sola vez.",
+      "cards": [
         {
-          "name": "Ajustes de pantalla",
-          "type": "Opción de comodidad",
-          "description": "Los ajustes de pantalla incluyen una opción que permite a los jugadores ocultar las manos en pantalla."
+          "title": "Malphas",
+          "description": "El jefe con nombre más claro en el contenido actual de Exoria, Malphas ancla la experiencia inicial de jefes y sirve como el objetivo principal para las rutas de farmeo de drops raros."
         },
         {
-          "name": "Compatibilidad de gráficos",
-          "type": "Requisito del sistema",
-          "description": "Se requiere soporte de __PROTECTED_38625270__ para que los gráficos se rendericen correctamente. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados y errores gráficos graves."
+          "title": "Mazmorras de Jefes",
+          "description": "Cada jefe importante en Exoria está vinculado a una mazmorra con mecánicas únicas, por lo que entender a un jefe significa entender el contexto de la mazmorra que lo rodea."
         },
         {
-          "name": "Preferencia de entrada",
-          "type": "Configuración de control",
-          "description": "Existe soporte para controles, pero el teclado y el mouse brindan una experiencia más fluida porque los menús no están diseñados para el uso de controles."
+          "title": "Farmeo de Drops Raros",
+          "description": "Las incursiones contra jefes en Exoria son parte del ciclo de recompensas; las limpiezas repetidas se conectan con drops raros, secretos y habilidades evolutivas más allá de un simple punto de control de progresión."
         },
         {
-          "name": "Soporte de idiomas",
-          "type": "Localización",
-          "description": "La configuración actual es solo en inglés y no hay traducciones planeadas en este momento."
+          "title": "Rol en la Progresión",
+          "description": "Los jefes se sitúan junto a las misiones, builds y exploración como uno de los caminos de avance centrales de Exoria, permitiendo a los jugadores elegir cómo suben de nivel y crecen."
         }
       ]
     },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Actualizaciones y notas del parche de Lucid Blocks",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks ya está recibiendo correcciones rápidas post-lanzamiento y pequeñas actualizaciones de usabilidad.",
-      "entries": [
+    "exoriaDungeonsGuide": {
+      "eyebrow": "Incursiones en Mazmorras",
+      "title": "Guía de Mazmorras de Exoria",
+      "subtitle": "Las mazmorras en Exoria son espacios centrados en jefes con mecánicas únicas: el puente principal entre la maestría en combate, el farmeo de botín y la progresión basada en Purity.",
+      "intro": "Las mazmorras de Exoria no son salas genéricas para limpiar. Cada una conecta directamente con encuentros de jefes, botines raros y el sistema de progresión basado en Purity que moldea el crecimiento de tus habilidades.",
+      "cards": [
         {
-          "title": "Actualización 2.8.2",
-          "type": "Actualización de IU",
-          "description": "Se cambió el nombre de \"awaken\" (despertar) a \"exit\" (salir) en el menú principal."
+          "title": "Mecánicas de Mazmorra Únicas",
+          "description": "Cada mazmorra de Exoria está diseñada en torno a encuentros con jefes específicos con mecánicas distintivas, lo que las diferencia del contenido de combate genérico."
         },
         {
-          "title": "Pequeño parche para cierres al iniciar",
-          "type": "Hotfix",
-          "description": "Se lanzó un parche dedicado para los jugadores cuyo juego se cerraba inesperadamente al iniciar."
+          "title": "Parte del Ciclo de Nivelación",
+          "description": "Las incursiones en mazmorras se sitúan dentro del ciclo de crecimiento normal junto con la lucha, la exploración y las misiones, ofreciendo un camino estructurado para la progresión dedicada en Exoria."
         },
         {
-          "title": "Soporte de contenido post-lanzamiento",
-          "type": "Nota de hoja de ruta",
-          "description": "Se planean algunas actualizaciones de contenido después del lanzamiento, pero no pretenden continuar con un calendario regular indefinido."
+          "title": "Estructura de Recompensas",
+          "description": "Las mazmorras de Exoria vinculan el combate con botines raros, secretos y habilidades en evolución, haciendo que el valor de completarlas sea más que solo limpiar el contenido una vez."
+        },
+        {
+          "title": "Rutas Vinculadas a Purity",
+          "description": "Tu nivel de Purity afecta las rutas de las mazmorras y las reacciones de las áreas en Exoria, conectando las incursiones directamente con tus elecciones de alineación y la planificación de tu build."
         }
       ]
     },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Solución de cierres inesperados y solución de problemas de Lucid Blocks",
-      "displayType": "steps",
-      "intro": "La mayoría de los problemas inmediatos de inicio y cierres deben revisarse en un orden sencillo: nivel de parche, soporte de gráficos, compatibilidad de plataforma y registros.",
+    "exoriaQuestsGuide": {
+      "eyebrow": "Flujo de Misiones",
+      "title": "Guía de Misiones de Exoria",
+      "subtitle": "Las misiones en Exoria están vinculadas a la Senda de Purity, el tiempo de desbloqueo de habilidades y cómo reacciona el mundo a tus elecciones de alineación, haciendo que cada decisión de misión cuente.",
+      "intro": "El sistema de misiones de Exoria va más allá de las misiones estándar. Las misiones de Purity pueden ser positivas o negativas, y tus decisiones moldean cómo se abre tu árbol de habilidades y cómo responde el mundo ante ti.",
       "steps": [
         {
-          "title": "Instala el último hotfix para cierres inesperados",
-          "description": "Si el juego se cierra al iniciar, actualiza primero y prueba de nuevo con el parche más reciente para cierres al inicio."
+          "step": "01",
+          "title": "Usa las Misiones como Vía Principal de Progresión",
+          "description": "Las misiones están en el centro de la progresión temprana de Exoria junto con la lucha, la exploración y la caza de jefes, otorgando experiencia estructurada y recompensas desde el inicio."
         },
         {
-          "title": "Verifica el soporte de __PROTECTED_38625270__",
-          "description": "Lucid Blocks requiere soporte de __PROTECTED_38625270__. Los sistemas sin __PROTECTED_38625270__ pueden sufrir cierres inesperados o problemas graves de renderizado."
+          "step": "02",
+          "title": "Elige tus Misiones de Purity con Cuidado",
+          "description": "Las misiones de Purity en Exoria pueden ser positivas o negativas, y cada elección empuja tu alineación en una dirección que afecta las habilidades, las reacciones del mundo y la disponibilidad de futuras misiones."
         },
         {
-          "title": "Usa Proton 9.0.4 en Steam Deck",
-          "description": "Si la entrada o el comportamiento de inicio en Steam Deck fallan, fuerza la compatibilidad y cambia a Proton 9.0.4."
+          "step": "03",
+          "title": "Rastrea Cómo la Alineación Afecta las Habilidades",
+          "description": "Tu Senda de Purity cambia qué tan rápido se desbloquean ciertas habilidades en el árbol de habilidades de Exoria, haciendo que las elecciones de misiones tengan consecuencias mecánicas reales en el tiempo."
         },
         {
-          "title": "Recopila registros de cierres (logs)",
-          "description": "Abre Ejecutar de Windows, pega %APPDATA%, ve a lucid blocks/logs y reúne los archivos .txt para solucionar el problema."
+          "step": "04",
+          "title": "Atento a las Reacciones del Mundo",
+          "description": "Un nivel alto de Purity puede atraer enemigos y algunas áreas en Exoria responden a tu nivel de Purity, haciendo que las elecciones de misiones sean parte de la progresión constante del estado del mundo, no solo de las estadísticas del personaje."
+        }
+      ]
+    },
+    "exoriaCardsGuide": {
+      "eyebrow": "Builds de Cartas",
+      "title": "Guía de Cartas de Exoria",
+      "subtitle": "La colección de cartas es una parte central de la identidad de Exoria, situándose junto a los jefes, habilidades y secretos como parte de la fantasía de progresión principal.",
+      "intro": "Las cartas en Exoria son más que coleccionables. Se conectan con el crecimiento de habilidades, la caza de botines raros y los sistemas de progresión más amplios que moldean tu build y estilo de juego.",
+      "cards": [
+        {
+          "title": "Colección de Cartas Confirmada",
+          "description": "La colección de cartas es uno de los sistemas definitorios de Exoria, convirtiendo a las cartas en una parte central de la estructura del juego, no en una actividad secundaria."
         },
         {
-          "title": "Reporta el problema correctamente",
-          "description": "Comparte los registros y los detalles del dispositivo a través del foro oficial de reportes de errores en Discord o en la página de la comunidad de Steam."
+          "title": "Cartas y Desbloqueo de Habilidades",
+          "description": "Exoria combina la colección de cartas con el desbloqueo de habilidades y el descubrimiento de secretos, situando las cartas firmemente dentro del ciclo de progresión activa desde el inicio."
+        },
+        {
+          "title": "Farmeo de Cartas Raras",
+          "description": "Las tasas de aparición de cartas raras y las conexiones entre jefes y objetos hacen del farmeo una parte clave del sistema de cartas de Exoria, recompensando las incursiones repetidas con una progresión significativa."
+        },
+        {
+          "title": "Cartas en la Planificación de Builds",
+          "description": "La colección de cartas en Exoria se conecta naturalmente con las clases, razas y rutas de progresión, convirtiendo la página de cartas en un puente entre todos los sistemas principales de builds."
+        }
+      ]
+    },
+    "exoriaAccessoriesGuide": {
+      "eyebrow": "Capa de Build",
+      "title": "Accesorios y Extras de Build de Exoria",
+      "subtitle": "La capa de accesorios de Exoria es una mezcla de artefactos, formas, auras y ajustes de build apoyados por rerolls. Este módulo ayuda a los jugadores a entender qué buscar después de establecerse en una senda de clase principal.",
+      "intro": "Trata los accesorios como la capa que define la identidad después de que las elecciones de clase, raza y combate básico ya están establecidas.",
+      "tableHeaders": [
+        "Capa de Accesorio",
+        "Qué Rastrear",
+        "Valor para el Jugador",
+        "Mejor Caso de Uso"
+      ],
+      "items": [
+        {
+          "accessoryLayer": "Artefactos",
+          "whatToTrack": "El farmeo de artefactos es visible en la cobertura de video activa de Exoria, incluyendo sesiones dedicadas a artefactos y contenido de exhibición de clase más artefacto.",
+          "playerValue": "Los artefactos funcionan bien como una capa de búsqueda para jugadores que ya entienden su clase base y quieren objetivos de progresión más fuertes.",
+          "bestUseCase": "Prioriza las rutas de artefactos después de que tu clase principal y preferencia de arma estén definidas."
+        },
+        {
+          "accessoryLayer": "Formas y Auras",
+          "whatToTrack": "Los shorts oficiales de Hadez Studio muestran públicamente la Dark Aria Form y Aura, y la Legendary Demon Form.",
+          "playerValue": "Estos son los ejemplos más claros de la capa de personalización de build de Exoria más allá de la nivelación y las misiones normales.",
+          "bestUseCase": "Ideal para jugadores que quieren que su identidad de build final se sienta visual y mecánicamente distinta."
+        },
+        {
+          "accessoryLayer": "Sinergia de Raza",
+          "whatToTrack": "La cobertura actual de códigos de Exoria presenta repetidamente los rerolls como una forma de refinar la dirección de tu raza.",
+          "playerValue": "Los objetivos de accesorios se vuelven más significativos después de dejar de hacer rerolls y comprometerse con una identidad de raza.",
+          "bestUseCase": "Establece tu raza primero, luego busca accesorios o formas que refuercen esa identidad."
+        },
+        {
+          "accessoryLayer": "Sinergia de Habilidades",
+          "whatToTrack": "Las guías públicas de códigos también vinculan los rerolls a las habilidades, no solo a la elección de raza.",
+          "playerValue": "Los accesorios y las formas encajan en un ciclo de optimización más grande en lugar de estar aislados.",
+          "bestUseCase": "Finaliza tu senda de clase y dirección de habilidades antes de farmear intensamente mejoras de tipo accesorio."
+        }
+      ]
+    },
+    "exoriaEventsGuide": {
+      "eyebrow": "Operaciones en vivo",
+      "title": "Eventos de Exoria y recompensas por tiempo limitado",
+      "subtitle": "El ritmo de los eventos de Exoria es más fácil de seguir a través de los hitos de lanzamiento, ventanas de actualización, códigos y canales oficiales de anuncios.",
+      "intro": "Este módulo ofrece a los jugadores un mapa práctico de dónde suele aparecer primero la actividad en vivo en Exoria.",
+      "items": [
+        {
+          "name": "Ciclo de anuncios en Discord",
+          "summary": "El Discord oficial es el lugar más rápido para estar al tanto de nuevos lanzamientos, mensajes de los desarrolladores y cambios de horario en las actualizaciones y actividad en vivo.",
+          "rewardHook": "Ideal para enterarse de las últimas noticias antes de que las páginas de guías se actualicen por completo.",
+          "whereToCheck": "Invitación oficial de Discord"
+        },
+        {
+          "name": "Referencia de eventos en Trello",
+          "summary": "El Trello oficial de Exoria cubre eventos junto con clases, armas, razas, accesorios, mazmorras y jefes.",
+          "rewardHook": "Ideal para una lectura estructurada una vez que quieras entender cómo encaja el contenido de los eventos con el resto del juego.",
+          "whereToCheck": "Tablero oficial de Trello"
+        },
+        {
+          "name": "Recompensas por ventana de actualización",
+          "summary": "La cobertura pública de códigos de Exoria ha listado códigos activos como ASCENSION4K y LUCKOVERDRIVE vinculados a las ventanas de actualización.",
+          "rewardHook": "Estas ventanas de códigos son las recompensas temporales más fáciles de reclamar entre los lanzamientos de contenido más grandes.",
+          "whereToCheck": "Páginas de códigos actuales y redes sociales oficiales"
+        },
+        {
+          "name": "Eventos de hitos de lanzamiento",
+          "summary": "El ritmo de eventos de Exoria se basa en hitos: Acceso Anticipado, Free to Play y luego la Update 2.",
+          "rewardHook": "Estos momentos generan los mayores picos de retorno, ya que los jugadores vuelven para reinicios, nuevas misiones y nuevas rutas de clase.",
+          "whereToCheck": "Videos oficiales de lanzamiento en YouTube y la lista en vivo de Roblox"
+        }
+      ]
+    },
+    "exoriaUpdate2PatchNotes": {
+      "eyebrow": "Registro de actualizaciones",
+      "title": "Exoria Update 2: Cronología pública del parche",
+      "subtitle": "Este módulo cubre los detalles de la Update 2 visibles a través del título en vivo en Roblox, videos oficiales de lanzamiento y la cobertura de actualizaciones actual.",
+      "intro": "Exoria está etiquetado públicamente como una experiencia Free-to-Play que funciona con la Update 2, por lo que el mejor enfoque es una cronología breve y legible de lo que cambió y lo que los jugadores sintieron de inmediato.",
+      "items": [
+        {
+          "date": "7 de marzo de 2026",
+          "label": "Apertura del Acceso Anticipado",
+          "details": "El video oficial de lanzamiento de Exoria anunció el Acceso Anticipado para el 7 de marzo de 2026, tras ocho meses de desarrollo."
+        },
+        {
+          "date": "5 de abril de 2026",
+          "label": "Lanzamiento Free-to-Play",
+          "details": "Un video de lanzamiento oficial posterior anunció el lanzamiento general Free-to-Play para el 5 de abril de 2026."
+        },
+        {
+          "date": "Abril de 2026",
+          "label": "La Update 2 se lanza",
+          "details": "El título de la experiencia en vivo en Roblox ahora dice Exoria [FREE TO PLAY + Update 2], convirtiendo a la Update 2 en parte de la identidad pública principal del juego."
+        },
+        {
+          "date": "Abril de 2026",
+          "label": "Cambios para el jugador",
+          "details": "La cobertura de la actualización actual destaca 2 nuevas clases y más misiones como los cambios más visibles de la Update 2 para los jugadores activos."
+        }
+      ]
+    },
+    "exoriaReleaseDate": {
+      "eyebrow": "Información de lanzamiento",
+      "title": "Fecha de lanzamiento de Exoria",
+      "subtitle": "La historia del lanzamiento de Exoria se divide en una apertura de Acceso Anticipado y un lanzamiento general Free-to-Play. Este módulo ofrece a los usuarios las fechas exactas que suelen buscar primero.",
+      "intro": "Para la intención de búsqueda, lo que importa no es solo una fecha, sino la secuencia completa de lanzamiento. Exoria abrió mediante Acceso Anticipado, luego se expandió a Free-to-Play y ahora funciona con la Update 2 bajo Hadez Studio.",
+      "tableHeaders": [
+        "Hito",
+        "Fecha",
+        "Detalles"
+      ],
+      "items": [
+        {
+          "milestone": "Etapa de desarrollo",
+          "date": "Pre-lanzamiento",
+          "details": "Ambos videos oficiales de lanzamiento presentan a Exoria como el resultado de ocho meses de desarrollo antes de abrir el acceso."
+        },
+        {
+          "milestone": "Lanzamiento del Acceso Anticipado",
+          "date": "7 de marzo de 2026",
+          "details": "Esta fue la primera ventana de acceso público anunciada por los desarrolladores."
+        },
+        {
+          "milestone": "Lanzamiento Free-to-Play",
+          "date": "5 de abril de 2026",
+          "details": "Esto marcó la apertura pública más amplia más allá de la fase de acceso inicial."
+        },
+        {
+          "milestone": "Fase actual en vivo",
+          "date": "Abril de 2026",
+          "details": "La lista de Roblox presenta actualmente el juego como Exoria [FREE TO PLAY + Update 2] por @HADEZ_STUDIO."
         }
       ]
     }
@@ -756,177 +735,197 @@
   "faq": {
     "title": "Preguntas",
     "titleHighlight": "frecuentes",
-    "subtitle": "Todo lo que necesitas saber sobre Lucid Blocks",
+    "subtitle": "Todo lo que necesitas saber sobre Exoria",
     "questions": [
       {
-        "question": "¿Es Lucid Blocks un juego para un solo jugador?",
-        "answer": "Sí. Lucid Blocks es un juego exclusivamente para un solo jugador, sin planes para multijugador o cooperativo."
+        "question": "¿Qué es Exoria en Roblox?",
+        "answer": "Exoria es un RPG de anime oscuro en Roblox inspirado en Blue Exorcist. Desarrollado por HADEZ STUDIO, cuenta con combate basado en clases, progresión de razas, alineación de Purity, batallas contra jefes y exploración de mazmorras."
       },
       {
-        "question": "¿Qué es el sistema Apotheosis en Lucid Blocks?",
-        "answer": "Apotheosis es el sistema de creación por fusión de forma libre de Lucid Blocks. En lugar de seguir recetas fijas, combinas materiales y descubres tus propias rutas de creación."
+        "question": "¿Cómo obtengo recompensas gratuitas en Exoria?",
+        "answer": "Usa el menú de Códigos desde la pantalla de carga o el menú principal. Los códigos activos actualmente incluyen ASCENSION4K y LUCKOVERDRIVE para giros gratis, además de varios otros de la página oficial del juego."
       },
       {
-        "question": "¿Dónde puedo jugar Lucid Blocks?",
-        "answer": "Lucid Blocks está disponible actualmente en Steam para Windows. El soporte para Linux y Steam Deck está disponible a través de Proton 9.0."
+        "question": "¿Es Exoria gratuito?",
+        "answer": "Sí. Exoria es gratuito en Roblox. La Update 2 ya está disponible y el juego sigue recibiendo contenido nuevo de HADEZ STUDIO."
       },
       {
-        "question": "¿Cuánto cuesta Lucid Blocks?",
-        "answer": "Lucid Blocks cuesta $9.99 en Steam."
+        "question": "¿Qué es el Camino de Purity en Exoria?",
+        "answer": "El Camino de Purity es el sistema de alineación moral de Exoria. Tus elecciones entre misiones de Purity positivas y negativas afectan la velocidad de desbloqueo de habilidades, la disponibilidad de misiones y cómo reacciona el mundo ante tu personaje."
       },
       {
-        "question": "¿Lucid Blocks es compatible con controles?",
-        "answer": "Sí, pero no se recomienda jugar con control porque los menús no están diseñados para ello. El teclado y el mouse son la opción más fluida."
+        "question": "¿Dónde puedo encontrar el tablero de Trello de Exoria?",
+        "answer": "El tablero oficial de Trello de Exoria cubre clases, armas, razas, accesorios, mazmorras, eventos y jefes. Es la referencia más completa para los sistemas de progresión."
       },
       {
-        "question": "¿Recibirá actualizaciones Lucid Blocks?",
-        "answer": "Sí. Se planean algunas actualizaciones de contenido después del lanzamiento, pero no se pretende que continúen con un calendario regular indefinido."
+        "question": "¿Cuándo fue la última actualización de Exoria?",
+        "answer": "Exoria recibió la Update 2 en abril de 2026, agregando nuevo contenido y mejoras. El juego es desarrollado activamente por HADEZ STUDIO en Roblox."
       }
     ]
   },
   "cta": {
-    "title": "¿Listo para explorar Lucid Blocks?",
-    "description": "¡Únete a la comunidad de Lucid Blocks en Discord para ver guías, actualizaciones y discusiones!",
-    "joinCommunity": "Únete a Discord",
-    "joinGame": "Juega en Steam"
+    "title": "¿Listo para jugar Exoria?",
+    "description": "¡Sigue a Hadez Studio en X para obtener códigos, actualizaciones y noticias de la comunidad!",
+    "joinCommunity": "Seguir en X",
+    "joinGame": "Jugar en Roblox"
   },
   "footer": {
-    "title": "Wiki de Lucid Blocks",
-    "description": "Tu centro completo de recursos para la fabricación, biomas, criaturas, logros y guías de supervivencia de Lucid Blocks.",
+    "title": "Exoria Wiki",
+    "description": "Tu centro de recursos completo para códigos, clases, razas, jefes, mazmorras, misiones y guías de Purity de Exoria en Roblox.",
     "resources": "Recursos",
     "community": "Comunidad",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "YouTube",
     "twitter": "X / Twitter",
-    "steamCommunity": "Comunidad de Steam",
-    "steamStore": "Tienda de Steam",
+    "steamCommunity": "Comunidad de Roblox",
+    "steamStore": "Jugar en Roblox",
     "about": "Acerca de",
     "privacy": "Política de privacidad",
     "terms": "Términos de servicio",
-    "copyrightNotice": "Derechos de autor",
-    "copyright": "© 2026 Wiki de Lucid Blocks. No afiliada con los desarrolladores de Lucid Blocks.",
-    "disclaimer": "Sitio web de recursos no oficial creado por fans."
+    "copyrightNotice": "Copyright",
+    "copyright": "© 2026 Exoria Wiki. No afiliado con HADEZ_STUDIO ni Roblox.",
+    "disclaimer": "Sitio web de recursos no oficial hecho por fans."
   },
   "pages": {
-    "guides": {
-      "title": "Guías de Lucid Blocks",
-      "description": "Guías completas de juego, desde conceptos básicos para principiantes hasta estrategias avanzadas de Apotheosis. Domina la supervivencia y la fabricación.",
-      "metaTitle": "Guías de Lucid Blocks - Estrategias de principiante a avanzado",
-      "metaDescription": "Guías completas de Lucid Blocks que cubren consejos para principiantes, el sistema Apotheosis, estrategias de supervivencia y tácticas expertas para dominar este sandbox surrealista.",
-      "categoryLabel": "GUÍAS DEL JUEGO",
-      "whatIs": "¿Qué son las guías?",
-      "whatIsDescription": "Guías exhaustivas que cubren mecánicas de juego, estrategias de supervivencia y el sistema de fabricación Apotheosis. Aprende todo, desde los primeros pasos hasta técnicas avanzadas.",
-      "why": "¿Por qué leer las guías?",
+    "codes": {
+      "title": "Códigos de Exoria",
+      "description": "Los últimos códigos de canje de Exoria para gemas gratis, rerolls y stat chips. Actualizado regularmente con todos los códigos activos y expirados.",
+      "metaTitle": "Códigos de Exoria - Gemas gratis y rerolls (abril de 2026)",
+      "metaDescription": "Consigue gemas gratis, stat chips y rerolls con códigos activos de Exoria. Todos los códigos funcionales listados con una guía de canje paso a paso.",
+      "categoryLabel": "CANJEAR CÓDIGOS",
+      "whatIs": "¿Qué son los códigos de Exoria?",
+      "whatIsDescription": "Los códigos de Exoria son códigos de canje gratuitos lanzados por HADEZ_STUDIO que otorgan recompensas en el juego como gemas, stat chips y rerolls de raza. Canjéalos en el juego antes de que expiren para maximizar tu progreso.",
+      "why": "¿Por qué usar códigos de Exoria?",
       "whySteps": {
-        "step1Title": "Aprende las mecánicas principales",
-        "step1Description": "Entiende el sistema Apotheosis y evita errores comunes de principiante",
-        "step2Title": "Progresión rápida",
-        "step2Description": "Sigue caminos probados para sobrevivir y prosperar en este mundo surrealista",
-        "step3Title": "Domina las estrategias",
-        "step3Description": "Desarrolla tácticas avanzadas para la exploración y la fabricación"
+        "step1Title": "Consigue gemas gratis",
+        "step1Description": "Canjea códigos por gemas usadas en rerolls, mejoras y para desbloquear funciones del juego",
+        "step2Title": "Reroll de razas",
+        "step2Description": "Usa stat chips y tokens de reroll de los códigos para obtener mejores razas iniciales",
+        "step3Title": "Mantente a la vanguardia",
+        "step3Description": "Los códigos expiran rápido; guarda esta página en marcadores para no perderte ninguna recompensa gratuita"
       },
-      "featured": "Destacado y esencial",
+      "featured": "Destacados y esenciales",
+      "all": "Todos los códigos"
+    },
+    "guide": {
+      "title": "Guía de Exoria",
+      "description": "Guías de Exoria desde nivel principiante hasta avanzado que cubren subida de nivel, progreso de misiones, estrategia de reroll y mecánicas principales para todos los jugadores.",
+      "metaTitle": "Guía de Exoria - Consejos para principiantes y estrategias de nivelación",
+      "metaDescription": "Guía completa de Exoria que cubre consejos para principiantes, orden de misiones, rutas de nivelación y estrategias de reroll. Domina este RPG de anime oscuro más rápido.",
+      "categoryLabel": "GUÍAS DEL JUEGO",
+      "whatIs": "¿Qué son las guías de Exoria?",
+      "whatIsDescription": "Las guías de Exoria cubren todo, desde tus primeros pasos en el RPG de anime oscuro hasta cadenas de misiones avanzadas y rutas de nivelación eficientes. Ya seas nuevo o regreses tras una actualización, estas guías te mantendrán en el camino correcto.",
+      "why": "¿Por qué leer las guías de Exoria?",
+      "whySteps": {
+        "step1Title": "Evita la confusión",
+        "step1Description": "Aprende el orden de las misiones, ubicaciones de NPCs y condiciones de desbloqueo sin adivinanzas",
+        "step2Title": "Sube de nivel más rápido",
+        "step2Description": "Sigue rutas de nivelación optimizadas utilizadas por jugadores experimentados de Exoria",
+        "step3Title": "Domina los rerolls",
+        "step3Description": "Aprende cuándo y cómo hacer reroll de razas y estadísticas para obtener la mejor build a largo plazo"
+      },
+      "featured": "Destacados y esenciales",
       "all": "Todas las guías"
     },
-    "crafting": {
-      "title": "Fabricación en Lucid Blocks",
-      "description": "Domina el sistema de fusión Apotheosis con mecánicas de esencia, recetas y estrategias de fabricación para objetos poderosos.",
-      "metaTitle": "Fabricación en Lucid Blocks - Sistema Apotheosis y recetas",
-      "metaDescription": "Domina el sistema de fabricación Apotheosis de Lucid Blocks. Aprende mecánicas de esencia, recetas de fusión y estrategias para crear herramientas y armas poderosas.",
-      "categoryLabel": "SISTEMA DE FABRICACIÓN",
-      "whatIs": "¿Qué es la fabricación?",
-      "whatIsDescription": "El sistema Apotheosis es una mecánica de fusión única impulsada por esencias donde combinas hasta seis objetos para descubrir nuevas recetas. Sin menús de fabricación fijos: la experimentación es la clave.",
-      "why": "¿Por qué dominar la fabricación?",
+    "builds": {
+      "title": "Builds de Exoria",
+      "description": "Las mejores builds de clases y razas de Exoria para cada estilo de juego. Compara opciones de Espada, Magia e híbridas con calificaciones de tier y selecciones para principiantes.",
+      "metaTitle": "Builds de Exoria - Tier List de las mejores clases y razas",
+      "metaDescription": "Encuentra las mejores builds de Exoria, incluyendo clases top, elecciones de raza y rankings de tier. Optimizado tanto para principiantes como para jugadores experimentados.",
+      "categoryLabel": "BUILDS Y TIER LIST",
+      "whatIs": "¿Qué son las builds de Exoria?",
+      "whatIsDescription": "Las builds de Exoria combinan la selección de clase, bonificaciones de raza y asignación de estadísticas para crear configuraciones de personajes efectivas. Esta sección cubre las mejores selecciones, rankings de tier y comparaciones de razas para ayudarte a construir el personaje más fuerte.",
+      "why": "¿Por qué consultar las builds de Exoria?",
       "whySteps": {
-        "step1Title": "Desbloquea objetos poderosos",
-        "step1Description": "Descubre herramientas esenciales, armas y equipo de movilidad a través de la fusión",
-        "step2Title": "Entiende las esencias",
-        "step2Description": "Aprende cómo se combinan las esencias de los objetos para crear resultados predecibles",
-        "step3Title": "Optimiza recursos",
-        "step3Description": "Usa mecánicas de dilución para maximizar la producción con materiales baratos"
+        "step1Title": "Elige la mejor clase",
+        "step1Description": "Compara clases de Espada, Magia e híbridas para encontrar tu estilo de combate ideal",
+        "step2Title": "Elige la raza correcta",
+        "step2Description": "Las bonificaciones de raza afectan directamente tu daño, movilidad y valor de reroll",
+        "step3Title": "Rankings de Tier List",
+        "step3Description": "Mira qué builds dominan en PvE y cuáles son mejores para jugadores nuevos"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de fabricación"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las builds"
     },
-    "items": {
-      "title": "Objetos de Lucid Blocks",
-      "description": "Guías detalladas de objetos que cubren herramientas, armas, equipo de movilidad y soluciones de almacenamiento con recetas de fabricación y consejos de uso.",
-      "metaTitle": "Objetos de Lucid Blocks - Guía de herramientas, armas y equipo",
-      "metaDescription": "Base de datos completa de objetos para Lucid Blocks, incluyendo herramientas, armas, equipo de movilidad y almacenamiento. Aprende a fabricar y usar cada objeto de manera efectiva.",
-      "categoryLabel": "OBJETOS Y EQUIPAMIENTO",
-      "whatIs": "¿Qué son los objetos?",
-      "whatIsDescription": "Guías exhaustivas de herramientas, armas, equipo de movilidad y objetos funcionales. Aprende recetas de fabricación, estrategias de uso y combinaciones óptimas.",
-      "why": "¿Por qué consultar las guías de objetos?",
+    "pve": {
+      "title": "Exoria PvE",
+      "description": "Guías de jefes, mecánicas de combate, tablas de botín y estrategias recomendadas para todos los encuentros de PvE y batallas de jefes en Exoria.",
+      "metaTitle": "Exoria PvE - Guía de Jefes, Botín y Estrategias",
+      "metaDescription": "Guía completa de jefes de Exoria con mecánicas de combate, tablas de botín raro y niveles recomendados. Prepárate para cada encuentro PvE en Exoria.",
+      "categoryLabel": "CONTENIDO DE JEFES Y PVE",
+      "whatIs": "¿Qué es Exoria PvE?",
+      "whatIsDescription": "Exoria PvE abarca todos los encuentros con jefes, mecánicas de combate y estrategias de grupo en el juego. Desde jefes iniciales hasta enemigos de élite, estas guías detallan tablas de botín, patrones de ataque y enfoques óptimos para jugar en solitario o en grupo.",
+      "why": "¿Por qué leer las guías de Exoria PvE?",
       "whySteps": {
-        "step1Title": "Aprende recetas de fabricación",
-        "step1Description": "Descubre cómo fabricar herramientas y armas esenciales usando Apotheosis",
-        "step2Title": "Optimiza tu equipamiento",
-        "step2Description": "Elige los mejores objetos para tu estilo de juego y etapa de progresión",
-        "step3Title": "Mejora tu supervivencia",
-        "step3Description": "Equípate con equipo de movilidad y armas para navegar por este mundo peligroso"
+        "step1Title": "Conoce las Mecánicas de los Jefes",
+        "step1Description": "Entiende los patrones de ataque y las zonas de peligro antes de entrar en una pelea de jefe",
+        "step2Title": "Farmea Botín Raro",
+        "step2Description": "Aprende qué jefes sueltan el mejor equipo y cómo maximizar tu tasa de obtención",
+        "step3Title": "Solo o en Grupo",
+        "step3Description": "Obtén recomendaciones sobre cuándo jugar en solitario frente a agruparse para mayor eficiencia"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los objetos"
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las Guías PvE"
     },
-    "biomes": {
-      "title": "Biomas de Lucid Blocks",
-      "description": "Explora las regiones del mundo, características ambientales, ubicaciones de recursos y consejos de supervivencia para cada bioma.",
-      "metaTitle": "Biomas de Lucid Blocks - Regiones del mundo y exploración",
-      "metaDescription": "Explora los biomas de Lucid Blocks, incluyendo las Líneas Ley de Tiamana, Fog Meadow y regiones surrealistas. Encuentra recursos, evita peligros y navega por un mundo infinito.",
-      "categoryLabel": "REGIONES DEL MUNDO",
-      "whatIs": "¿Qué son los biomas?",
-      "whatIsDescription": "Guías de las diferentes regiones del mundo, características ambientales, distribución de recursos y zonas de peligro. Aprende qué esperar y cómo prepararte para cada área.",
-      "why": "¿Por qué explorar los biomas?",
+    "systems": {
+      "title": "Sistemas de Exoria",
+      "description": "Análisis profundos de los sistemas principales de Exoria, incluyendo accesorios, cartas, progresión del camino de Purity y mecánicas de estadísticas.",
+      "metaTitle": "Sistemas de Exoria - Accesorios, Cartas y Camino de Purity",
+      "metaDescription": "Entiende los sistemas de Exoria, incluyendo accesorios, mecánicas de cartas, progresión del camino de Purity y asignación de estadísticas para un crecimiento óptimo del personaje.",
+      "categoryLabel": "SISTEMAS DEL JUEGO",
+      "whatIs": "¿Qué son los Sistemas de Exoria?",
+      "whatIsDescription": "Los sistemas de Exoria incluyen la progresión del Camino de Purity, el equipamiento de accesorios, las mecánicas de cartas y los sistemas de estadísticas base. Comprender estos sistemas interconectados es clave para construir un personaje poderoso y progresar eficientemente.",
+      "why": "¿Por qué entender los sistemas de Exoria?",
       "whySteps": {
-        "step1Title": "Encuentra recursos",
-        "step1Description": "Localiza materiales raros y esencias específicas de cada región",
-        "step2Title": "Evita peligros",
-        "step2Description": "Entiende los riesgos ambientales y las criaturas hostiles",
-        "step3Title": "Planifica tu exploración",
-        "step3Description": "Prepara las herramientas y el equipo adecuados para cada tipo de bioma"
+        "step1Title": "Maestría del Camino de Purity",
+        "step1Description": "El Camino de Purity es el sistema de progresión único de Exoria — aprende cómo las elecciones de alineación afectan tu build",
+        "step2Title": "Sinergias de Accesorios y Cartas",
+        "step2Description": "Descubre combinaciones poderosas de accesorios y cartas que amplifican las habilidades de tu clase",
+        "step3Title": "Optimiza el Crecimiento de Estadísticas",
+        "step3Description": "Asigna las estadísticas correctamente desde el inicio del juego para evitar reinicios costosos más adelante"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los biomas"
+      "featured": "Destacados y Esenciales",
+      "all": "Todos los Sistemas"
     },
-    "building": {
-      "title": "Construcción en Lucid Blocks",
-      "description": "Domina las dimensiones personales Qualia, la construcción de bases, la gestión de almacenamiento y técnicas creativas de construcción.",
-      "metaTitle": "Construcción en Lucid Blocks - Qualia y construcción de bases",
-      "metaDescription": "Domina la construcción en Lucid Blocks con las dimensiones personales Qualia, construcción de bases, soluciones de almacenamiento y técnicas creativas de construcción.",
-      "categoryLabel": "CONSTRUCCIÓN Y BASES",
-      "whatIs": "¿Qué es la construcción?",
-      "whatIsDescription": "Guías sobre el sistema de dimensiones personales Qualia, construcción de bases, gestión de almacenamiento y construcción creativa. Aprende a crear tu refugio seguro en este mundo surrealista.",
-      "why": "¿Por qué construir bases?",
+    "weapons": {
+      "title": "Armas de Exoria",
+      "description": "Base de datos completa de armas de Exoria con estadísticas de daño, rutas de mejora y las mejores opciones de armas para cada clase y estilo de juego.",
+      "metaTitle": "Armas de Exoria - Mejores Armas y Guía de Mejoras",
+      "metaDescription": "Encuentra las mejores armas de Exoria para tu clase. Incluye estadísticas de daño, rutas de mejora y clasificaciones de armas para todos los estilos de juego.",
+      "categoryLabel": "ARMAS Y EQUIPO",
+      "whatIs": "¿Qué son las Armas de Exoria?",
+      "whatIsDescription": "Las armas de Exoria van desde el equipo inicial hasta poderosas opciones de juego final vinculadas a especializaciones de clase. Esta sección cubre estadísticas de armas, rutas de mejora y cómo elegir la mejor arma para tu build.",
+      "why": "¿Por qué consultar las guías de armas de Exoria?",
       "whySteps": {
-        "step1Title": "Crea espacios seguros",
-        "step1Description": "Establece bases seguras para el almacenamiento y las operaciones de fabricación",
-        "step2Title": "Gestiona tus recursos",
-        "step2Description": "Organiza tus materiales de manera eficiente con soluciones de almacenamiento",
-        "step3Title": "Desbloquea Qualia",
-        "step3Description": "Accede a dimensiones de bolsillo personales para la máxima comodidad"
+        "step1Title": "Encuentra tu Arma",
+        "step1Description": "Explora todas las armas disponibles filtradas por clase, tipo de daño y estilo de juego",
+        "step2Title": "Mejora Eficientemente",
+        "step2Description": "Aprende las rutas de mejora y los requisitos de materiales antes de invertir recursos",
+        "step3Title": "Compara Estadísticas",
+        "step3Description": "Las estadísticas comparativas facilitan la elección del arma más fuerte para tu build"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todas las guías de construcción"
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las Armas"
     },
-    "support": {
-      "title": "Soporte de Lucid Blocks",
-      "description": "Soporte técnico, compatibilidad de plataformas, optimización de rendimiento y solución de problemas comunes.",
-      "metaTitle": "Soporte de Lucid Blocks - Ayuda técnica y soluciones",
-      "metaDescription": "Obtén soporte técnico para Lucid Blocks, incluyendo la configuración de Steam Deck, soluciones a cierres inesperados, optimización de rendimiento y guías de compatibilidad de plataformas.",
-      "categoryLabel": "SOPORTE TÉCNICO",
-      "whatIs": "¿Qué es el soporte?",
-      "whatIsDescription": "Guías técnicas que cubren la compatibilidad de plataformas, optimización de rendimiento, soluciones a cierres inesperados y problemas comunes. Obtén ayuda con Steam Deck, preguntas sobre multijugador y ajustes.",
-      "why": "¿Por qué consultar el soporte?",
+    "updates": {
+      "title": "Actualizaciones de Exoria",
+      "description": "Notas del parche de Exoria, historial de versiones, anuncios de lanzamiento y adiciones de contenido de HADEZ_STUDIO.",
+      "metaTitle": "Actualizaciones de Exoria - Notas del Parche e Historial de Versiones",
+      "metaDescription": "Sigue todas las actualizaciones de Exoria, incluyendo notas del parche, nuevas adiciones de contenido, cambios de equilibrio e historial de lanzamientos de HADEZ_STUDIO.",
+      "categoryLabel": "NOTAS DEL PARCHE Y ACTUALIZACIONES",
+      "whatIs": "¿Qué son las Actualizaciones de Exoria?",
+      "whatIsDescription": "Las actualizaciones de Exoria son lanzamientos de versiones por HADEZ_STUDIO que añaden nuevo contenido, cambios de equilibrio y correcciones de errores. Esta sección rastrea todas las notas del parche e historial de versiones para que siempre sepas qué cambió y qué hay de nuevo.",
+      "why": "¿Por qué seguir las actualizaciones de Exoria?",
       "whySteps": {
-        "step1Title": "Soluciona problemas técnicos",
-        "step1Description": "Resuelve cierres inesperados, problemas de rendimiento y de compatibilidad",
-        "step2Title": "Optimiza el rendimiento",
-        "step2Description": "Configura los ajustes para obtener la mejor experiencia en tu plataforma",
-        "step3Title": "Compatibilidad de plataformas",
-        "step3Description": "Aprende sobre Steam Deck, soporte para controles y requisitos del sistema"
+        "step1Title": "Sabe qué Cambió",
+        "step1Description": "Los parches de equilibrio pueden cambiar qué clases y builds son más fuertes — mantente informado",
+        "step2Title": "Nuevo Contenido Primero",
+        "step2Description": "Prepárate para nuevos jefes, sistemas y áreas en el momento en que se lancen",
+        "step3Title": "Actualiza tu Estrategia",
+        "step3Description": "Las guías antiguas pueden ya no aplicar después de parches importantes — verifica tu enfoque"
       },
-      "featured": "Destacado y esencial",
-      "all": "Todos los artículos de soporte"
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las Actualizaciones"
     }
   }
 }

@@ -220,7 +220,7 @@ export default function PrivacyPolicy() {
             <h2>11. Disclaimer</h2>
             <p>
               Exoria Wiki is an unofficial fan-made website and is not affiliated with, endorsed by, or associated
-              with Valve Corporation (Roblox) or HADEZ_STUDIO or Roblox Corporation. All game content, trademarks, and assets are
+              with Roblox Corporation or HADEZ_STUDIO. All game content, trademarks, and assets are
               the property of their respective owners.
             </p>
 

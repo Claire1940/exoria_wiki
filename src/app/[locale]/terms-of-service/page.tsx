@@ -106,7 +106,7 @@ export default function TermsOfService() {
             </ul>
             <p>
               <strong>Important:</strong> Exoria Wiki is NOT affiliated with, endorsed by, or associated with
-              Valve Corporation (Roblox) or the official developers of Exoria. We are an independent fan community.
+              Roblox Corporation or the official developers of Exoria. We are an independent fan community.
             </p>
 
             <h2>3. User Responsibilities</h2>
@@ -144,7 +144,7 @@ export default function TermsOfService() {
             <h3>4.2 Game Content</h3>
             <p>
               All game-related content, including but not limited to character images, game screenshots, logos, and
-              trademarks, are the property of Valve Corporation (Roblox) and/or HADEZ_STUDIO or Roblox Corporation. We use such
+              trademarks, are the property of Roblox Corporation and/or HADEZ_STUDIO. We use such
               content under fair use principles for informational and educational purposes only.
             </p>
 
