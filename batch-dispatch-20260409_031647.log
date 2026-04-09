@@ -1,0 +1,307 @@
+🚀 批量串行派发 Claude Code 任务
+   任务文件: /root/.openclaw/skills/game-refactor/tasks/game-refactor-exoria-tasks.json
+   工作目录: /root/Documents/GameProjects/exoria_wiki
+   飞书通知: oc_89cad99bbc944d7f0bd7d39472b3f1dd
+   Tmux 会话: exoria_wiki
+   模式: 每任务重建会话 + Prompt 链式传递 + 执行结果传递
+
+📊 共 10 个任务
+
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 任务 [1/10]: game-refactor-part1-basic-config-exoria
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 Task metadata written: /root/clawd/data/claude-code-results/sessions/exoria_wiki/task-meta.json
+   Task ID: game-refactor-part1-basic-config-exoria_20260409_031647_2142141
+   Task: game-refactor-part1-basic-config-exoria
+   Target: oc_89cad99bbc944d7f0bd7d39472b3f1dd
+   Agent Teams: no
+🚀 Creating new Claude Code session: exoria_wiki
+   Task: game-refactor-part1-basic-config-exoria
+
+Set ANTHROPIC_MODEL=claude-sonnet-4-6
+Started interactive Claude Code in tmux.
+To monitor:
+  tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock attach -t exoria_wiki
+To snapshot output:
+  tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock capture-pane -p -J -t exoria_wiki:0.0 -S -200
+
+✅ Task sent to Claude Code session: exoria_wiki
+
+📺 To watch live:
+   tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock attach -t exoria_wiki
+
+📸 To snapshot output:
+   tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock capture-pane -p -J -t exoria_wiki:0.0 -S -200
+
+💡 Session: exoria_wiki (tasks in this session share context)
+
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b5245ede91c90c24622a47319d1c
+   Task ID: game-refactor-part1-basic-config-exoria_20260409_031647_2142141
+⏳ 等待任务完成: game-refactor-part1-basic-config-exoria_20260409_031647_2142141 (超时: 7200s)
+   监控文件: /root/clawd/data/claude-code-results/tasks/game-refactor-part1-basic-config-exoria_20260409_031647_2142141.json
+   仍在等待... (20s / 7200s)
+   仍在等待... (40s / 7200s)
+   仍在等待... (60s / 7200s)
+   仍在等待... (80s / 7200s)
+   仍在等待... (100s / 7200s)
+   仍在等待... (120s / 7200s)
+   仍在等待... (140s / 7200s)
+   仍在等待... (160s / 7200s)
+   仍在等待... (180s / 7200s)
+   仍在等待... (200s / 7200s)
+   仍在等待... (220s / 7200s)
+   仍在等待... (240s / 7200s)
+   仍在等待... (260s / 7200s)
+   仍在等待... (280s / 7200s)
+   仍在等待... (300s / 7200s)
+   仍在等待... (320s / 7200s)
+   仍在等待... (340s / 7200s)
+   仍在等待... (360s / 7200s)
+   仍在等待... (380s / 7200s)
+   仍在等待... (400s / 7200s)
+   仍在等待... (420s / 7200s)
+   仍在等待... (440s / 7200s)
+   仍在等待... (460s / 7200s)
+   仍在等待... (480s / 7200s)
+   仍在等待... (500s / 7200s)
+   仍在等待... (520s / 7200s)
+   仍在等待... (540s / 7200s)
+   仍在等待... (560s / 7200s)
+   仍在等待... (580s / 7200s)
+   仍在等待... (600s / 7200s)
+   仍在等待... (620s / 7200s)
+✅ 任务完成: game-refactor-part1-basic-config-exoria_20260409_031647_2142141 (耗时: 620s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 任务 [2/10]: game-refactor-part2-metadata-seo-exoria
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 传递上一步 prompt (3917 字符) + 执行结果
+📋 Task metadata written: /root/clawd/data/claude-code-results/sessions/exoria_wiki/task-meta.json
+   Task ID: game-refactor-part2-metadata-seo-exoria_20260409_032727_2150106
+   Task: game-refactor-part2-metadata-seo-exoria
+   Target: oc_89cad99bbc944d7f0bd7d39472b3f1dd
+   Agent Teams: no
+🚀 Creating new Claude Code session: exoria_wiki
+   Task: game-refactor-part2-metadata-seo-exoria
+
+Set ANTHROPIC_MODEL=claude-sonnet-4-6
+Started interactive Claude Code in tmux.
+To monitor:
+  tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock attach -t exoria_wiki
+To snapshot output:
+  tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock capture-pane -p -J -t exoria_wiki:0.0 -S -200
+
+✅ Task sent to Claude Code session: exoria_wiki
+
+📺 To watch live:
+   tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock attach -t exoria_wiki
+
+📸 To snapshot output:
+   tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock capture-pane -p -J -t exoria_wiki:0.0 -S -200
+
+💡 Session: exoria_wiki (tasks in this session share context)
+
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b52458519f828c2d9080c489490e
+   Task ID: game-refactor-part2-metadata-seo-exoria_20260409_032727_2150106
+⏳ 等待任务完成: game-refactor-part2-metadata-seo-exoria_20260409_032727_2150106 (超时: 7200s)
+   监控文件: /root/clawd/data/claude-code-results/tasks/game-refactor-part2-metadata-seo-exoria_20260409_032727_2150106.json
+   仍在等待... (20s / 7200s)
+   仍在等待... (40s / 7200s)
+   仍在等待... (60s / 7200s)
+   仍在等待... (80s / 7200s)
+   仍在等待... (100s / 7200s)
+   仍在等待... (120s / 7200s)
+   仍在等待... (140s / 7200s)
+   仍在等待... (160s / 7200s)
+   仍在等待... (180s / 7200s)
+   仍在等待... (200s / 7200s)
+   仍在等待... (220s / 7200s)
+   仍在等待... (240s / 7200s)
+   仍在等待... (260s / 7200s)
+   仍在等待... (280s / 7200s)
+   仍在等待... (300s / 7200s)
+   仍在等待... (320s / 7200s)
+   仍在等待... (340s / 7200s)
+   仍在等待... (360s / 7200s)
+   仍在等待... (380s / 7200s)
+   仍在等待... (400s / 7200s)
+   仍在等待... (420s / 7200s)
+   仍在等待... (440s / 7200s)
+   仍在等待... (460s / 7200s)
+   仍在等待... (480s / 7200s)
+   仍在等待... (500s / 7200s)
+   仍在等待... (520s / 7200s)
+   仍在等待... (540s / 7200s)
+   仍在等待... (560s / 7200s)
+   仍在等待... (580s / 7200s)
+   仍在等待... (600s / 7200s)
+   仍在等待... (620s / 7200s)
+   仍在等待... (640s / 7200s)
+   仍在等待... (660s / 7200s)
+   仍在等待... (680s / 7200s)
+   仍在等待... (700s / 7200s)
+   仍在等待... (720s / 7200s)
+   仍在等待... (740s / 7200s)
+✅ 任务完成: game-refactor-part2-metadata-seo-exoria_20260409_032727_2150106 (耗时: 740s)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📋 任务 [3/10]: game-refactor-part3-multilang-nav-exoria
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+📝 传递上一步 prompt (8845 字符) + 执行结果
+📋 Task metadata written: /root/clawd/data/claude-code-results/sessions/exoria_wiki/task-meta.json
+   Task ID: game-refactor-part3-multilang-nav-exoria_20260409_034018_2179829
+   Task: game-refactor-part3-multilang-nav-exoria
+   Target: oc_89cad99bbc944d7f0bd7d39472b3f1dd
+   Agent Teams: no
+🚀 Creating new Claude Code session: exoria_wiki
+   Task: game-refactor-part3-multilang-nav-exoria
+
+Set ANTHROPIC_MODEL=claude-sonnet-4-6
+Started interactive Claude Code in tmux.
+To monitor:
+  tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock attach -t exoria_wiki
+To snapshot output:
+  tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock capture-pane -p -J -t exoria_wiki:0.0 -S -200
+
+✅ Task sent to Claude Code session: exoria_wiki
+
+📺 To watch live:
+   tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock attach -t exoria_wiki
+
+📸 To snapshot output:
+   tmux -S /tmp/clawdbot-tmux-sockets/claude-code.sock capture-pane -p -J -t exoria_wiki:0.0 -S -200
+
+💡 Session: exoria_wiki (tasks in this session share context)
+
+│
+◇  Config warnings ────────────────────────────────────────────────────────╮
+│                                                                          │
+│  - plugins.entries.qqbot: plugin not found: qqbot (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.ddingtalk: plugin not found: ddingtalk (stale config  │
+│    entry ignored; remove it from plugins config)                         │
+│  - plugins.entries.wecom: plugin not found: wecom (stale config entry    │
+│    ignored; remove it from plugins config)                               │
+│  - plugins.entries.adp-openclaw: plugin not found: adp-openclaw (stale   │
+│    config entry ignored; remove it from plugins config)                  │
+│                                                                          │
+├──────────────────────────────────────────────────────────────────────────╯
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[info]: [ 'client ready' ]
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+[35m[plugins][39m [36mfeishu_doc: Registered feishu_doc, feishu_app_scopes[39m
+[35m[plugins][39m [36mfeishu_chat: Registered feishu_chat tool[39m
+[35m[plugins][39m [36mfeishu_wiki: Registered feishu_wiki tool[39m
+[35m[plugins][39m [36mfeishu_drive: Registered feishu_drive tool[39m
+[35m[plugins][39m [36mfeishu_bitable: Registered bitable tools[39m
+✅ Sent via Feishu. Message ID: om_x100b5245b2eea084c45949525f59cfd
+   Task ID: game-refactor-part3-multilang-nav-exoria_20260409_034018_2179829
+⏳ 等待任务完成: game-refactor-part3-multilang-nav-exoria_20260409_034018_2179829 (超时: 7200s)
+   监控文件: /root/clawd/data/claude-code-results/tasks/game-refactor-part3-multilang-nav-exoria_20260409_034018_2179829.json
+   仍在等待... (20s / 7200s)
+   仍在等待... (40s / 7200s)
+   仍在等待... (60s / 7200s)
+   仍在等待... (80s / 7200s)
+   仍在等待... (100s / 7200s)
+   仍在等待... (120s / 7200s)
+   仍在等待... (140s / 7200s)
+   仍在等待... (160s / 7200s)
+   仍在等待... (180s / 7200s)
+   仍在等待... (200s / 7200s)

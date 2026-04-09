@@ -10,14 +10,7 @@
       "twitterDescription": "Track Exoria codes, classes, races, bosses, dungeons, and purity progression with clear Roblox guides."
     }
   },
-  "nav": {
-    "guides": "Guides",
-    "crafting": "Crafting",
-    "items": "Items",
-    "biomes": "Biomes",
-    "building": "Building",
-    "support": "Support"
-  },
+  "nav": {},
   "common": {
     "home": "Home",
     "more": "More",
