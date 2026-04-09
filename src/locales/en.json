@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Exoria Wiki - Codes, Classes & Bosses",
+      "description": "Track Exoria codes, classes, races, bosses, dungeons, and purity progression with clear Roblox guides built for faster leveling, rerolls, and drops.",
+      "keywords": "Exoria, Roblox, Exoria codes, Exoria classes, Exoria bosses, Exoria quests, Exoria wiki",
+      "ogTitle": "Exoria Wiki - Codes, Classes & Bosses",
+      "ogDescription": "Track Exoria codes, classes, races, bosses, dungeons, and purity progression with clear Roblox guides built for faster leveling, rerolls, and drops.",
+      "twitterTitle": "Exoria Wiki - Codes, Classes & Bosses",
+      "twitterDescription": "Track Exoria codes, classes, races, bosses, dungeons, and purity progression with clear Roblox guides."
     }
   },
   "nav": {
@@ -33,27 +33,27 @@
     "readMore": "Read More"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Blue Exorcist Inspired Roblox RPG",
+    "title": "Exoria Wiki",
+    "description": "Explore Exoria with fast guides for codes, classes, races, bosses, dungeons, quests, and purity progression in one clean Roblox wiki hub.",
+    "getFreeCodesCTA": "Get Free Codes",
+    "playOnSteamCTA": "Play on Roblox",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "53.9K+",
+        "label": "Total Visits"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "6,325",
+        "label": "Favorites"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "264",
+        "label": "Active Players"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Apr 6, 2026",
+        "label": "Last Updated"
       }
     }
   },
@@ -784,26 +784,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Play Exoria?",
+    "description": "Follow Hadez Studio on X for codes, updates, and community news!",
+    "joinCommunity": "Follow on X",
+    "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Exoria Wiki",
+    "description": "Your complete resource hub for Exoria codes, classes, races, bosses, dungeons, quests, and purity guides on Roblox.",
     "resources": "Resources",
     "community": "Community",
     "legal": "Legal",
-    "discord": "Discord",
+    "discord": "YouTube",
     "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "steamCommunity": "Roblox Community",
+    "steamStore": "Play on Roblox",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Exoria Wiki. Not affiliated with HADEZ_STUDIO or Roblox.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
