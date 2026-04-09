@@ -298,7 +298,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               // 映射卡片索引到 section ID
               const sectionIds = [
                 'exoria-codes', 'exoria-trello-discord', 'exoria-beginner-guide', 'exoria-purity-path',
-                'exoria-classes-guide', 'exoria-weapons-guide', 'exoria-races-guide', 'exoria-skill-tree-guide'
+                'exoria-classes-guide', 'exoria-weapons-guide', 'exoria-races-guide', 'exoria-skill-tree-guide',
+                'exoria-bosses-guide', 'exoria-dungeons-guide', 'exoria-quests-guide', 'exoria-cards-guide'
               ]
               const sectionId = sectionIds[index]
 
@@ -741,6 +742,187 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                 {skillTreeExpanded === i && (
                   <div className="px-5 pb-5 text-muted-foreground text-sm">{faq.answer}</div>
                 )}
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 9: Exoria Bosses Guide */}
+      <section id="exoria-bosses-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaBossesGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaBossesGuide']} locale={locale}>
+                {t.modules.exoriaBossesGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaBossesGuide.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-2xl mx-auto mt-3">
+              {t.modules.exoriaBossesGuide.intro}
+            </p>
+          </div>
+
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+            {t.modules.exoriaBossesGuide.cards.map((card: any, i: number) => (
+              <div
+                key={i}
+                className="group p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+              >
+                <div className="w-10 h-10 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center mb-4 group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                  <span className="text-[hsl(var(--nav-theme-light))] text-lg font-bold">
+                    {String(i + 1).padStart(2, '0')}
+                  </span>
+                </div>
+                <h3 className="font-bold text-base mb-2 group-hover:text-[hsl(var(--nav-theme-light))] transition-colors">
+                  {card.title}
+                </h3>
+                <p className="text-muted-foreground text-sm leading-relaxed">{card.description}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 10: Exoria Dungeons Guide */}
+      <section id="exoria-dungeons-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaDungeonsGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaDungeonsGuide']} locale={locale}>
+                {t.modules.exoriaDungeonsGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaDungeonsGuide.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-2xl mx-auto mt-3">
+              {t.modules.exoriaDungeonsGuide.intro}
+            </p>
+          </div>
+
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-5">
+            {t.modules.exoriaDungeonsGuide.cards.map((card: any, i: number) => (
+              <div
+                key={i}
+                className="group flex gap-5 p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+              >
+                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                  <span className="text-[hsl(var(--nav-theme-light))] text-sm font-bold">
+                    {String(i + 1).padStart(2, '0')}
+                  </span>
+                </div>
+                <div>
+                  <h3 className="font-bold text-base mb-2 group-hover:text-[hsl(var(--nav-theme-light))] transition-colors">
+                    {card.title}
+                  </h3>
+                  <p className="text-muted-foreground text-sm leading-relaxed">{card.description}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 11: Exoria Quests Guide */}
+      <section id="exoria-quests-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaQuestsGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaQuestsGuide']} locale={locale}>
+                {t.modules.exoriaQuestsGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaQuestsGuide.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-2xl mx-auto mt-3">
+              {t.modules.exoriaQuestsGuide.intro}
+            </p>
+          </div>
+
+          {/* Desktop: connected horizontal steps */}
+          <div className="scroll-reveal hidden md:grid grid-cols-4 gap-0 relative">
+            {/* Connector line */}
+            <div className="absolute top-8 left-[12.5%] right-[12.5%] h-px bg-[hsl(var(--nav-theme)/0.3)] z-0" />
+            {t.modules.exoriaQuestsGuide.steps.map((step: any, i: number) => (
+              <div key={i} className="relative z-10 flex flex-col items-center text-center px-3">
+                <div className="w-16 h-16 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border-2 border-[hsl(var(--nav-theme)/0.4)] flex items-center justify-center mb-4">
+                  <span className="text-[hsl(var(--nav-theme-light))] text-lg font-bold">{step.step}</span>
+                </div>
+                <h3 className="font-bold text-sm mb-2">{step.title}</h3>
+                <p className="text-muted-foreground text-xs leading-relaxed">{step.description}</p>
+              </div>
+            ))}
+          </div>
+
+          {/* Mobile: stacked timeline */}
+          <div className="scroll-reveal md:hidden space-y-0">
+            {t.modules.exoriaQuestsGuide.steps.map((step: any, i: number) => (
+              <div key={i} className="relative flex gap-4 pb-6 last:pb-0">
+                {/* Timeline line */}
+                {i < t.modules.exoriaQuestsGuide.steps.length - 1 && (
+                  <div className="absolute left-6 top-14 bottom-0 w-px bg-[hsl(var(--nav-theme)/0.3)]" />
+                )}
+                <div className="flex-shrink-0 w-12 h-12 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border-2 border-[hsl(var(--nav-theme)/0.4)] flex items-center justify-center">
+                  <span className="text-[hsl(var(--nav-theme-light))] text-sm font-bold">{step.step}</span>
+                </div>
+                <div className="pt-2">
+                  <h3 className="font-bold text-base mb-1">{step.title}</h3>
+                  <p className="text-muted-foreground text-sm leading-relaxed">{step.description}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 12: Exoria Cards Guide */}
+      <section id="exoria-cards-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaCardsGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaCardsGuide']} locale={locale}>
+                {t.modules.exoriaCardsGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaCardsGuide.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-2xl mx-auto mt-3">
+              {t.modules.exoriaCardsGuide.intro}
+            </p>
+          </div>
+
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+            {t.modules.exoriaCardsGuide.cards.map((card: any, i: number) => (
+              <div
+                key={i}
+                className="group p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)] flex flex-col"
+              >
+                <div className="w-10 h-10 rounded-lg bg-[hsl(var(--nav-theme)/0.1)] flex items-center justify-center mb-4 group-hover:bg-[hsl(var(--nav-theme)/0.2)] transition-colors">
+                  <span className="text-[hsl(var(--nav-theme-light))] text-sm font-bold">
+                    {String(i + 1).padStart(2, '0')}
+                  </span>
+                </div>
+                <h3 className="font-bold text-base mb-2 group-hover:text-[hsl(var(--nav-theme-light))] transition-colors flex-grow-0">
+                  {card.title}
+                </h3>
+                <p className="text-muted-foreground text-sm leading-relaxed mt-auto">{card.description}</p>
               </div>
             ))}
           </div>

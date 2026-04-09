@@ -98,6 +98,26 @@
         "icon": "TrendingUp",
         "title": "Exoria Skill Tree Guide",
         "description": "Purity alignment, skill unlock order, and tree planning"
+      },
+      {
+        "icon": "Swords",
+        "title": "Exoria Bosses Guide",
+        "description": "Boss encounters, Malphas mechanics, dungeon context, and rare drop farming"
+      },
+      {
+        "icon": "Map",
+        "title": "Exoria Dungeons Guide",
+        "description": "Dungeon mechanics, leveling loop, reward structure, and purity-linked routing"
+      },
+      {
+        "icon": "Compass",
+        "title": "Exoria Quests Guide",
+        "description": "Purity quest flow, alignment choices, skill unlock timing, and world reactions"
+      },
+      {
+        "icon": "Layers",
+        "title": "Exoria Cards Guide",
+        "description": "Card collecting system, skill unlock links, rare drop farming, and build planning"
       }
     ]
   },
@@ -323,7 +343,12 @@
       "title": "Exoria Weapons Guide",
       "eyebrow": "Combat Gear",
       "intro": "Weapon intent in Exoria is closely tied to class identity, named attacks, boss rewards, and rare-card progression. Scan the table to find your combat line and see where it leads.",
-      "tableHeaders": ["Name", "Type", "Build Role", "Details"],
+      "tableHeaders": [
+        "Name",
+        "Type",
+        "Build Role",
+        "Details"
+      ],
       "rows": [
         {
           "name": "Sword",
@@ -444,6 +469,106 @@
         {
           "question": "What are the best Exoria skill tree entry points for new players?",
           "answer": "Start with Purity Path basics, then choose between positive and negative quest routes. Prioritize early unlock nodes and use class, race, and form pages to guide your next step without guessing."
+        }
+      ]
+    },
+    "exoriaBossesGuide": {
+      "eyebrow": "Boss Progression",
+      "title": "Exoria Bosses Guide",
+      "subtitle": "Bosses are a core progression hook in Exoria — from named encounters like Malphas to rare drop farming and evolving abilities across boss dungeons.",
+      "intro": "Exoria frames boss hunting as part of the main leveling loop alongside quests and exploration. Boss encounters tie to rare drops and evolving abilities, making them more than one-time fights.",
+      "cards": [
+        {
+          "title": "Malphas",
+          "description": "The clearest named boss in current Exoria content, Malphas anchors the early boss experience and serves as the prime target for rare drop farming runs."
+        },
+        {
+          "title": "Boss Dungeons",
+          "description": "Each major boss in Exoria is tied to a dungeon with unique mechanics, so understanding a boss means understanding the dungeon context around it."
+        },
+        {
+          "title": "Rare Drop Farming",
+          "description": "Boss runs in Exoria are part of the reward loop — repeated clears connect to rare drops, secrets, and evolving abilities beyond a single progression checkpoint."
+        },
+        {
+          "title": "Progression Role",
+          "description": "Bosses sit alongside quests, builds, and exploration as one of Exoria's core advancement paths, letting players choose how they level and grow."
+        }
+      ]
+    },
+    "exoriaDungeonsGuide": {
+      "eyebrow": "Dungeon Runs",
+      "title": "Exoria Dungeons Guide",
+      "subtitle": "Dungeons in Exoria are boss-focused spaces with unique mechanics — the main bridge between combat mastery, loot farming, and purity-based progression.",
+      "intro": "Exoria dungeons are not generic rooms to clear. Each connects directly to boss encounters, rare drops, and the purity-based progression system that shapes your skill growth.",
+      "cards": [
+        {
+          "title": "Unique Dungeon Mechanics",
+          "description": "Each Exoria dungeon is designed around specific boss encounters with distinctive mechanics, making them distinct from generic combat content."
+        },
+        {
+          "title": "Part of the Leveling Loop",
+          "description": "Dungeon runs sit inside the normal growth loop alongside fighting, exploring, and quests, offering a structured path for dedicated Exoria progression."
+        },
+        {
+          "title": "Reward Structure",
+          "description": "Exoria dungeons tie combat to rare drops, secrets, and evolving abilities — making completion value about more than just clearing content once."
+        },
+        {
+          "title": "Purity-Linked Routing",
+          "description": "Your purity level affects dungeon routing and area reactions in Exoria, connecting dungeon runs directly to your alignment choices and build planning."
+        }
+      ]
+    },
+    "exoriaQuestsGuide": {
+      "eyebrow": "Quest Flow",
+      "title": "Exoria Quests Guide",
+      "subtitle": "Quests in Exoria are tied to the Purity Path, skill unlock timing, and how the world reacts to your alignment choices — making every quest decision count.",
+      "intro": "Exoria's quest system goes beyond standard missions. Purity Quests can be positive or negative, and your decisions shape how your skill tree opens and how the world responds to you.",
+      "steps": [
+        {
+          "step": "01",
+          "title": "Use Quests as a Main Progression Lane",
+          "description": "Quests belong at the center of early Exoria progression alongside fighting, exploring, and boss hunting — giving structured experience and rewards from the start."
+        },
+        {
+          "step": "02",
+          "title": "Choose Your Purity Quests Carefully",
+          "description": "Purity Quests in Exoria can be positive or negative, and each choice pushes your alignment in a direction that affects skills, world reactions, and future quest availability."
+        },
+        {
+          "step": "03",
+          "title": "Track How Alignment Affects Skills",
+          "description": "Your Purity Path changes how quickly certain skills unlock in the Exoria skill tree, making quest choices carry real mechanical timing consequences."
+        },
+        {
+          "step": "04",
+          "title": "Watch for World Reactions",
+          "description": "High purity may attract enemies and some areas in Exoria respond to your purity level — making quest choices part of ongoing world-state progression, not just character stats."
+        }
+      ]
+    },
+    "exoriaCardsGuide": {
+      "eyebrow": "Card Builds",
+      "title": "Exoria Cards Guide",
+      "subtitle": "Card collecting is a core part of Exoria's identity — sitting alongside bosses, skills, and secrets as part of the main progression fantasy.",
+      "intro": "Cards in Exoria are more than collectibles. They connect to skill growth, rare-drop hunting, and the broader progression systems that shape your build and playstyle.",
+      "cards": [
+        {
+          "title": "Card Collecting Confirmed",
+          "description": "Card collecting is one of Exoria's defining systems, making cards a central part of what the game is built around — not a side activity."
+        },
+        {
+          "title": "Cards and Skill Unlocks",
+          "description": "Exoria pairs collecting cards with unlocking skills and discovering secrets, placing cards firmly inside the active progression loop from early play."
+        },
+        {
+          "title": "Rare Card Farming",
+          "description": "Rare card drop rates and boss-item connections make farming a key part of the Exoria card system, rewarding repeated runs with meaningful progression."
+        },
+        {
+          "title": "Cards in Build Planning",
+          "description": "Card collecting in Exoria connects naturally to classes, races, and progression routes — making the card page a bridge between all major build systems."
         }
       ]
     }
