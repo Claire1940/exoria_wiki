@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Руководства",
-    "crafting": "Крафт",
-    "items": "Предметы",
-    "biomes": "Биомы",
-    "building": "Строительство",
-    "support": "Поддержка"
+    "codes": "Коды",
+    "guide": "Гайд",
+    "builds": "Билды",
+    "pve": "PvE",
+    "systems": "Системы",
+    "weapons": "Оружие",
+    "updates": "Обновления"
   },
   "common": {
     "home": "Главная",

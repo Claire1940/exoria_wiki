@@ -10,7 +10,15 @@
       "twitterDescription": "Track Exoria codes, classes, races, bosses, dungeons, and purity progression with clear Roblox guides."
     }
   },
-  "nav": {},
+  "nav": {
+    "codes": "Codes",
+    "guide": "Guide",
+    "builds": "Builds",
+    "pve": "PvE",
+    "systems": "Systems",
+    "weapons": "Weapons",
+    "updates": "Updates"
+  },
   "common": {
     "home": "Home",
     "more": "More",
@@ -779,125 +787,145 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Exoria Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Purity Path strategies. Master survival and crafting.",
-      "metaTitle": "Exoria Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Exoria guides covering beginner tips, Purity Path system, survival strategies, and expert tactics for mastering the dark anime RPG.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Purity Path crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "codes": {
+      "title": "Exoria Codes",
+      "description": "Latest working Exoria redeem codes for free gems, rerolls, and stat chips. Updated regularly with all active and expired codes.",
+      "metaTitle": "Exoria Codes - Free Gems & Rerolls (April 2026)",
+      "metaDescription": "Get free gems, stat chips, and rerolls with active Exoria codes. All working codes listed with step-by-step redemption guide.",
+      "categoryLabel": "REDEEM CODES",
+      "whatIs": "What are Exoria Codes?",
+      "whatIsDescription": "Exoria codes are free redemption codes released by HADEZ_STUDIO that grant in-game rewards such as gems, stat chips, and race rerolls. Redeem them in-game before they expire to maximize your progression.",
+      "why": "Why use Exoria codes?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Purity Path system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the cursed world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Get Free Gems",
+        "step1Description": "Redeem codes for gems used in rerolls, upgrades, and unlocking game features",
+        "step2Title": "Reroll Races",
+        "step2Description": "Use stat chips and reroll tokens from codes to land better starting races",
+        "step3Title": "Stay Ahead",
+        "step3Description": "Codes expire fast — bookmark this page to never miss a free reward drop"
+      },
+      "featured": "Featured & Essential",
+      "all": "All Codes"
+    },
+    "guide": {
+      "title": "Exoria Guide",
+      "description": "Beginner to advanced Exoria guides covering leveling, quest progression, reroll strategy, and core mechanics for all players.",
+      "metaTitle": "Exoria Guide - Beginner Tips & Leveling Strategies",
+      "metaDescription": "Complete Exoria guide covering beginner tips, quest order, leveling paths, and reroll strategies. Master the dark anime RPG faster.",
+      "categoryLabel": "GAME GUIDES",
+      "whatIs": "What are Exoria Guides?",
+      "whatIsDescription": "Exoria guides cover everything from your first steps in the dark anime RPG to advanced quest chains and efficient leveling routes. Whether you are new or returning after an update, these guides keep you on track.",
+      "why": "Why read Exoria guides?",
+      "whySteps": {
+        "step1Title": "Skip the Confusion",
+        "step1Description": "Learn quest order, NPC locations, and unlock conditions without guessing",
+        "step2Title": "Level Faster",
+        "step2Description": "Follow optimized leveling paths used by experienced Exoria players",
+        "step3Title": "Master Rerolls",
+        "step3Description": "Know when and how to reroll races and stats for the best long-term build"
       },
       "featured": "Featured & Essential",
       "all": "All Guides"
     },
-    "crafting": {
-      "title": "Exoria Crafting",
-      "description": "Master the Purity Path fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Exoria Crafting - Purity Path System & Recipes",
-      "metaDescription": "Master Exoria Purity Path crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Purity Path system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "builds": {
+      "title": "Exoria Builds",
+      "description": "Best Exoria class and race builds for every playstyle. Compare Sword, Magic, and hybrid options with tier ratings and beginner picks.",
+      "metaTitle": "Exoria Builds - Best Class & Race Tier List",
+      "metaDescription": "Find the best Exoria builds including top classes, race choices, and tier rankings. Optimized for beginners and experienced players alike.",
+      "categoryLabel": "BUILDS & TIER LIST",
+      "whatIs": "What are Exoria Builds?",
+      "whatIsDescription": "Exoria builds combine class selection, race bonuses, and stat allocation to create effective character setups. This section covers best-in-class picks, tier rankings, and race comparisons to help you build the strongest character.",
+      "why": "Why check Exoria builds?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "Pick the Best Class",
+        "step1Description": "Compare Sword, Magic, and hybrid classes to find your ideal combat style",
+        "step2Title": "Choose the Right Race",
+        "step2Description": "Race bonuses directly affect your damage, mobility, and reroll value",
+        "step3Title": "Tier List Rankings",
+        "step3Description": "See which builds dominate PvE and which are best for new players"
       },
       "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "all": "All Builds"
     },
-    "items": {
-      "title": "Exoria Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Exoria Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Exoria including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "pve": {
+      "title": "Exoria PvE",
+      "description": "Boss guides, fight mechanics, drop tables, and recommended strategies for all Exoria PvE encounters and boss battles.",
+      "metaTitle": "Exoria PvE - Boss Guide, Drops & Strategies",
+      "metaDescription": "Complete Exoria boss guide with fight mechanics, rare drop tables, and recommended levels. Prepare for every PvE encounter in Exoria.",
+      "categoryLabel": "BOSS & PVE CONTENT",
+      "whatIs": "What is Exoria PvE?",
+      "whatIsDescription": "Exoria PvE covers all boss encounters, fight mechanics, and group strategies in the game. From early bosses to elite enemies, these guides detail drop tables, attack patterns, and optimal approaches for solo and party play.",
+      "why": "Why read Exoria PvE guides?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Purity Path",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Know Boss Mechanics",
+        "step1Description": "Understand attack patterns and danger zones before entering a boss fight",
+        "step2Title": "Farm Rare Drops",
+        "step2Description": "Learn which bosses drop the best gear and how to maximize your drop rate",
+        "step3Title": "Solo or Party",
+        "step3Description": "Get recommendations on when to solo versus grouping for efficiency"
       },
       "featured": "Featured & Essential",
-      "all": "All Items"
+      "all": "All PvE Guides"
     },
-    "biomes": {
-      "title": "Exoria Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Exoria Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Exoria biomes including Tiamana Leylines, Fog Meadow, and cursed regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "systems": {
+      "title": "Exoria Systems",
+      "description": "Deep dives into Exoria core systems including accessories, cards, purity path progression, and stat mechanics.",
+      "metaTitle": "Exoria Systems - Accessories, Cards & Purity Path",
+      "metaDescription": "Understand Exoria systems including accessories, card mechanics, purity path progression, and stat allocation for optimal character growth.",
+      "categoryLabel": "GAME SYSTEMS",
+      "whatIs": "What are Exoria Systems?",
+      "whatIsDescription": "Exoria systems include the Purity Path progression, accessory equipping, card mechanics, and core stat systems. Understanding these interconnected systems is key to building a powerful character and progressing efficiently.",
+      "why": "Why understand Exoria systems?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Purity Path Mastery",
+        "step1Description": "The Purity Path is Exoria's unique progression system — learn how alignment choices affect your build",
+        "step2Title": "Accessory & Card Synergies",
+        "step2Description": "Discover powerful accessory and card combinations that amplify your class abilities",
+        "step3Title": "Optimize Stat Growth",
+        "step3Description": "Allocate stats correctly from early game to avoid costly resets later"
       },
       "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "all": "All Systems"
     },
-    "building": {
-      "title": "Exoria Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Exoria Building - Qualia & Base Construction",
-      "metaDescription": "Master Exoria building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the Exoria world.",
-      "why": "Why build bases?",
+    "weapons": {
+      "title": "Exoria Weapons",
+      "description": "Complete Exoria weapon database with damage stats, upgrade paths, and the best weapon choices for each class and playstyle.",
+      "metaTitle": "Exoria Weapons - Best Weapons & Upgrade Guide",
+      "metaDescription": "Find the best Exoria weapons for your class. Includes damage stats, upgrade paths, and weapon tier rankings for all playstyles.",
+      "categoryLabel": "WEAPONS & GEAR",
+      "whatIs": "What are Exoria Weapons?",
+      "whatIsDescription": "Exoria weapons range from early starter gear to powerful endgame options tied to class specializations. This section covers weapon stats, upgrade paths, and how to choose the best weapon for your build.",
+      "why": "Why check Exoria weapon guides?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "Find Your Weapon",
+        "step1Description": "Browse all available weapons filtered by class, damage type, and playstyle",
+        "step2Title": "Upgrade Efficiently",
+        "step2Description": "Learn upgrade paths and material requirements before investing resources",
+        "step3Title": "Compare Stats",
+        "step3Description": "Side-by-side stats make it easy to pick the strongest weapon for your build"
       },
       "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "all": "All Weapons"
     },
-    "support": {
-      "title": "Exoria Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Exoria Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Exoria including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "updates": {
+      "title": "Exoria Updates",
+      "description": "Exoria patch notes, version history, release announcements, and content additions from HADEZ_STUDIO.",
+      "metaTitle": "Exoria Updates - Patch Notes & Version History",
+      "metaDescription": "Track all Exoria updates including patch notes, new content additions, balance changes, and release history from HADEZ_STUDIO.",
+      "categoryLabel": "PATCH NOTES & UPDATES",
+      "whatIs": "What are Exoria Updates?",
+      "whatIsDescription": "Exoria updates are version releases by HADEZ_STUDIO that add new content, balance changes, and bug fixes. This section tracks all patch notes and version history so you always know what changed and what is new.",
+      "why": "Why track Exoria updates?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Know What Changed",
+        "step1Description": "Balance patches can shift which classes and builds are strongest — stay informed",
+        "step2Title": "New Content First",
+        "step2Description": "Be ready for new bosses, systems, and areas the moment they drop",
+        "step3Title": "Update Your Strategy",
+        "step3Description": "Old guides may no longer apply after major patches — verify your approach"
       },
       "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "all": "All Updates"
     }
   }
 }

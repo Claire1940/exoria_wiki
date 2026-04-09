@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Guías",
-    "crafting": "Fabricación",
-    "items": "Objetos",
-    "biomes": "Biomas",
-    "building": "Construcción",
-    "support": "Soporte"
+    "codes": "Códigos",
+    "guide": "Guía",
+    "builds": "Builds",
+    "pve": "PvE",
+    "systems": "Sistemas",
+    "weapons": "Armas",
+    "updates": "Actualizaciones"
   },
   "common": {
     "home": "Inicio",

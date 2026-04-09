@@ -11,12 +11,13 @@
     }
   },
   "nav": {
-    "guides": "Rehberler",
-    "crafting": "Üretim",
-    "items": "Eşyalar",
-    "biomes": "Biyomlar",
-    "building": "İnşa",
-    "support": "Destek"
+    "codes": "Kodlar",
+    "guide": "Rehber",
+    "builds": "Yapılar",
+    "pve": "PvE",
+    "systems": "Sistemler",
+    "weapons": "Silahlar",
+    "updates": "Güncellemeler"
   },
   "common": {
     "home": "Ana Sayfa",
