@@ -13,47 +13,48 @@ interface ArticleWithType extends ContentItem {
 }
 
 // Module sub-field mapping: moduleKey -> { field, nameKey }
+// nameKey='' means skip sub-item matching (identifiers / editorial titles)
 const MODULE_FIELDS: Record<string, { field: string; nameKey: string }> = {
-  lucidBlocksBeginnerGuide: { field: 'steps', nameKey: 'title' },
-  lucidBlocksApotheosisCrafting: { field: 'cards', nameKey: 'name' },
-  lucidBlocksToolsAndWeapons: { field: 'items', nameKey: 'name' },
-  lucidBlocksStorageAndInventory: { field: 'solutions', nameKey: 'name' },
-  lucidBlocksQualiaAndBaseBuilding: { field: 'cards', nameKey: 'name' },
-  lucidBlocksWorldRegions: { field: 'regions', nameKey: 'name' },
-  lucidBlocksCreaturesAndEnemies: { field: 'creatures', nameKey: 'name' },
-  lucidBlocksMobilityGear: { field: 'items', nameKey: 'name' },
-  lucidBlocksFarmingAndGrowth: { field: 'sections', nameKey: 'name' },
-  lucidBlocksBestEarlyUnlocks: { field: 'priorities', nameKey: 'name' },
-  lucidBlocksAchievementTracker: { field: 'groups', nameKey: 'name' },
-  lucidBlocksSingleplayerAndPlatformFAQ: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSteamDeckAndController: { field: 'faqs', nameKey: 'question' },
-  lucidBlocksSettingsAndAccessibility: { field: 'settings', nameKey: 'name' },
-  lucidBlocksUpdatesAndPatchNotes: { field: 'entries', nameKey: 'title' },
-  lucidBlocksCrashFixAndTroubleshooting: { field: 'steps', nameKey: 'title' },
+  exoriaCodes: { field: 'codes', nameKey: '' }, // code identifiers, skip sub-items
+  exoriaTrelloAndDiscord: { field: 'cards', nameKey: 'title' },
+  exoriaBeginnerGuide: { field: 'steps', nameKey: 'title' },
+  exoriaPurityPathGuide: { field: 'faqs', nameKey: 'question' },
+  exoriaClassesGuide: { field: 'cards', nameKey: 'title' },
+  exoriaWeaponsGuide: { field: 'rows', nameKey: 'name' },
+  exoriaRacesGuide: { field: 'cards', nameKey: '' }, // editorial titles, skip sub-items
+  exoriaSkillTreeGuide: { field: 'faqs', nameKey: 'question' },
+  exoriaBossesGuide: { field: 'cards', nameKey: 'title' },
+  exoriaDungeonsGuide: { field: 'cards', nameKey: '' }, // editorial titles, skip sub-items
+  exoriaQuestsGuide: { field: 'steps', nameKey: '' }, // editorial titles, skip sub-items
+  exoriaCardsGuide: { field: 'cards', nameKey: '' }, // editorial titles, skip sub-items
+  exoriaAccessoriesGuide: { field: 'items', nameKey: 'accessoryLayer' },
+  exoriaEventsGuide: { field: 'items', nameKey: 'name' },
+  exoriaUpdate2PatchNotes: { field: 'items', nameKey: 'label' },
+  exoriaReleaseDate: { field: 'items', nameKey: '' }, // milestone identifiers, skip sub-items
 }
 
 // Extra semantic keywords per module to boost matching for h2 titles
 // These supplement the module title text when matching against articles
 const MODULE_EXTRA_KEYWORDS: Record<string, string[]> = {
-  lucidBlocksBeginnerGuide: ['guide', 'mastering', 'progression', 'crafting', 'starter'],
-  lucidBlocksApotheosisCrafting: ['apotheosis', 'fusion', 'essence'],
-  lucidBlocksToolsAndWeapons: ['crafting recipes', 'frost pick', 'osmium', 'azrael', 'faith wand'],
-  lucidBlocksStorageAndInventory: ['chest', 'cache cube', 'cabinet', 'storage'],
-  lucidBlocksQualiaAndBaseBuilding: ['qualia', 'clonaqualia', 'personal dimensions'],
-  lucidBlocksWorldRegions: ['tiamana', 'leyline', 'biomes', 'regions'],
-  lucidBlocksCreaturesAndEnemies: ['survival', 'combat', 'surreal creatures'],
-  lucidBlocksMobilityGear: ['bee glider', 'hookshot', 'glider', 'movement'],
-  lucidBlocksFarmingAndGrowth: ['seed', 'farming', 'growth', 'material', 'progression', 'crafting'],
-  lucidBlocksBestEarlyUnlocks: ['early', 'osmium', 'frost pick', 'starter', 'progression'],
-  lucidBlocksAchievementTracker: ['achievement', 'tiamana', 'leyline'],
-  lucidBlocksSingleplayerAndPlatformFAQ: ['multiplayer', 'platform', 'co op'],
-  lucidBlocksSteamDeckAndController: ['steam deck', 'controller', 'proton'],
-  lucidBlocksSettingsAndAccessibility: ['full screen', 'controls', 'display'],
-  lucidBlocksUpdatesAndPatchNotes: ['update', 'patch', 'fix'],
-  lucidBlocksCrashFixAndTroubleshooting: ['crash', 'vulkan', 'troubleshooting', 'full screen', 'controls', 'gameplay'],
+  exoriaCodes: ['codes', 'free rolls', 'redeem', 'rewards', 'loading screen'],
+  exoriaTrelloAndDiscord: ['trello', 'discord', 'official', 'community', 'announcements'],
+  exoriaBeginnerGuide: ['beginner', 'starter', 'guide', 'progression', 'basics', 'getting started'],
+  exoriaPurityPathGuide: ['purity', 'path', 'alignment', 'moral', 'quests', 'purity path'],
+  exoriaClassesGuide: ['classes', 'sword', 'frontline', 'builds', 'class guide'],
+  exoriaWeaponsGuide: ['weapons', 'sword', 'combat', 'melee', 'weapon guide'],
+  exoriaRacesGuide: ['races', 'race', 'character', 'reroll', 'best race'],
+  exoriaSkillTreeGuide: ['skill tree', 'skills', 'unlock', 'progression', 'skill'],
+  exoriaBossesGuide: ['bosses', 'malphas', 'farming', 'rare drops', 'boss guide'],
+  exoriaDungeonsGuide: ['dungeons', 'dungeon', 'mechanics', 'boss encounters'],
+  exoriaQuestsGuide: ['quests', 'quest', 'progression', 'grinding', 'quest guide'],
+  exoriaCardsGuide: ['cards', 'card', 'collecting', 'card system'],
+  exoriaAccessoriesGuide: ['accessories', 'artifacts', 'build', 'extras', 'accessory'],
+  exoriaEventsGuide: ['events', 'timed rewards', 'discord', 'live activity'],
+  exoriaUpdate2PatchNotes: ['update', 'patch', 'notes', 'changelog', 'early access'],
+  exoriaReleaseDate: ['release date', 'launch', 'early access', 'timeline', 'free to play'],
 }
 
-const FILLER_WORDS = ['lucid', 'blocks', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
+const FILLER_WORDS = ['exoria', 'roblox', '2026', '2025', 'complete', 'the', 'and', 'for', 'how', 'with', 'our', 'this', 'your', 'all', 'from', 'learn', 'master']
 
 function normalize(text: string): string {
   return text
