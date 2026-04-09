@@ -2,10 +2,10 @@
   "seo": {
     "home": {
       "title": "Exoria Roblox Wiki - Códigos, Clases y Jefes",
-      "description": "Sigue los códigos, clases, razas, jefes, mazmorras y el progreso de Purity en Exoria con guías claras de Roblox diseñadas para subir de nivel, rerolls y drops más rápido.",
-      "keywords": "Exoria, Roblox, códigos de Exoria, clases de Exoria, jefes de Exoria, misiones de Exoria, Exoria Wiki",
+      "description": "Sigue los códigos, clases, razas, jefes, mazmorras y el progreso de Purity en Exoria con guías claras de Roblox diseñadas para subir de nivel, rerolls y drops más rápidos.",
+      "keywords": "Exoria, Roblox, códigos de Exoria, clases de Exoria, jefes de Exoria, misiones de Exoria, Exoria wiki",
       "ogTitle": "Exoria Roblox Wiki - Códigos, Clases y Jefes",
-      "ogDescription": "Sigue los códigos, clases, razas, jefes, mazmorras y el progreso de Purity en Exoria con guías claras de Roblox diseñadas para subir de nivel, rerolls y drops más rápido.",
+      "ogDescription": "Sigue los códigos, clases, razas, jefes, mazmorras y el progreso de Purity en Exoria con guías claras de Roblox diseñadas para subir de nivel, rerolls y drops más rápidos.",
       "twitterTitle": "Exoria Roblox Wiki - Códigos, Clases y Jefes",
       "twitterDescription": "Sigue los códigos, clases, razas, jefes, mazmorras y el progreso de Purity en Exoria con guías claras de Roblox."
     }
@@ -36,7 +36,7 @@
   "hero": {
     "badge": "RPG de Roblox inspirado en Blue Exorcist",
     "title": "Exoria Roblox Wiki",
-    "description": "Explora Exoria con guías rápidas de códigos, clases, razas, jefes, mazmorras, misiones y progreso de Purity en un centro de Roblox Wiki organizado.",
+    "description": "Explora Exoria con guías rápidas de códigos, clases, razas, jefes, mazmorras, misiones y progreso de Purity en un centro de Roblox wiki impecable.",
     "getFreeCodesCTA": "Obtén códigos gratis",
     "playOnSteamCTA": "Jugar en Roblox",
     "stats": {
@@ -53,193 +53,193 @@
         "label": "Jugadores activos"
       },
       "stat4": {
-        "value": "6 de abr. de 2026",
+        "value": "Abr 6, 2026",
         "label": "Última actualización"
       }
     }
   },
   "gameFeature": {
-    "title": "Jugabilidad de Exoria",
-    "description": "Explora zonas malditas, domina tu clase y raza, sigue el camino de Purity y derrota jefes en este RPG de Roblox de anime oscuro inspirado en Blue Exorcist."
+    "title": "Jugabilidad de Exoria Roblox",
+    "description": "Explora zonas malditas, domina tu clase y raza, sigue el Camino de Purity y derrota jefes en este oscuro RPG de anime en Roblox inspirado en Blue Exorcist."
   },
   "tools": {
-    "title": "Exoria",
+    "title": "Exoria Roblox",
     "titleHighlight": "Wiki",
     "subtitle": "Tu guía completa de códigos, recursos, consejos para principiantes y progreso de Purity en Exoria",
     "cards": [
       {
         "icon": "Star",
-        "title": "Códigos de Exoria",
-        "description": "Todos los códigos activos y expirados, además de instrucciones de canje paso a paso"
+        "title": "Códigos de Exoria Roblox",
+        "description": "Todos los códigos activos y expirados, además de instrucciones paso a paso para canjearlos"
       },
       {
         "icon": "Users",
-        "title": "Exoria Trello y Discord",
+        "title": "Exoria Roblox Trello y Discord",
         "description": "Tablero oficial de Trello y Discord para referencia de sistemas y actualizaciones en vivo"
       },
       {
         "icon": "BookOpen",
-        "title": "Guía para principiantes de Exoria",
+        "title": "Guía para principiantes de Exoria Roblox",
         "description": "Ciclo principal, elecciones de Purity, rolls y prioridades de la primera sesión"
       },
       {
         "icon": "Sparkles",
-        "title": "Guía del camino de Purity en Exoria",
+        "title": "Guía del Camino de Purity en Exoria Roblox",
         "description": "Alineación moral, orden de desbloqueo de habilidades y reacciones del mundo explicadas"
       },
       {
         "icon": "Shield",
-        "title": "Guía de clases de Exoria",
+        "title": "Guía de clases de Exoria Roblox",
         "description": "Caminos de Sword y Aria explicados con progresión de clase a forma"
       },
       {
         "icon": "Hammer",
-        "title": "Guía de armas de Exoria",
+        "title": "Guía de armas de Exoria Roblox",
         "description": "Habilidades con nombre, tipos de ataque y comparación de líneas de combate"
       },
       {
         "icon": "Gamepad2",
-        "title": "Guía de razas de Exoria",
+        "title": "Guía de razas de Exoria Roblox",
         "description": "Selección de raza, estrategia de reroll y caminos de progresión de forma"
       },
       {
         "icon": "TrendingUp",
-        "title": "Guía del árbol de habilidades de Exoria",
+        "title": "Guía del árbol de habilidades de Exoria Roblox",
         "description": "Alineación de Purity, orden de desbloqueo de habilidades y planificación del árbol"
       },
       {
         "icon": "Swords",
-        "title": "Guía de jefes de Exoria",
+        "title": "Guía de jefes de Exoria Roblox",
         "description": "Encuentros con jefes, mecánicas de Malphas, contexto de mazmorras y farmeo de drops raros"
       },
       {
         "icon": "Map",
-        "title": "Guía de mazmorras de Exoria",
+        "title": "Guía de mazmorras de Exoria Roblox",
         "description": "Mecánicas de mazmorras, ciclo de nivelación, estructura de recompensas y rutas vinculadas a Purity"
       },
       {
         "icon": "Compass",
-        "title": "Guía de misiones de Exoria",
+        "title": "Guía de misiones de Exoria Roblox",
         "description": "Flujo de misiones de Purity, elecciones de alineación, tiempos de desbloqueo de habilidades y reacciones del mundo"
       },
       {
         "icon": "Layers",
-        "title": "Guía de cartas de Exoria",
+        "title": "Guía de cartas de Exoria Roblox",
         "description": "Sistema de recolección de cartas, enlaces de desbloqueo de habilidades, farmeo de drops raros y planificación de builds"
       },
       {
         "icon": "Gem",
-        "title": "Guía de accesorios de Exoria",
+        "title": "Guía de accesorios de Exoria Roblox",
         "description": "Artefactos, formas, auras y sinergia de razas explicados para el ajuste de builds post-clase"
       },
       {
         "icon": "Calendar",
-        "title": "Guía de eventos de Exoria",
+        "title": "Guía de eventos de Exoria Roblox",
         "description": "Drops de Discord, referencia de eventos en Trello, ventanas de actualización e hitos de lanzamiento"
       },
       {
         "icon": "ScrollText",
-        "title": "Notas del parche de la Actualización 2 de Exoria",
+        "title": "Notas del parche de la Actualización 2 de Exoria Roblox",
         "description": "Cronología completa de parches públicos desde el Acceso Anticipado hasta el Free-to-Play y la Actualización 2"
       },
       {
         "icon": "CalendarDays",
-        "title": "Fecha de lanzamiento de Exoria",
+        "title": "Fecha de lanzamiento de Exoria Roblox",
         "description": "Fechas exactas de lanzamiento del Acceso Anticipado y Free-to-Play con contexto de hitos"
       }
     ]
   },
   "modules": {
     "exoriaCodes": {
-      "title": "Códigos de Exoria",
+      "title": "Códigos de Exoria Roblox",
       "eyebrow": "Recompensas gratuitas",
-      "intro": "Los códigos son el impulso inicial más rápido en Exoria, otorgándote giros y recompensas gratis antes de que comiences tu viaje. Usa el botón de Códigos en la pantalla de carga para reclamar todos los códigos activos.",
+      "intro": "Los códigos son el impulso inicial más rápido en Exoria, otorgándote giros y recompensas gratuitas antes de que comiences tu viaje. Usa el botón de Códigos en la pantalla de carga para reclamar todos los códigos activos.",
       "activeBadge": "Activo",
       "expiredBadge": "Expirado",
       "codes": [
         {
           "code": "ASCENSION4K",
-          "reward": "Giros gratis",
-          "status": "activo"
+          "reward": "Giros gratuitos",
+          "status": "active"
         },
         {
           "code": "LUCKOVERDRIVE",
-          "reward": "Giros gratis",
-          "status": "activo"
+          "reward": "Giros gratuitos",
+          "status": "active"
         },
         {
           "code": "FREETOPLAY",
           "reward": "Recompensa gratuita",
-          "status": "activo"
+          "status": "active"
         },
         {
           "code": "UPDATE2",
           "reward": "Recompensa gratuita",
-          "status": "activo"
+          "status": "active"
         },
         {
           "code": "PATCH",
           "reward": "Recompensa gratuita",
-          "status": "activo"
+          "status": "active"
         },
         {
           "code": "CONSOLE",
           "reward": "Recompensa gratuita",
-          "status": "activo"
+          "status": "active"
         },
         {
           "code": "MOREROLLS",
           "reward": "Recompensa gratuita",
-          "status": "activo"
+          "status": "active"
         },
         {
           "code": "MORESOON",
           "reward": "Recompensa gratuita",
-          "status": "activo"
+          "status": "active"
         },
         {
           "code": "UPDATE1",
           "reward": "Recompensa",
-          "status": "expirado"
+          "status": "expired"
         },
         {
           "code": "ROLLUP",
           "reward": "Recompensa",
-          "status": "expirado"
+          "status": "expired"
         },
         {
           "code": "WELCOME",
           "reward": "Recompensa",
-          "status": "expirado"
+          "status": "expired"
         },
         {
           "code": "FREEROLLS",
           "reward": "Recompensa",
-          "status": "expirado"
+          "status": "expired"
         },
         {
           "code": "EXORCIST",
           "reward": "Recompensa",
-          "status": "expirado"
+          "status": "expired"
         }
       ],
       "redeemTitle": "Cómo canjear códigos de Exoria",
       "redeemSteps": [
         "Inicia Exoria en Roblox.",
         "Haz clic en Códigos en la página de carga o en el menú principal.",
-        "Pega un código válido en el cuadro de texto.",
+        "Pega un código funcional en el cuadro de texto.",
         "Presiona CLAIM CODE para recibir tu recompensa."
       ],
       "milestoneBadge": "El próximo código se lanzará a los 1,750 likes"
     },
     "exoriaTrelloAndDiscord": {
-      "title": "Trello y Discord de Exoria",
+      "title": "Trello y Discord de Exoria Roblox",
       "eyebrow": "Recursos oficiales",
       "intro": "Usa el tablero oficial de Trello para consultar los sistemas y Discord para anuncios en vivo y lanzamientos de códigos de HADEZ STUDIO.",
       "cards": [
         {
           "title": "Tablero oficial de Trello",
-          "description": "La referencia principal para clases, armas, razas, accesorios, mazmorras, eventos y jefes. Úsalo para el Camino de Purity e información sobre drops raros.",
+          "description": "La referencia principal para clases, armas, razas, accesorios, mazmorras, eventos y jefes. Úsalo para el Purity Path e información sobre drops raros.",
           "href": "https://trello.com/b/KlMVXIcV/exoria",
           "tag": "Sistemas"
         },
@@ -250,7 +250,7 @@
           "tag": "Referencia"
         },
         {
-          "title": "Discord oficial",
+          "title": "Official Discord",
           "description": "El centro principal para hitos de desarrollo en vivo, lanzamientos de códigos y discusiones de la comunidad con el equipo de HADEZ STUDIO.",
           "href": "https://discord.com/invite/9cc94Qz",
           "tag": "Comunidad"
@@ -264,24 +264,24 @@
       ]
     },
     "exoriaBeginnerGuide": {
-      "title": "Guía para principiantes de Exoria",
+      "title": "Guía de Exoria Roblox para principiantes",
       "eyebrow": "Primeros pasos",
-      "intro": "Exoria es un RPG de anime de mundo abierto donde creces jugando. Concéntrate primero en los códigos, luego sigue el ciclo principal de lucha, exploración, misiones y caza de jefes para subir de nivel rápido.",
+      "intro": "Exoria es un RPG de anime de mundo abierto donde progresas jugando. Enfócate primero en los códigos, luego sigue el ciclo principal de lucha, exploración, misiones y caza de jefes para subir de nivel rápido.",
       "steps": [
         {
           "title": "Reclama tus códigos antes de entrar al mundo",
-          "description": "Usa primero el botón de Codes en la pantalla de carga. Los códigos son la fuente más rápida de tiros gratuitos, relanzamientos y recompensas iniciales en Exoria."
+          "description": "Usa primero el botón de Códigos en la pantalla de carga. Los códigos son la fuente más rápida de tiradas gratuitas, relanzamientos y recompensas iniciales en Exoria."
         },
         {
           "title": "Sigue el ciclo principal en lugar de deambular sin rumbo",
           "description": "Sube de nivel simplemente jugando: lucha contra enemigos, explora zonas malditas, haz misiones o caza jefes. Ese es el orden de prioridad más claro para tu primera sesión."
         },
         {
-          "title": "Trata la Purity como una elección de build temprana",
+          "title": "Considera la Purity como una elección de build temprana",
           "description": "La progresión de Exoria está ligada a la Purity. Tu alineación cambia el ritmo de tu build y el orden de acceso a las habilidades desde el principio."
         },
         {
-          "title": "Usa los tiros y relanzamientos con un propósito",
+          "title": "Usa las tiradas y relanzamientos con un propósito",
           "description": "Los códigos de Exoria ayudan a perfeccionar la raza y habilidades de tu personaje mediante relanzamientos. Usa las recompensas de códigos gratuitos de inmediato en lugar de guardarlas para después."
         },
         {
@@ -290,141 +290,141 @@
         }
       ],
       "quickTips": [
-        "Siempre reclama los códigos primero: otorgan tiros gratuitos antes de que entres al mundo",
+        "Siempre reclama los códigos primero: otorgan tiradas gratuitas incluso antes de entrar al mundo",
         "La alineación de Purity afecta el orden de desbloqueo de habilidades y la disponibilidad de misiones desde el inicio",
-        "Relanzar la raza es más valioso en el juego temprano antes de comprometerse con una build",
-        "Los drops de jefes y las cartas raras se detallan en el tablero oficial de Trello",
+        "El relanzamiento de raza es más valioso al principio del juego antes de comprometerse con una build",
+        "Los botines de jefes y las cartas raras se detallan en el tablero oficial de Trello",
         "Discord es el canal más rápido para nuevos lanzamientos de códigos y anuncios de parches"
       ]
     },
     "exoriaPurityPathGuide": {
-      "title": "Guía de la Senda de Purity en Exoria",
-      "eyebrow": "Sistema de Build",
-      "intro": "La Senda de Purity es uno de los sistemas de progresión definitorios de Exoria. Tu alineación moral moldea tus habilidades, el acceso a misiones y cómo reaccionan partes del mundo a tu personaje.",
+      "title": "Guía del Camino de Purity en Exoria Roblox",
+      "eyebrow": "Sistema de Builds",
+      "intro": "El Camino de Purity es uno de los sistemas de progresión que definen a Exoria. Tu alineación moral moldea tus habilidades, el acceso a misiones y cómo partes del mundo reaccionan a tu personaje.",
       "faqs": [
         {
-          "question": "¿Qué es la Senda de Purity en Exoria?",
-          "answer": "La Senda de Purity es el sistema de alineación moral de Exoria. Es una mecánica de progresión central que define el orden de desbloqueo de habilidades, el acceso a misiones y la respuesta del mundo del juego hacia tu personaje."
+          "question": "¿Qué es el Camino de Purity en Exoria?",
+          "answer": "El Camino de Purity es el sistema de alineación moral de Exoria. Es una mecánica de progresión central que define el orden de desbloqueo de habilidades, el acceso a misiones y cómo responde el mundo del juego a tu personaje."
         },
         {
           "question": "¿Cómo cambias tu Purity en Exoria?",
-          "answer": "Moldeas tu alineación realizando misiones de Purity, que pueden ser positivas o negativas. Tus elecciones mueven gradualmente a tu personaje hacia un camino más puro o más oscuro con el tiempo."
+          "answer": "Moldeas tu alineación realizando Misiones de Purity, que pueden ser positivas o negativas. Tus elecciones mueven gradualmente a tu personaje hacia un camino más limpio o más oscuro con el tiempo."
         },
         {
           "question": "¿Qué afecta la Purity en Exoria?",
-          "answer": "La Purity afecta la rapidez con la que se desbloquean las habilidades en el árbol de habilidades. Tanto las habilidades como las misiones están restringidas por tu progresión de alineación, lo que la convierte en una de las decisiones iniciales más impactantes."
+          "answer": "La Purity afecta qué tan rápido se desbloquean las habilidades en el árbol de habilidades. Tanto las habilidades como las misiones están limitadas por tu progresión de alineación, lo que la convierte en una de las decisiones iniciales más impactantes."
         },
         {
-          "question": "¿El mundo de Exoria reacciona a tu alineación?",
-          "answer": "Sí. Una Purity alta puede atraer a ciertos enemigos, y algunas áreas responden de manera diferente según tu alineación. El sistema plantea tu elección como purificar el mundo frente a abrazar un poder más oscuro."
+          "question": "¿Reacciona el mundo de Exoria a tu alineación?",
+          "answer": "Sí. Una Purity alta puede atraer a ciertos enemigos, y algunas áreas responden de manera diferente según tu alineación. El sistema plantea tu elección como purificar el mundo frente a aceptar un poder más oscuro."
         }
       ]
     },
     "exoriaClassesGuide": {
-      "title": "Guía de Clases de Exoria",
-      "eyebrow": "Rutas de Build",
-      "intro": "La elección de clase en Exoria define cómo luchas, qué habilidades priorizas y qué tan naturalmente se conecta tu build con la progresión de la Senda de Purity, el farmeo de jefes y las mejoras de formas avanzadas.",
+      "title": "Guía de Clases de Exoria Roblox",
+      "eyebrow": "Rutas de Builds",
+      "intro": "La elección de clase en Exoria define cómo luchas, qué habilidades priorizas y qué tan naturalmente se conecta tu build con la progresión del Camino de Purity, el farmeo de jefes y las mejoras de formas posteriores.",
       "cards": [
         {
-          "title": "Clase Espada",
+          "title": "Clase de Espada",
           "tag": "Cuerpo a cuerpo de vanguardia",
-          "description": "La Espada es el punto de entrada más sencillo para los jugadores que buscan combate cercano directo. La cobertura dedicada y una mejora de habilidades de espada la convierten en la clase más fuerte para destacar.",
+          "description": "La espada es el punto de entrada más claro para los jugadores que buscan combate directo a corta distancia. La cobertura dedicada en demostraciones y una mejora de habilidades de espada la convierten en la clase más fuerte para destacar al principio.",
           "highlights": [
-            "Demostración dedicada de la Clase Espada en el canal oficial",
-            "El video de seguimiento de mejora de espada confirma la iteración activa",
+            "Demostración dedicada de la Clase de Espada en el canal oficial",
+            "El video de seguimiento de la mejora de espada confirma una iteración activa",
             "Página de destino ideal para combos, mejoras y builds listas para jefes"
           ]
         },
         {
           "title": "Clase Aria",
           "tag": "Ruta basada en habilidades",
-          "description": "Aria es la otra ruta de clase principal visible en los medios oficiales. Tiene múltiples clips de habilidades nombradas, lo que da a los usuarios una razón clara para explorar una cobertura de clase más profunda.",
+          "description": "Aria es la otra ruta de clase principal visible en los medios oficiales. Tiene múltiples clips de habilidades con nombre asociados, lo que da a los usuarios una razón clara para explorar una cobertura de clase más profunda.",
           "highlights": [
             "El canal oficial hace referencia directa a la Clase Aria",
-            "Los clips de Aria nombrados incluyen LightShot y Smash",
-            "Centro sólido para vistas previas de habilidades, orden de desbloqueo y conexiones de formas"
+            "Los clips de Aria con nombre incluyen LightShot y Smash",
+            "Excelente centro para vistas previas de habilidades, orden de desbloqueo y conexiones de formas"
           ]
         },
         {
           "title": "Progresión de Clase a Forma",
           "tag": "Identidad avanzada",
-          "description": "La discusión de clases en Exoria se extiende naturalmente a la progresión de formas. La Dark Aria Form y la Legendary Demon Form hacen que la identidad de clase en etapas avanzadas sea una intención de búsqueda real.",
+          "description": "La discusión de clases en Exoria se extiende naturalmente a la progresión de formas. La Forma Dark Aria y la Forma de Demonio Legendario hacen que la identidad de clase en etapas avanzadas sea una intención de búsqueda real.",
           "highlights": [
-            "Dark Aria Form ya está destacada en los shorts oficiales",
-            "Legendary Demon Form cuenta con una demostración oficial",
+            "La Forma Dark Aria ya se destaca en los shorts oficiales",
+            "La Forma de Demonio Legendario se muestra oficialmente",
             "Puente desde las páginas de clase hacia la progresión del juego tardío"
           ]
         },
         {
-          "title": "Planificación de Clase vinculada a Purity",
+          "title": "Planificación de Clase Ligada a Purity",
           "tag": "Sistema de progresión",
-          "description": "La Senda de Purity afecta la rapidez con la que se abren ciertas habilidades y misiones, por lo que la planificación de clase funciona mejor cuando se vincula a la planificación de alineación desde el principio.",
+          "description": "El Camino de Purity afecta qué tan rápido se abren ciertas habilidades y misiones, por lo que la planificación de clase funciona mejor cuando se vincula a la planificación de alineación desde el principio.",
           "highlights": [
-            "Las misiones de Purity positivas y negativas afectan la progresión",
+            "Las Misiones de Purity positivas y negativas afectan la progresión",
             "La alineación cambia el ritmo del árbol de habilidades",
-            "Se recomienda usar como sección de planificación de clase dentro de cada página de build principal"
+            "Ideal como sección de planificación de clase dentro de cada página de build principal"
           ]
         }
       ]
     },
     "exoriaWeaponsGuide": {
-      "title": "Guía de Armas de Exoria",
-      "eyebrow": "Equipo de Combate",
-      "intro": "La intención de las armas en Exoria está estrechamente ligada a la identidad de clase, ataques nombrados, recompensas de jefes y progresión de cartas raras. Revisa la tabla para encontrar tu línea de combate y ver a dónde conduce.",
+      "title": "Guía de Armas de Exoria Roblox",
+      "eyebrow": "Equipo de combate",
+      "intro": "La intención de las armas en Exoria está estrechamente ligada a la identidad de clase, ataques con nombre, recompensas de jefes y progresión de cartas raras. Revisa la tabla para encontrar tu línea de combate y ver a dónde conduce.",
       "tableHeaders": [
         "Nombre",
         "Tipo",
-        "Rol de Build",
+        "Rol en la Build",
         "Detalles"
       ],
       "rows": [
         {
-          "name": "Sword",
+          "name": "Espada",
           "type": "Ruta de arma",
           "buildRole": "Ruta cuerpo a cuerpo directa",
           "details": "Identidad base de espada, habilidades de espada mejoradas, clips de combos y progresión cuerpo a cuerpo ideal para jefes"
         },
         {
           "name": "Aria",
-          "type": "Línea de combate vinculada a clase",
-          "buildRole": "Ruta enfocada en habilidades",
-          "details": "Resumen de la Clase Aria más ataques nombrados como LightShot, Smash y Ground Stab"
+          "type": "Línea de combate ligada a clase",
+          "buildRole": "Ruta centrada en habilidades",
+          "details": "Resumen de la Clase Aria más ataques con nombre como LightShot, Smash y Ground Stab"
         },
         {
           "name": "Abyss Sphere",
-          "type": "Habilidad nombrada",
-          "buildRole": "Ataque especial característico",
-          "details": "Página de habilidad con animación, caso de uso y ubicación dentro de una build de Aria o de senda oscura"
+          "type": "Habilidad con nombre",
+          "buildRole": "Ataque especial distintivo",
+          "details": "Página de habilidad con animación, caso de uso y ubicación dentro de una build de Aria o de camino oscuro"
         },
         {
           "name": "Nether Devourer",
-          "type": "Habilidad nombrada",
-          "buildRole": "Fantasía de poder de senda oscura",
-          "details": "Página de habilidad dedicada vinculada a la identidad de progresión oscura y metraje de demostración"
+          "type": "Habilidad con nombre",
+          "buildRole": "Fantasía de poder de camino oscuro",
+          "details": "Página de habilidad dedicada vinculada a la identidad de progresión más oscura y metraje de demostración"
         },
         {
           "name": "Ascension Breaker",
-          "type": "Habilidad nombrada",
+          "type": "Habilidad con nombre",
           "buildRole": "Rematador de ráfaga",
-          "details": "Movimiento de estilo rematador con ubicación de combo, demostración visual y notas de emparejamiento de build"
+          "details": "Movimiento de tipo rematador con ubicación de combo, demostración visual y notas de emparejamiento de build"
         },
         {
           "name": "Phoenix Requiem",
-          "type": "Habilidad nombrada",
+          "type": "Habilidad con nombre",
           "buildRole": "Movimiento de demostración de alto impacto",
           "details": "Página de movimiento independiente con vista previa de animación y enlaces de vuelta a su ruta de clase principal"
         }
       ]
     },
     "exoriaRacesGuide": {
-      "title": "Guía de Razas de Exoria",
+      "title": "Guía de Razas de Exoria Roblox",
       "eyebrow": "Razas y Formas",
       "intro": "La elección de raza en Exoria es parte de tu identidad de build a largo plazo. Los rerolls, el ajuste pasivo y la progresión de formas posteriores importan más cuando se eligen temprano en lugar de corregirse después.",
       "cards": [
         {
-          "title": "El Ajuste de Raza es lo Primero",
-          "tag": "Progresión Temprana",
-          "description": "Exoria vincula la planificación de razas directamente con el crecimiento del personaje a largo plazo. El enfoque más sólido es ayudar a los usuarios a decidir si su primera tirada respalda la build que quieren jugar.",
+          "title": "El ajuste de raza es lo primero",
+          "tag": "Progresión temprana",
+          "description": "Exoria vincula la planificación de la raza directamente con el crecimiento del personaje a largo plazo. El enfoque más sólido es ayudar a los usuarios a decidir si su primer roll respalda la build que quieren jugar.",
           "highlights": [
             "La elección de raza es parte de la optimización de la build desde el inicio",
             "Los rerolls son valiosos porque el ajuste de raza afecta la sensación de progresión",
@@ -432,79 +432,79 @@
           ]
         },
         {
-          "title": "Rerolls y Corrección de Raza",
-          "tag": "Corrección de Build",
+          "title": "Rerolls y corrección de raza",
+          "tag": "Corrección de build",
           "description": "Los rerolls son una de las formas más rápidas en que los jugadores corrigen una mala configuración inicial, lo que hace que las páginas de razas tengan naturalmente una alta conversión cuando se combinan con códigos y consejos para principiantes.",
           "highlights": [
-            "Las recompensas enfocadas en tiradas son fundamentales en las búsquedas de códigos de Exoria",
+            "Las recompensas centradas en rolls son fundamentales en las búsquedas de códigos de Exoria",
             "Las páginas de razas funcionan mejor cuando enlazan directamente a recursos de reroll",
             "Llamada destacada junto a los módulos de principiantes y clases"
           ]
         },
         {
           "title": "Transformación de Demonio",
-          "tag": "Camino de Forma",
-          "description": "Tratada oficialmente como un gancho de progresión importante. La Transformación de Demonio conecta identidad, visuales y progresión de poder en un solo clic como un destino sólido relacionado con las razas.",
+          "tag": "Ruta de forma",
+          "description": "Tratada oficialmente como un gancho de progresión importante. La Transformación de Demonio conecta identidad, visuales y progresión de poder en un clic como un destino sólido adyacente a la raza.",
           "highlights": [
-            "El short oficial de la Transformación de Demonio ya está disponible en el canal",
-            "Ideal para usuarios de caminos oscuros que buscan una página de identidad sólida",
+            "El short oficial de la Transformación de Demonio ya está en el canal",
+            "Ideal para usuarios de rutas oscuras que buscan una página de identidad sólida",
             "Funciona bien como una página secundaria bajo razas y formas"
           ]
         },
         {
           "title": "Forma de Demonio Legendario",
-          "tag": "Forma Avanzada",
-          "description": "Una de las páginas de identidad de alto nivel más claras que Exoria puede mostrar. Visualmente impactante, comunica de inmediato que la planificación de razas lleva a algo significativo.",
+          "tag": "Forma avanzada",
+          "description": "Una de las páginas de identidad de alto nivel más claras que Exoria puede mostrar. Visualmente impactante, comunica de inmediato que la planificación de raza lleva a algo significativo.",
           "highlights": [
-            "Presentada oficialmente en el canal de Exoria",
+            "Presentado oficialmente en el canal de Exoria",
             "Buen destino para jugadores avanzados que buscan una progresión destacada",
-            "Combina bien con guías sobre condiciones de desbloqueo y elección de camino"
+            "Combina bien con guías sobre condiciones de desbloqueo y elección de ruta"
           ]
         },
         {
-          "title": "Forma de Aria Oscura",
-          "tag": "Forma Especializada",
-          "description": "La Forma de Aria Oscura le da a la capa de razas y formas un segundo ancla sólida además de la progresión de demonio, creando un puente natural entre el contenido de razas y la ruta de clase Aria.",
+          "title": "Forma Dark Aria",
+          "tag": "Forma especializada",
+          "description": "La Forma Dark Aria le da a la capa de razas y formas un segundo ancla sólida además de la progresión de demonio, creando un puente natural entre el contenido de razas y la ruta de clase Aria.",
           "highlights": [
-            "El short oficial le da a esta forma una identidad propia y clara",
-            "Útil para usuarios que comparan direcciones de builds de luz y oscuridad",
-            "Es mejor enlazarla tanto desde las páginas de razas como desde las páginas de builds de Aria"
+            "El short oficial le da a esta forma una identidad propia clara",
+            "Útil para usuarios que comparan direcciones de build de luz y oscuridad",
+            "Es mejor enlazarla tanto desde las páginas de razas como desde las de builds de Aria"
           ]
         }
       ]
     },
     "exoriaSkillTreeGuide": {
-      "title": "Guía del Árbol de Habilidades de Exoria",
+      "title": "Guía del Árbol de Habilidades de Exoria Roblox",
       "eyebrow": "Progresión",
-      "intro": "El árbol de habilidades de Exoria se basa en la alineación moral. Entender el camino de Purity temprano desbloquea mejores rutas, desperdicia menos rerolls y te permite construir con más intención desde el principio.",
+      "intro": "El árbol de habilidades de Exoria se basa en la alineación moral. Entender la Purity Path temprano desbloquea mejores rutas, desperdicia menos rerolls y te permite construir con más intención desde el principio.",
       "faqs": [
         {
           "question": "¿Qué cambia realmente el ritmo de tu árbol de habilidades en Exoria?",
-          "answer": "Tu camino de Purity cambia la rapidez con la que se abren partes del árbol. Exoria utiliza misiones de Purity positivas y negativas, y tu dirección de alineación determina qué habilidades y líneas de misiones se desbloquean antes o después."
+          "answer": "Tu Purity Path cambia la rapidez con la que se abren partes del árbol. Exoria utiliza Purity Quests positivas y negativas, y tu dirección de alineación determina qué habilidades y líneas de misiones se desbloquean antes o después."
         },
         {
-          "question": "¿Por qué el camino de Purity de Exoria importa más que una cadena de misiones normal?",
-          "answer": "El camino de Purity no es solo texto de ambientación. Afecta directamente la progresión al controlar el tiempo de acceso a habilidades y misiones, por lo que dos jugadores con el mismo tiempo de juego pueden terminar en cronogramas de builds muy diferentes."
+          "question": "¿Por qué la Purity Path de Exoria importa más que una cadena de misiones normal?",
+          "answer": "La Purity Path no es solo texto de ambientación. Afecta directamente la progresión al controlar el tiempo de acceso a habilidades y misiones, por lo que dos jugadores con el mismo tiempo de juego pueden terminar en cronogramas de build muy diferentes."
         },
         {
           "question": "¿Cómo debería un jugador nuevo de Exoria planificar el primer tramo del árbol de habilidades?",
-          "answer": "Elige primero una dirección de clase, luego compromete tus misiones iniciales en torno a la alineación que quieras impulsar. Esto mantiene tu ruta de clase, plan de raza y orden de desbloqueo de habilidades moviéndose en la misma dirección."
+          "answer": "Elige primero una dirección de clase y luego compromete tus misiones iniciales en torno a la alineación que quieras impulsar. Esto mantiene tu ruta de clase, plan de raza y orden de desbloqueo de habilidades moviéndose en la misma dirección."
         },
         {
           "question": "¿Cómo cambia la alineación el mundo de Exoria en sí?",
-          "answer": "El mundo de Exoria reacciona a la Purity. Algunas áreas responden a tu alineación, y una Purity alta puede atraer enemigos, lo que convierte el sistema del árbol de habilidades también en un sistema de estado del mundo."
+          "answer": "El mundo de Exoria reacciona a la Purity. Algunas áreas responden a tu alineación, y una Purity alta puede atraer enemigos, lo que convierte el sistema de árbol de habilidades también en un sistema de estado del mundo."
         },
         {
           "question": "¿Cuáles son los mejores puntos de entrada al árbol de habilidades de Exoria para jugadores nuevos?",
-          "answer": "Comienza con lo básico del camino de Purity, luego elige entre rutas de misiones positivas y negativas. Prioriza los nodos de desbloqueo temprano y usa las páginas de clase, raza y forma para guiar tu siguiente paso sin adivinar."
+          "answer": "Comienza con lo básico de Purity Path, luego elige entre rutas de misiones positivas y negativas. Prioriza los nodos de desbloqueo temprano y usa las páginas de clase, raza y forma para guiar tu siguiente paso sin adivinar."
         }
       ]
     },
     "exoriaBossesGuide": {
       "eyebrow": "Progresión de Jefes",
-      "title": "Guía de Jefes de Exoria",
-      "subtitle": "Los jefes son un gancho de progresión central en Exoria, desde encuentros con nombre como Malphas hasta el farmeo de drops raros y habilidades que evolucionan en las mazmorras de jefes.",
-      "intro": "Exoria plantea la caza de jefes como parte del ciclo principal de subida de nivel junto con las misiones y la exploración. Los encuentros con jefes están vinculados a drops raros y habilidades evolutivas, lo que los convierte en algo más que simples peleas de una sola vez.",
+      "title": "Guía de Jefes de Exoria Roblox",
+      "subtitle": "Los jefes son un gancho de progresión central en Exoria, desde encuentros con nombre como Malphas hasta el farmeo de drops raros y habilidades evolutivas en las mazmorras de jefes.",
+      "intro": "Exoria plantea la caza de jefes como parte del ciclo principal de subida de nivel junto con las misiones y la exploración. Los encuentros con jefes se vinculan a drops raros y habilidades evolutivas, lo que los convierte en algo más que peleas de una sola vez.",
       "cards": [
         {
           "title": "Malphas",
@@ -516,17 +516,17 @@
         },
         {
           "title": "Farmeo de Drops Raros",
-          "description": "Las incursiones contra jefes en Exoria son parte del ciclo de recompensas; las limpiezas repetidas se conectan con drops raros, secretos y habilidades evolutivas más allá de un simple punto de control de progresión."
+          "description": "Las rutas de jefes en Exoria son parte del ciclo de recompensas: las limpiezas repetidas conectan con drops raros, secretos y habilidades evolutivas más allá de un simple punto de control de progresión."
         },
         {
           "title": "Rol en la Progresión",
-          "description": "Los jefes se sitúan junto a las misiones, builds y exploración como uno de los caminos de avance centrales de Exoria, permitiendo a los jugadores elegir cómo suben de nivel y crecen."
+          "description": "Los jefes se sitúan junto a las misiones, builds y la exploración como una de las rutas de avance principales de Exoria, permitiendo a los jugadores elegir cómo suben de nivel y crecen."
         }
       ]
     },
     "exoriaDungeonsGuide": {
       "eyebrow": "Incursiones en Mazmorras",
-      "title": "Guía de Mazmorras de Exoria",
+      "title": "Guía de Mazmorras de Exoria Roblox",
       "subtitle": "Las mazmorras en Exoria son espacios centrados en jefes con mecánicas únicas: el puente principal entre la maestría en combate, el farmeo de botín y la progresión basada en Purity.",
       "intro": "Las mazmorras de Exoria no son salas genéricas para limpiar. Cada una conecta directamente con encuentros de jefes, botines raros y el sistema de progresión basado en Purity que moldea el crecimiento de tus habilidades.",
       "cards": [
@@ -536,7 +536,7 @@
         },
         {
           "title": "Parte del Ciclo de Nivelación",
-          "description": "Las incursiones en mazmorras se sitúan dentro del ciclo de crecimiento normal junto con la lucha, la exploración y las misiones, ofreciendo un camino estructurado para la progresión dedicada en Exoria."
+          "description": "Las incursiones en mazmorras se sitúan dentro del ciclo normal de crecimiento junto con la lucha, la exploración y las misiones, ofreciendo un camino estructurado para la progresión dedicada en Exoria."
         },
         {
           "title": "Estructura de Recompensas",
@@ -550,14 +550,14 @@
     },
     "exoriaQuestsGuide": {
       "eyebrow": "Flujo de Misiones",
-      "title": "Guía de Misiones de Exoria",
+      "title": "Guía de Misiones de Exoria Roblox",
       "subtitle": "Las misiones en Exoria están vinculadas a la Senda de Purity, el tiempo de desbloqueo de habilidades y cómo reacciona el mundo a tus elecciones de alineación, haciendo que cada decisión de misión cuente.",
       "intro": "El sistema de misiones de Exoria va más allá de las misiones estándar. Las misiones de Purity pueden ser positivas o negativas, y tus decisiones moldean cómo se abre tu árbol de habilidades y cómo responde el mundo ante ti.",
       "steps": [
         {
           "step": "01",
           "title": "Usa las Misiones como Vía Principal de Progresión",
-          "description": "Las misiones están en el centro de la progresión temprana de Exoria junto con la lucha, la exploración y la caza de jefes, otorgando experiencia estructurada y recompensas desde el inicio."
+          "description": "Las misiones pertenecen al centro de la progresión inicial de Exoria junto con la lucha, la exploración y la caza de jefes, otorgando experiencia estructurada y recompensas desde el principio."
         },
         {
           "step": "02",
@@ -566,19 +566,19 @@
         },
         {
           "step": "03",
-          "title": "Rastrea Cómo la Alineación Afecta las Habilidades",
-          "description": "Tu Senda de Purity cambia qué tan rápido se desbloquean ciertas habilidades en el árbol de habilidades de Exoria, haciendo que las elecciones de misiones tengan consecuencias mecánicas reales en el tiempo."
+          "title": "Rastrea cómo la Alineación Afecta las Habilidades",
+          "description": "Tu Senda de Purity cambia la rapidez con la que se desbloquean ciertas habilidades en el árbol de habilidades de Exoria, haciendo que las elecciones de misiones tengan consecuencias reales en los tiempos mecánicos."
         },
         {
           "step": "04",
           "title": "Atento a las Reacciones del Mundo",
-          "description": "Un nivel alto de Purity puede atraer enemigos y algunas áreas en Exoria responden a tu nivel de Purity, haciendo que las elecciones de misiones sean parte de la progresión constante del estado del mundo, no solo de las estadísticas del personaje."
+          "description": "Un nivel alto de Purity puede atraer enemigos y algunas áreas en Exoria responden a tu nivel de Purity, haciendo que las elecciones de misiones sean parte de la progresión continua del estado del mundo, no solo de las estadísticas del personaje."
         }
       ]
     },
     "exoriaCardsGuide": {
       "eyebrow": "Builds de Cartas",
-      "title": "Guía de Cartas de Exoria",
+      "title": "Guía de Cartas de Exoria Roblox",
       "subtitle": "La colección de cartas es una parte central de la identidad de Exoria, situándose junto a los jefes, habilidades y secretos como parte de la fantasía de progresión principal.",
       "intro": "Las cartas en Exoria son más que coleccionables. Se conectan con el crecimiento de habilidades, la caza de botines raros y los sistemas de progresión más amplios que moldean tu build y estilo de juego.",
       "cards": [
@@ -588,7 +588,7 @@
         },
         {
           "title": "Cartas y Desbloqueo de Habilidades",
-          "description": "Exoria combina la colección de cartas con el desbloqueo de habilidades y el descubrimiento de secretos, situando las cartas firmemente dentro del ciclo de progresión activa desde el inicio."
+          "description": "Exoria empareja la colección de cartas con el desbloqueo de habilidades y el descubrimiento de secretos, situando las cartas firmemente dentro del ciclo de progresión activa desde el inicio del juego."
         },
         {
           "title": "Farmeo de Cartas Raras",
@@ -596,15 +596,15 @@
         },
         {
           "title": "Cartas en la Planificación de Builds",
-          "description": "La colección de cartas en Exoria se conecta naturalmente con las clases, razas y rutas de progresión, convirtiendo la página de cartas en un puente entre todos los sistemas principales de builds."
+          "description": "La colección de cartas en Exoria se conecta de forma natural con las clases, razas y rutas de progresión, convirtiendo la página de cartas en un puente entre todos los sistemas principales de builds."
         }
       ]
     },
     "exoriaAccessoriesGuide": {
       "eyebrow": "Capa de Build",
-      "title": "Accesorios y Extras de Build de Exoria",
-      "subtitle": "La capa de accesorios de Exoria es una mezcla de artefactos, formas, auras y ajustes de build apoyados por rerolls. Este módulo ayuda a los jugadores a entender qué buscar después de establecerse en una senda de clase principal.",
-      "intro": "Trata los accesorios como la capa que define la identidad después de que las elecciones de clase, raza y combate básico ya están establecidas.",
+      "title": "Accesorios y Extras de Build de Exoria Roblox",
+      "subtitle": "La capa de accesorios de Exoria es una mezcla de artefactos, formas, auras y ajustes de build mediante rerolls. Este módulo ayuda a los jugadores a entender qué buscar después de establecerse en una ruta de clase principal.",
+      "intro": "Considera los accesorios como la capa que define la identidad una vez que la clase, la raza y las opciones básicas de combate ya están establecidas.",
       "tableHeaders": [
         "Capa de Accesorio",
         "Qué Rastrear",
@@ -621,8 +621,8 @@
         {
           "accessoryLayer": "Formas y Auras",
           "whatToTrack": "Los shorts oficiales de Hadez Studio muestran públicamente la Dark Aria Form y Aura, y la Legendary Demon Form.",
-          "playerValue": "Estos son los ejemplos más claros de la capa de personalización de build de Exoria más allá de la nivelación y las misiones normales.",
-          "bestUseCase": "Ideal para jugadores que quieren que su identidad de build final se sienta visual y mecánicamente distinta."
+          "playerValue": "Estos son los ejemplos más claros de la capa de personalización de builds de Exoria más allá de la nivelación y las misiones normales.",
+          "bestUseCase": "Ideal para jugadores que quieren que la identidad de su build final se sienta visual y mecánicamente distinta."
         },
         {
           "accessoryLayer": "Sinergia de Raza",
@@ -633,48 +633,48 @@
         {
           "accessoryLayer": "Sinergia de Habilidades",
           "whatToTrack": "Las guías públicas de códigos también vinculan los rerolls a las habilidades, no solo a la elección de raza.",
-          "playerValue": "Los accesorios y las formas encajan en un ciclo de optimización más grande en lugar de estar aislados.",
-          "bestUseCase": "Finaliza tu senda de clase y dirección de habilidades antes de farmear intensamente mejoras de tipo accesorio."
+          "playerValue": "Los accesorios y formas encajan en un ciclo de optimización más grande en lugar de estar aislados.",
+          "bestUseCase": "Finaliza tu ruta de clase y la dirección de tus habilidades antes de farmear intensamente mejoras de tipo accesorio."
         }
       ]
     },
     "exoriaEventsGuide": {
-      "eyebrow": "Operaciones en vivo",
-      "title": "Eventos de Exoria y recompensas por tiempo limitado",
-      "subtitle": "El ritmo de los eventos de Exoria es más fácil de seguir a través de los hitos de lanzamiento, ventanas de actualización, códigos y canales oficiales de anuncios.",
+      "eyebrow": "Operaciones en Vivo",
+      "title": "Eventos de Exoria Roblox y Recompensas por Tiempo",
+      "subtitle": "El ritmo de eventos de Exoria es más fácil de seguir a través de los hitos de lanzamiento, ventanas de actualización, códigos y canales oficiales de anuncios.",
       "intro": "Este módulo ofrece a los jugadores un mapa práctico de dónde suele aparecer primero la actividad en vivo en Exoria.",
       "items": [
         {
-          "name": "Ciclo de anuncios en Discord",
-          "summary": "El Discord oficial es el lugar más rápido para estar al tanto de nuevos lanzamientos, mensajes de los desarrolladores y cambios de horario en las actualizaciones y actividad en vivo.",
-          "rewardHook": "Ideal para enterarse de las últimas noticias antes de que las páginas de guías se actualicen por completo.",
+          "name": "Ciclo de Anuncios en Discord",
+          "summary": "El Discord oficial es el lugar más rápido para enterarse de nuevos lanzamientos, mensajes de los desarrolladores y cambios de horario en actualizaciones y actividad en vivo.",
+          "rewardHook": "Ideal para enterarse de las últimas noticias antes de que las páginas de la guía se actualicen por completo.",
           "whereToCheck": "Invitación oficial de Discord"
         },
         {
-          "name": "Referencia de eventos en Trello",
+          "name": "Referencia de Eventos en Trello",
           "summary": "El Trello oficial de Exoria cubre eventos junto con clases, armas, razas, accesorios, mazmorras y jefes.",
           "rewardHook": "Ideal para una lectura estructurada una vez que quieras entender cómo encaja el contenido de los eventos con el resto del juego.",
           "whereToCheck": "Tablero oficial de Trello"
         },
         {
-          "name": "Recompensas por ventana de actualización",
-          "summary": "La cobertura pública de códigos de Exoria ha listado códigos activos como ASCENSION4K y LUCKOVERDRIVE vinculados a las ventanas de actualización.",
+          "name": "Recompensas por Ventana de Actualización",
+          "summary": "La cobertura pública de códigos de Exoria ha listado códigos activos como ASCENSION4K y LUCKOVERDRIVE vinculados a ventanas de actualización.",
           "rewardHook": "Estas ventanas de códigos son las recompensas temporales más fáciles de reclamar entre los lanzamientos de contenido más grandes.",
           "whereToCheck": "Páginas de códigos actuales y redes sociales oficiales"
         },
         {
-          "name": "Eventos de hitos de lanzamiento",
-          "summary": "El ritmo de eventos de Exoria se basa en hitos: Acceso Anticipado, Free to Play y luego la Update 2.",
-          "rewardHook": "Estos momentos generan los mayores picos de retorno, ya que los jugadores vuelven para reinicios, nuevas misiones y nuevas rutas de clase.",
-          "whereToCheck": "Videos oficiales de lanzamiento en YouTube y la lista en vivo de Roblox"
+          "name": "Eventos por Hitos de Lanzamiento",
+          "summary": "El ritmo de eventos de Exoria se basa en hitos clave: Acceso Anticipado, Free to Play y luego la Update 2.",
+          "rewardHook": "Estos momentos generan los mayores picos de retorno, ya que los jugadores regresan por reinicios, nuevas misiones y nuevas rutas de clase.",
+          "whereToCheck": "Videos oficiales de lanzamiento en YouTube y el listado en vivo de Roblox"
         }
       ]
     },
     "exoriaUpdate2PatchNotes": {
-      "eyebrow": "Registro de actualizaciones",
-      "title": "Exoria Update 2: Cronología pública del parche",
-      "subtitle": "Este módulo cubre los detalles de la Update 2 visibles a través del título en vivo en Roblox, videos oficiales de lanzamiento y la cobertura de actualizaciones actual.",
-      "intro": "Exoria está etiquetado públicamente como una experiencia Free-to-Play que funciona con la Update 2, por lo que el mejor enfoque es una cronología breve y legible de lo que cambió y lo que los jugadores sintieron de inmediato.",
+      "eyebrow": "Registro de Actualizaciones",
+      "title": "Exoria Roblox Update 2: Cronología Pública de Parches",
+      "subtitle": "Este módulo cubre los detalles de la Update 2 visibles a través del título en vivo de Roblox, videos oficiales de lanzamiento y la cobertura actual de actualizaciones.",
+      "intro": "Exoria está etiquetado públicamente como una experiencia Free-to-Play que se ejecuta en la Update 2, por lo que el mejor tratamiento es una breve cronología de lo que cambió y lo que los jugadores sintieron de inmediato.",
       "items": [
         {
           "date": "7 de marzo de 2026",
@@ -684,7 +684,7 @@
         {
           "date": "5 de abril de 2026",
           "label": "Lanzamiento Free-to-Play",
-          "details": "Un video de lanzamiento oficial posterior anunció el lanzamiento general Free-to-Play para el 5 de abril de 2026."
+          "details": "Un video oficial de lanzamiento posterior anunció el estreno general Free-to-Play para el 5 de abril de 2026."
         },
         {
           "date": "Abril de 2026",
@@ -693,16 +693,16 @@
         },
         {
           "date": "Abril de 2026",
-          "label": "Cambios para el jugador",
-          "details": "La cobertura de la actualización actual destaca 2 nuevas clases y más misiones como los cambios más visibles de la Update 2 para los jugadores activos."
+          "label": "Cambios para el Jugador",
+          "details": "La cobertura actual de la actualización destaca 2 nuevas clases y más misiones como los cambios más visibles de la Update 2 para los jugadores activos."
         }
       ]
     },
     "exoriaReleaseDate": {
-      "eyebrow": "Información de lanzamiento",
-      "title": "Fecha de lanzamiento de Exoria",
+      "eyebrow": "Info de Lanzamiento",
+      "title": "Fecha de Lanzamiento de Exoria Roblox",
       "subtitle": "La historia del lanzamiento de Exoria se divide en una apertura de Acceso Anticipado y un lanzamiento general Free-to-Play. Este módulo ofrece a los usuarios las fechas exactas que suelen buscar primero.",
-      "intro": "Para la intención de búsqueda, lo que importa no es solo una fecha, sino la secuencia completa de lanzamiento. Exoria abrió mediante Acceso Anticipado, luego se expandió a Free-to-Play y ahora funciona con la Update 2 bajo Hadez Studio.",
+      "intro": "Para la intención de búsqueda, lo que importa no es solo una fecha, sino la secuencia completa de lanzamiento. Exoria abrió mediante Acceso Anticipado, luego se expandió a Free-to-Play y ahora ejecuta la Update 2 bajo Hadez Studio.",
       "tableHeaders": [
         "Hito",
         "Fecha",
@@ -710,12 +710,12 @@
       ],
       "items": [
         {
-          "milestone": "Etapa de desarrollo",
+          "milestone": "Preparación del Desarrollo",
           "date": "Pre-lanzamiento",
           "details": "Ambos videos oficiales de lanzamiento presentan a Exoria como el resultado de ocho meses de desarrollo antes de abrir el acceso."
         },
         {
-          "milestone": "Lanzamiento del Acceso Anticipado",
+          "milestone": "Lanzamiento de Acceso Anticipado",
           "date": "7 de marzo de 2026",
           "details": "Esta fue la primera ventana de acceso público anunciada por los desarrolladores."
         },
@@ -725,16 +725,16 @@
           "details": "Esto marcó la apertura pública más amplia más allá de la fase de acceso inicial."
         },
         {
-          "milestone": "Fase actual en vivo",
+          "milestone": "Fase Actual en Vivo",
           "date": "Abril de 2026",
-          "details": "La lista de Roblox presenta actualmente el juego como Exoria [FREE TO PLAY + Update 2] por @HADEZ_STUDIO."
+          "details": "El listado de Roblox presenta actualmente el juego como Exoria [FREE TO PLAY + Update 2] por @HADEZ_STUDIO."
         }
       ]
     }
   },
   "faq": {
     "title": "Preguntas",
-    "titleHighlight": "frecuentes",
+    "titleHighlight": "Frecuentes",
     "subtitle": "Todo lo que necesitas saber sobre Exoria",
     "questions": [
       {
@@ -742,16 +742,16 @@
         "answer": "Exoria es un RPG de anime oscuro en Roblox inspirado en Blue Exorcist. Desarrollado por HADEZ STUDIO, cuenta con combate basado en clases, progresión de razas, alineación de Purity, batallas contra jefes y exploración de mazmorras."
       },
       {
-        "question": "¿Cómo obtengo recompensas gratuitas en Exoria?",
-        "answer": "Usa el menú de Códigos desde la pantalla de carga o el menú principal. Los códigos activos actualmente incluyen ASCENSION4K y LUCKOVERDRIVE para giros gratis, además de varios otros de la página oficial del juego."
+        "question": "¿Cómo obtengo recompensas gratis en Exoria?",
+        "answer": "Usa el menú de Códigos desde la pantalla de carga o el menú principal. Los códigos activos actualmente incluyen ASCENSION4K y LUCKOVERDRIVE para giros gratis, además de varios otros en la página oficial del juego."
       },
       {
         "question": "¿Es Exoria gratuito?",
-        "answer": "Sí. Exoria es gratuito en Roblox. La Update 2 ya está disponible y el juego sigue recibiendo contenido nuevo de HADEZ STUDIO."
+        "answer": "Sí. Exoria es free to play en Roblox. La Update 2 ya está disponible y el juego sigue recibiendo contenido nuevo de HADEZ STUDIO."
       },
       {
         "question": "¿Qué es el Camino de Purity en Exoria?",
-        "answer": "El Camino de Purity es el sistema de alineación moral de Exoria. Tus elecciones entre misiones de Purity positivas y negativas afectan la velocidad de desbloqueo de habilidades, la disponibilidad de misiones y cómo reacciona el mundo ante tu personaje."
+        "answer": "El Camino de Purity es el sistema de alineación moral de Exoria. Tus elecciones entre Purity Quests positivas y negativas afectan la velocidad de desbloqueo de habilidades, la disponibilidad de misiones y cómo reacciona el mundo ante tu personaje."
       },
       {
         "question": "¿Dónde puedo encontrar el tablero de Trello de Exoria?",
@@ -759,7 +759,7 @@
       },
       {
         "question": "¿Cuándo fue la última actualización de Exoria?",
-        "answer": "Exoria recibió la Update 2 en abril de 2026, agregando nuevo contenido y mejoras. El juego es desarrollado activamente por HADEZ STUDIO en Roblox."
+        "answer": "Exoria recibió la Update 2 en abril de 2026, añadiendo nuevo contenido y mejoras. El juego es desarrollado activamente por HADEZ STUDIO en Roblox."
       }
     ]
   },
@@ -770,7 +770,7 @@
     "joinGame": "Jugar en Roblox"
   },
   "footer": {
-    "title": "Exoria Wiki",
+    "title": "Exoria Roblox Wiki",
     "description": "Tu centro de recursos completo para códigos, clases, razas, jefes, mazmorras, misiones y guías de Purity de Exoria en Roblox.",
     "resources": "Recursos",
     "community": "Comunidad",
@@ -780,152 +780,152 @@
     "steamCommunity": "Comunidad de Roblox",
     "steamStore": "Jugar en Roblox",
     "about": "Acerca de",
-    "privacy": "Política de privacidad",
-    "terms": "Términos de servicio",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos de Servicio",
     "copyrightNotice": "Copyright",
     "copyright": "© 2026 Exoria Wiki. No afiliado con HADEZ_STUDIO ni Roblox.",
-    "disclaimer": "Sitio web de recursos no oficial hecho por fans."
+    "disclaimer": "Sitio web de recursos no oficial creado por fans."
   },
   "pages": {
     "codes": {
-      "title": "Códigos de Exoria",
-      "description": "Los últimos códigos de canje de Exoria para gemas gratis, rerolls y stat chips. Actualizado regularmente con todos los códigos activos y expirados.",
-      "metaTitle": "Códigos de Exoria - Gemas gratis y rerolls (abril de 2026)",
-      "metaDescription": "Consigue gemas gratis, stat chips y rerolls con códigos activos de Exoria. Todos los códigos funcionales listados con una guía de canje paso a paso.",
-      "categoryLabel": "CANJEAR CÓDIGOS",
+      "title": "Códigos de Exoria Roblox",
+      "description": "Últimos códigos de canje de Exoria para gemas gratis, rerolls y chips de estadísticas. Actualizado regularmente con todos los códigos activos y expirados.",
+      "metaTitle": "Códigos de Exoria - Gemas Gratis y Rerolls (Abril 2026)",
+      "metaDescription": "Obtén gemas gratis, chips de estadísticas y rerolls con códigos activos de Exoria. Lista de códigos funcionales con guía de canje paso a paso.",
+      "categoryLabel": "CÓDIGOS DE CANJE",
       "whatIs": "¿Qué son los códigos de Exoria?",
-      "whatIsDescription": "Los códigos de Exoria son códigos de canje gratuitos lanzados por HADEZ_STUDIO que otorgan recompensas en el juego como gemas, stat chips y rerolls de raza. Canjéalos en el juego antes de que expiren para maximizar tu progreso.",
+      "whatIsDescription": "Los códigos de Exoria son códigos de canje gratuitos lanzados por HADEZ_STUDIO que otorgan recompensas en el juego como gemas, chips de estadísticas y rerolls de raza. Canjéalos antes de que expiren para maximizar tu progresión.",
       "why": "¿Por qué usar códigos de Exoria?",
       "whySteps": {
-        "step1Title": "Consigue gemas gratis",
+        "step1Title": "Obtén Gemas Gratis",
         "step1Description": "Canjea códigos por gemas usadas en rerolls, mejoras y para desbloquear funciones del juego",
-        "step2Title": "Reroll de razas",
-        "step2Description": "Usa stat chips y tokens de reroll de los códigos para obtener mejores razas iniciales",
-        "step3Title": "Mantente a la vanguardia",
-        "step3Description": "Los códigos expiran rápido; guarda esta página en marcadores para no perderte ninguna recompensa gratuita"
+        "step2Title": "Reroll de Razas",
+        "step2Description": "Usa chips de estadísticas y tokens de reroll de los códigos para conseguir mejores razas iniciales",
+        "step3Title": "Mantente Adelante",
+        "step3Description": "Los códigos expiran rápido — guarda esta página para no perderte ninguna recompensa gratuita"
       },
-      "featured": "Destacados y esenciales",
-      "all": "Todos los códigos"
+      "featured": "Destacados y Esenciales",
+      "all": "Todos los Códigos"
     },
     "guide": {
-      "title": "Guía de Exoria",
-      "description": "Guías de Exoria desde nivel principiante hasta avanzado que cubren subida de nivel, progreso de misiones, estrategia de reroll y mecánicas principales para todos los jugadores.",
-      "metaTitle": "Guía de Exoria - Consejos para principiantes y estrategias de nivelación",
+      "title": "Guía de Exoria Roblox",
+      "description": "Guías de Exoria desde nivel principiante hasta avanzado que cubren subida de nivel, progresión de misiones, estrategia de reroll y mecánicas principales.",
+      "metaTitle": "Guía de Exoria - Consejos para Principiantes y Estrategias de Nivelación",
       "metaDescription": "Guía completa de Exoria que cubre consejos para principiantes, orden de misiones, rutas de nivelación y estrategias de reroll. Domina este RPG de anime oscuro más rápido.",
       "categoryLabel": "GUÍAS DEL JUEGO",
       "whatIs": "¿Qué son las guías de Exoria?",
-      "whatIsDescription": "Las guías de Exoria cubren todo, desde tus primeros pasos en el RPG de anime oscuro hasta cadenas de misiones avanzadas y rutas de nivelación eficientes. Ya seas nuevo o regreses tras una actualización, estas guías te mantendrán en el camino correcto.",
+      "whatIsDescription": "Las guías de Exoria cubren todo, desde tus primeros pasos en este RPG de anime oscuro hasta cadenas de misiones avanzadas y rutas de nivelación eficientes. Ya seas nuevo o regreses tras una actualización, estas guías te mantendrán en el camino correcto.",
       "why": "¿Por qué leer las guías de Exoria?",
       "whySteps": {
-        "step1Title": "Evita la confusión",
+        "step1Title": "Evita la Confusión",
         "step1Description": "Aprende el orden de las misiones, ubicaciones de NPCs y condiciones de desbloqueo sin adivinanzas",
-        "step2Title": "Sube de nivel más rápido",
+        "step2Title": "Sube de Nivel más Rápido",
         "step2Description": "Sigue rutas de nivelación optimizadas utilizadas por jugadores experimentados de Exoria",
-        "step3Title": "Domina los rerolls",
-        "step3Description": "Aprende cuándo y cómo hacer reroll de razas y estadísticas para obtener la mejor build a largo plazo"
+        "step3Title": "Domina los Rerolls",
+        "step3Description": "Sabe cuándo y cómo hacer reroll de razas y estadísticas para obtener la mejor build a largo plazo"
       },
-      "featured": "Destacados y esenciales",
-      "all": "Todas las guías"
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las Guías"
     },
     "builds": {
-      "title": "Builds de Exoria",
-      "description": "Las mejores builds de clases y razas de Exoria para cada estilo de juego. Compara opciones de Espada, Magia e híbridas con calificaciones de tier y selecciones para principiantes.",
-      "metaTitle": "Builds de Exoria - Tier List de las mejores clases y razas",
-      "metaDescription": "Encuentra las mejores builds de Exoria, incluyendo clases top, elecciones de raza y rankings de tier. Optimizado tanto para principiantes como para jugadores experimentados.",
+      "title": "Builds de Exoria Roblox",
+      "description": "Las mejores builds de clases y razas de Exoria para cada estilo de juego. Compara opciones de Espada, Magia e híbridas con calificaciones por niveles y selecciones para principiantes.",
+      "metaTitle": "Builds de Exoria - Tier List de Mejores Clases y Razas",
+      "metaDescription": "Encuentra las mejores builds de Exoria incluyendo clases top, elecciones de raza y rankings de tier list. Optimizado para principiantes y jugadores experimentados.",
       "categoryLabel": "BUILDS Y TIER LIST",
       "whatIs": "¿Qué son las builds de Exoria?",
-      "whatIsDescription": "Las builds de Exoria combinan la selección de clase, bonificaciones de raza y asignación de estadísticas para crear configuraciones de personajes efectivas. Esta sección cubre las mejores selecciones, rankings de tier y comparaciones de razas para ayudarte a construir el personaje más fuerte.",
+      "whatIsDescription": "Las builds de Exoria combinan la selección de clase, bonificaciones de raza y asignación de estadísticas para crear configuraciones de personajes efectivas. Esta sección cubre las mejores elecciones, rankings y comparaciones de razas.",
       "why": "¿Por qué consultar las builds de Exoria?",
       "whySteps": {
-        "step1Title": "Elige la mejor clase",
+        "step1Title": "Elige la Mejor Clase",
         "step1Description": "Compara clases de Espada, Magia e híbridas para encontrar tu estilo de combate ideal",
-        "step2Title": "Elige la raza correcta",
+        "step2Title": "Elige la Raza Correcta",
         "step2Description": "Las bonificaciones de raza afectan directamente tu daño, movilidad y valor de reroll",
         "step3Title": "Rankings de Tier List",
         "step3Description": "Mira qué builds dominan en PvE y cuáles son mejores para jugadores nuevos"
       },
-      "featured": "Destacados y esenciales",
-      "all": "Todas las builds"
+      "featured": "Destacados y Esenciales",
+      "all": "Todas las Builds"
     },
     "pve": {
-      "title": "Exoria PvE",
-      "description": "Guías de jefes, mecánicas de combate, tablas de botín y estrategias recomendadas para todos los encuentros de PvE y batallas de jefes en Exoria.",
-      "metaTitle": "Exoria PvE - Guía de Jefes, Botín y Estrategias",
-      "metaDescription": "Guía completa de jefes de Exoria con mecánicas de combate, tablas de botín raro y niveles recomendados. Prepárate para cada encuentro PvE en Exoria.",
+      "title": "Exoria Roblox PvE",
+      "description": "Guías de jefes, mecánicas de combate, tablas de botín y estrategias recomendadas para todos los encuentros PvE y batallas de jefes en Exoria.",
+      "metaTitle": "Exoria PvE - Guía de jefes, botines y estrategias",
+      "metaDescription": "Guía completa de jefes de Exoria con mecánicas de combate, tablas de botín raras y niveles recomendados. Prepárate para cada encuentro PvE en Exoria.",
       "categoryLabel": "CONTENIDO DE JEFES Y PVE",
       "whatIs": "¿Qué es Exoria PvE?",
-      "whatIsDescription": "Exoria PvE abarca todos los encuentros con jefes, mecánicas de combate y estrategias de grupo en el juego. Desde jefes iniciales hasta enemigos de élite, estas guías detallan tablas de botín, patrones de ataque y enfoques óptimos para jugar en solitario o en grupo.",
+      "whatIsDescription": "Exoria PvE abarca todos los encuentros con jefes, mecánicas de combate y estrategias grupales del juego. Desde jefes iniciales hasta enemigos de élite, estas guías detallan tablas de botín, patrones de ataque y enfoques óptimos para jugar en solitario o en grupo.",
       "why": "¿Por qué leer las guías de Exoria PvE?",
       "whySteps": {
-        "step1Title": "Conoce las Mecánicas de los Jefes",
-        "step1Description": "Entiende los patrones de ataque y las zonas de peligro antes de entrar en una pelea de jefe",
-        "step2Title": "Farmea Botín Raro",
+        "step1Title": "Conoce las mecánicas de los jefes",
+        "step1Description": "Comprende los patrones de ataque y las zonas de peligro antes de entrar en una batalla de jefe",
+        "step2Title": "Farmea botines raros",
         "step2Description": "Aprende qué jefes sueltan el mejor equipo y cómo maximizar tu tasa de obtención",
-        "step3Title": "Solo o en Grupo",
-        "step3Description": "Obtén recomendaciones sobre cuándo jugar en solitario frente a agruparse para mayor eficiencia"
+        "step3Title": "Solitario o en grupo",
+        "step3Description": "Obtén recomendaciones sobre cuándo jugar solo frente a agruparse para mayor eficiencia"
       },
-      "featured": "Destacados y Esenciales",
-      "all": "Todas las Guías PvE"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las guías PvE"
     },
     "systems": {
-      "title": "Sistemas de Exoria",
-      "description": "Análisis profundos de los sistemas principales de Exoria, incluyendo accesorios, cartas, progresión del camino de Purity y mecánicas de estadísticas.",
-      "metaTitle": "Sistemas de Exoria - Accesorios, Cartas y Camino de Purity",
-      "metaDescription": "Entiende los sistemas de Exoria, incluyendo accesorios, mecánicas de cartas, progresión del camino de Purity y asignación de estadísticas para un crecimiento óptimo del personaje.",
+      "title": "Sistemas de Exoria Roblox",
+      "description": "Análisis profundos de los sistemas principales de Exoria, incluyendo accesorios, cartas, progresión de la senda Purity y mecánicas de estadísticas.",
+      "metaTitle": "Sistemas de Exoria - Accesorios, cartas y senda Purity",
+      "metaDescription": "Comprende los sistemas de Exoria, incluyendo accesorios, mecánicas de cartas, progresión de la senda Purity y asignación de estadísticas para un crecimiento óptimo del personaje.",
       "categoryLabel": "SISTEMAS DEL JUEGO",
-      "whatIs": "¿Qué son los Sistemas de Exoria?",
-      "whatIsDescription": "Los sistemas de Exoria incluyen la progresión del Camino de Purity, el equipamiento de accesorios, las mecánicas de cartas y los sistemas de estadísticas base. Comprender estos sistemas interconectados es clave para construir un personaje poderoso y progresar eficientemente.",
+      "whatIs": "¿Qué son los sistemas de Exoria?",
+      "whatIsDescription": "Los sistemas de Exoria incluyen la progresión de la senda Purity, el equipamiento de accesorios, las mecánicas de cartas y los sistemas de estadísticas principales. Comprender estos sistemas interconectados es clave para crear un personaje poderoso y progresar de manera eficiente.",
       "why": "¿Por qué entender los sistemas de Exoria?",
       "whySteps": {
-        "step1Title": "Maestría del Camino de Purity",
-        "step1Description": "El Camino de Purity es el sistema de progresión único de Exoria — aprende cómo las elecciones de alineación afectan tu build",
-        "step2Title": "Sinergias de Accesorios y Cartas",
+        "step1Title": "Maestría de la senda Purity",
+        "step1Description": "La senda Purity es el sistema de progresión único de Exoria; aprende cómo las elecciones de alineación afectan tu build",
+        "step2Title": "Sinergias de accesorios y cartas",
         "step2Description": "Descubre combinaciones poderosas de accesorios y cartas que amplifican las habilidades de tu clase",
-        "step3Title": "Optimiza el Crecimiento de Estadísticas",
+        "step3Title": "Optimiza el crecimiento de estadísticas",
         "step3Description": "Asigna las estadísticas correctamente desde el inicio del juego para evitar reinicios costosos más adelante"
       },
-      "featured": "Destacados y Esenciales",
-      "all": "Todos los Sistemas"
+      "featured": "Destacados y esenciales",
+      "all": "Todos los sistemas"
     },
     "weapons": {
-      "title": "Armas de Exoria",
+      "title": "Armas de Exoria Roblox",
       "description": "Base de datos completa de armas de Exoria con estadísticas de daño, rutas de mejora y las mejores opciones de armas para cada clase y estilo de juego.",
-      "metaTitle": "Armas de Exoria - Mejores Armas y Guía de Mejoras",
-      "metaDescription": "Encuentra las mejores armas de Exoria para tu clase. Incluye estadísticas de daño, rutas de mejora y clasificaciones de armas para todos los estilos de juego.",
+      "metaTitle": "Armas de Exoria - Mejores armas y guía de mejoras",
+      "metaDescription": "Encuentra las mejores armas de Exoria para tu clase. Incluye estadísticas de daño, rutas de mejora y clasificaciones de niveles de armas para todos los estilos de juego.",
       "categoryLabel": "ARMAS Y EQUIPO",
-      "whatIs": "¿Qué son las Armas de Exoria?",
+      "whatIs": "¿Qué son las armas de Exoria?",
       "whatIsDescription": "Las armas de Exoria van desde el equipo inicial hasta poderosas opciones de juego final vinculadas a especializaciones de clase. Esta sección cubre estadísticas de armas, rutas de mejora y cómo elegir la mejor arma para tu build.",
       "why": "¿Por qué consultar las guías de armas de Exoria?",
       "whySteps": {
-        "step1Title": "Encuentra tu Arma",
+        "step1Title": "Encuentra tu arma",
         "step1Description": "Explora todas las armas disponibles filtradas por clase, tipo de daño y estilo de juego",
-        "step2Title": "Mejora Eficientemente",
+        "step2Title": "Mejora eficientemente",
         "step2Description": "Aprende las rutas de mejora y los requisitos de materiales antes de invertir recursos",
-        "step3Title": "Compara Estadísticas",
+        "step3Title": "Compara estadísticas",
         "step3Description": "Las estadísticas comparativas facilitan la elección del arma más fuerte para tu build"
       },
-      "featured": "Destacados y Esenciales",
-      "all": "Todas las Armas"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las armas"
     },
     "updates": {
-      "title": "Actualizaciones de Exoria",
+      "title": "Actualizaciones de Exoria Roblox",
       "description": "Notas del parche de Exoria, historial de versiones, anuncios de lanzamiento y adiciones de contenido de HADEZ_STUDIO.",
-      "metaTitle": "Actualizaciones de Exoria - Notas del Parche e Historial de Versiones",
+      "metaTitle": "Actualizaciones de Exoria - Notas del parche e historial de versiones",
       "metaDescription": "Sigue todas las actualizaciones de Exoria, incluyendo notas del parche, nuevas adiciones de contenido, cambios de equilibrio e historial de lanzamientos de HADEZ_STUDIO.",
       "categoryLabel": "NOTAS DEL PARCHE Y ACTUALIZACIONES",
-      "whatIs": "¿Qué son las Actualizaciones de Exoria?",
-      "whatIsDescription": "Las actualizaciones de Exoria son lanzamientos de versiones por HADEZ_STUDIO que añaden nuevo contenido, cambios de equilibrio y correcciones de errores. Esta sección rastrea todas las notas del parche e historial de versiones para que siempre sepas qué cambió y qué hay de nuevo.",
+      "whatIs": "¿Qué son las actualizaciones de Exoria?",
+      "whatIsDescription": "Las actualizaciones de Exoria son lanzamientos de versiones de HADEZ_STUDIO que agregan nuevo contenido, cambios de equilibrio y correcciones de errores. Esta sección rastrea todas las notas del parche e historial de versiones para que siempre sepas qué cambió y qué hay de nuevo.",
       "why": "¿Por qué seguir las actualizaciones de Exoria?",
       "whySteps": {
-        "step1Title": "Sabe qué Cambió",
-        "step1Description": "Los parches de equilibrio pueden cambiar qué clases y builds son más fuertes — mantente informado",
-        "step2Title": "Nuevo Contenido Primero",
+        "step1Title": "Sabe qué cambió",
+        "step1Description": "Los parches de equilibrio pueden cambiar qué clases y builds son las más fuertes; mantente informado",
+        "step2Title": "Nuevo contenido primero",
         "step2Description": "Prepárate para nuevos jefes, sistemas y áreas en el momento en que se lancen",
-        "step3Title": "Actualiza tu Estrategia",
-        "step3Description": "Las guías antiguas pueden ya no aplicar después de parches importantes — verifica tu enfoque"
+        "step3Title": "Actualiza tu estrategia",
+        "step3Description": "Es posible que las guías antiguas ya no se apliquen después de parches importantes; verifica tu enfoque"
       },
-      "featured": "Destacados y Esenciales",
-      "all": "Todas las Actualizaciones"
+      "featured": "Destacados y esenciales",
+      "all": "Todas las actualizaciones"
     }
   }
 }

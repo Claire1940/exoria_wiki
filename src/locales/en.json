@@ -59,99 +59,99 @@
     }
   },
   "gameFeature": {
-    "title": "Exoria Gameplay",
+    "title": "Exoria Roblox Gameplay",
     "description": "Explore cursed zones, master your class and race, follow the Purity Path, and defeat bosses in this dark anime Roblox RPG inspired by Blue Exorcist."
   },
   "tools": {
-    "title": "Exoria",
+    "title": "Exoria Roblox",
     "titleHighlight": "Wiki",
     "subtitle": "Your complete guide to codes, resources, beginner tips, and purity progression in Exoria",
     "cards": [
       {
         "icon": "Star",
-        "title": "Exoria Codes",
+        "title": "Exoria Roblox Codes",
         "description": "All active and expired codes plus step-by-step redeem instructions"
       },
       {
         "icon": "Users",
-        "title": "Exoria Trello and Discord",
+        "title": "Exoria Roblox Trello and Discord",
         "description": "Official Trello board and Discord for systems reference and live updates"
       },
       {
         "icon": "BookOpen",
-        "title": "Exoria Beginner Guide",
+        "title": "Exoria Roblox Beginner Guide",
         "description": "Core loop, purity choices, rolls, and first-session priorities"
       },
       {
         "icon": "Sparkles",
-        "title": "Exoria Purity Path Guide",
+        "title": "Exoria Roblox Purity Path Guide",
         "description": "Moral alignment, skill unlock order, and world reactions explained"
       },
       {
         "icon": "Shield",
-        "title": "Exoria Classes Guide",
+        "title": "Exoria Roblox Classes Guide",
         "description": "Sword and Aria paths explained with class-to-form progression"
       },
       {
         "icon": "Hammer",
-        "title": "Exoria Weapons Guide",
+        "title": "Exoria Roblox Weapons Guide",
         "description": "Named skills, attack types, and combat line comparison"
       },
       {
         "icon": "Gamepad2",
-        "title": "Exoria Races Guide",
+        "title": "Exoria Roblox Races Guide",
         "description": "Race selection, reroll strategy, and form progression paths"
       },
       {
         "icon": "TrendingUp",
-        "title": "Exoria Skill Tree Guide",
+        "title": "Exoria Roblox Skill Tree Guide",
         "description": "Purity alignment, skill unlock order, and tree planning"
       },
       {
         "icon": "Swords",
-        "title": "Exoria Bosses Guide",
+        "title": "Exoria Roblox Bosses Guide",
         "description": "Boss encounters, Malphas mechanics, dungeon context, and rare drop farming"
       },
       {
         "icon": "Map",
-        "title": "Exoria Dungeons Guide",
+        "title": "Exoria Roblox Dungeons Guide",
         "description": "Dungeon mechanics, leveling loop, reward structure, and purity-linked routing"
       },
       {
         "icon": "Compass",
-        "title": "Exoria Quests Guide",
+        "title": "Exoria Roblox Quests Guide",
         "description": "Purity quest flow, alignment choices, skill unlock timing, and world reactions"
       },
       {
         "icon": "Layers",
-        "title": "Exoria Cards Guide",
+        "title": "Exoria Roblox Cards Guide",
         "description": "Card collecting system, skill unlock links, rare drop farming, and build planning"
       },
       {
         "icon": "Gem",
-        "title": "Exoria Accessories Guide",
+        "title": "Exoria Roblox Accessories Guide",
         "description": "Artifacts, forms, auras, and race synergy explained for post-class build tuning"
       },
       {
         "icon": "Calendar",
-        "title": "Exoria Events Guide",
+        "title": "Exoria Roblox Events Guide",
         "description": "Discord drops, Trello event reference, update windows, and launch milestone beats"
       },
       {
         "icon": "ScrollText",
-        "title": "Exoria Update 2 Patch Notes",
+        "title": "Exoria Roblox Update 2 Patch Notes",
         "description": "Full public patch timeline from Early Access to Free-to-Play and Update 2"
       },
       {
         "icon": "CalendarDays",
-        "title": "Exoria Release Date",
+        "title": "Exoria Roblox Release Date",
         "description": "Exact Early Access and Free-to-Play launch dates with milestone context"
       }
     ]
   },
   "modules": {
     "exoriaCodes": {
-      "title": "Exoria Codes",
+      "title": "Exoria Roblox Codes",
       "eyebrow": "Free Rewards",
       "intro": "Codes are the fastest early boost in Exoria, giving you free rolls and rewards before you even begin your journey. Use the loading-screen Codes button to claim all active codes.",
       "activeBadge": "Active",
@@ -233,7 +233,7 @@
       "milestoneBadge": "Next code drops at 1,750 likes"
     },
     "exoriaTrelloAndDiscord": {
-      "title": "Exoria Trello and Discord",
+      "title": "Exoria Roblox Trello and Discord",
       "eyebrow": "Official Resources",
       "intro": "Use the official Trello board for systems reference and Discord for live announcements and code drops from HADEZ STUDIO.",
       "cards": [
@@ -264,7 +264,7 @@
       ]
     },
     "exoriaBeginnerGuide": {
-      "title": "Exoria Beginner Guide",
+      "title": "Exoria Roblox Beginner Guide",
       "eyebrow": "Getting Started",
       "intro": "Exoria is an open-world anime RPG where you grow by playing. Focus on codes first, then follow the core loop of fighting, exploring, questing, and boss hunting to level up fast.",
       "steps": [
@@ -298,7 +298,7 @@
       ]
     },
     "exoriaPurityPathGuide": {
-      "title": "Exoria Purity Path Guide",
+      "title": "Exoria Roblox Purity Path Guide",
       "eyebrow": "Build System",
       "intro": "Purity Path is one of Exoria's defining progression systems. Your moral alignment shapes your skills, quest access, and how parts of the world react to your character.",
       "faqs": [
@@ -321,7 +321,7 @@
       ]
     },
     "exoriaClassesGuide": {
-      "title": "Exoria Classes Guide",
+      "title": "Exoria Roblox Classes Guide",
       "eyebrow": "Build Paths",
       "intro": "Class choice in Exoria shapes how you fight, which skills you rush first, and how naturally your build connects into Purity Path progression, boss farming, and later-form upgrades.",
       "cards": [
@@ -368,7 +368,7 @@
       ]
     },
     "exoriaWeaponsGuide": {
-      "title": "Exoria Weapons Guide",
+      "title": "Exoria Roblox Weapons Guide",
       "eyebrow": "Combat Gear",
       "intro": "Weapon intent in Exoria is closely tied to class identity, named attacks, boss rewards, and rare-card progression. Scan the table to find your combat line and see where it leads.",
       "tableHeaders": [
@@ -417,7 +417,7 @@
       ]
     },
     "exoriaRacesGuide": {
-      "title": "Exoria Races Guide",
+      "title": "Exoria Roblox Races Guide",
       "eyebrow": "Races & Forms",
       "intro": "Race choice in Exoria is part of your long-term build identity. Rerolls, passive fit, and later-form progression all matter more when chosen early rather than corrected later.",
       "cards": [
@@ -474,7 +474,7 @@
       ]
     },
     "exoriaSkillTreeGuide": {
-      "title": "Exoria Skill Tree Guide",
+      "title": "Exoria Roblox Skill Tree Guide",
       "eyebrow": "Progression",
       "intro": "Exoria's skill tree is built around moral alignment. Understanding Purity Path early unlocks better routes, wastes fewer rerolls, and lets you build with more intention from the start.",
       "faqs": [
@@ -502,7 +502,7 @@
     },
     "exoriaBossesGuide": {
       "eyebrow": "Boss Progression",
-      "title": "Exoria Bosses Guide",
+      "title": "Exoria Roblox Bosses Guide",
       "subtitle": "Bosses are a core progression hook in Exoria — from named encounters like Malphas to rare drop farming and evolving abilities across boss dungeons.",
       "intro": "Exoria frames boss hunting as part of the main leveling loop alongside quests and exploration. Boss encounters tie to rare drops and evolving abilities, making them more than one-time fights.",
       "cards": [
@@ -526,7 +526,7 @@
     },
     "exoriaDungeonsGuide": {
       "eyebrow": "Dungeon Runs",
-      "title": "Exoria Dungeons Guide",
+      "title": "Exoria Roblox Dungeons Guide",
       "subtitle": "Dungeons in Exoria are boss-focused spaces with unique mechanics — the main bridge between combat mastery, loot farming, and purity-based progression.",
       "intro": "Exoria dungeons are not generic rooms to clear. Each connects directly to boss encounters, rare drops, and the purity-based progression system that shapes your skill growth.",
       "cards": [
@@ -550,7 +550,7 @@
     },
     "exoriaQuestsGuide": {
       "eyebrow": "Quest Flow",
-      "title": "Exoria Quests Guide",
+      "title": "Exoria Roblox Quests Guide",
       "subtitle": "Quests in Exoria are tied to the Purity Path, skill unlock timing, and how the world reacts to your alignment choices — making every quest decision count.",
       "intro": "Exoria's quest system goes beyond standard missions. Purity Quests can be positive or negative, and your decisions shape how your skill tree opens and how the world responds to you.",
       "steps": [
@@ -578,7 +578,7 @@
     },
     "exoriaCardsGuide": {
       "eyebrow": "Card Builds",
-      "title": "Exoria Cards Guide",
+      "title": "Exoria Roblox Cards Guide",
       "subtitle": "Card collecting is a core part of Exoria's identity — sitting alongside bosses, skills, and secrets as part of the main progression fantasy.",
       "intro": "Cards in Exoria are more than collectibles. They connect to skill growth, rare-drop hunting, and the broader progression systems that shape your build and playstyle.",
       "cards": [
@@ -602,7 +602,7 @@
     },
     "exoriaAccessoriesGuide": {
       "eyebrow": "Build Layer",
-      "title": "Exoria Accessories and Build Extras",
+      "title": "Exoria Roblox Accessories and Build Extras",
       "subtitle": "Exoria's accessory layer is a mix of artifacts, forms, auras, and reroll-supported build tuning. This module helps players understand what to chase after they settle on a core class path.",
       "intro": "Treat accessories as the layer that sharpens identity after class, race, and basic combat choices are already in place.",
       "tableHeaders": [
@@ -640,7 +640,7 @@
     },
     "exoriaEventsGuide": {
       "eyebrow": "Live Ops",
-      "title": "Exoria Events and Timed Rewards",
+      "title": "Exoria Roblox Events and Timed Rewards",
       "subtitle": "Exoria's event rhythm is easiest to follow through launch milestones, update windows, codes, and official announcement channels.",
       "intro": "This module gives players a practical map for where live activity tends to surface first in Exoria.",
       "items": [
@@ -672,7 +672,7 @@
     },
     "exoriaUpdate2PatchNotes": {
       "eyebrow": "Update Log",
-      "title": "Exoria Update 2: Public Patch Timeline",
+      "title": "Exoria Roblox Update 2: Public Patch Timeline",
       "subtitle": "This module covers the Update 2 details visible through the live Roblox title, official launch videos, and current update coverage.",
       "intro": "Exoria is publicly labeled as a Free-to-Play experience running on Update 2, making the best treatment a short readable timeline of what changed and what players immediately felt.",
       "items": [
@@ -700,7 +700,7 @@
     },
     "exoriaReleaseDate": {
       "eyebrow": "Launch Info",
-      "title": "Exoria Release Date",
+      "title": "Exoria Roblox Release Date",
       "subtitle": "Exoria's release story is split into an Early Access opening and a wider Free-to-Play launch. This module gives users the exact dates they usually search for first.",
       "intro": "For search intent, what matters is not just one date but the full launch sequence. Exoria opened through Early Access, then expanded to Free-to-Play, and now runs Update 2 under Hadez Studio.",
       "tableHeaders": [
@@ -770,7 +770,7 @@
     "joinGame": "Play on Roblox"
   },
   "footer": {
-    "title": "Exoria Wiki",
+    "title": "Exoria Roblox Wiki",
     "description": "Your complete resource hub for Exoria codes, classes, races, bosses, dungeons, quests, and purity guides on Roblox.",
     "resources": "Resources",
     "community": "Community",
@@ -788,7 +788,7 @@
   },
   "pages": {
     "codes": {
-      "title": "Exoria Codes",
+      "title": "Exoria Roblox Codes",
       "description": "Latest working Exoria redeem codes for free gems, rerolls, and stat chips. Updated regularly with all active and expired codes.",
       "metaTitle": "Exoria Codes - Free Gems & Rerolls (April 2026)",
       "metaDescription": "Get free gems, stat chips, and rerolls with active Exoria codes. All working codes listed with step-by-step redemption guide.",
@@ -808,7 +808,7 @@
       "all": "All Codes"
     },
     "guide": {
-      "title": "Exoria Guide",
+      "title": "Exoria Roblox Guide",
       "description": "Beginner to advanced Exoria guides covering leveling, quest progression, reroll strategy, and core mechanics for all players.",
       "metaTitle": "Exoria Guide - Beginner Tips & Leveling Strategies",
       "metaDescription": "Complete Exoria guide covering beginner tips, quest order, leveling paths, and reroll strategies. Master the dark anime RPG faster.",
@@ -828,7 +828,7 @@
       "all": "All Guides"
     },
     "builds": {
-      "title": "Exoria Builds",
+      "title": "Exoria Roblox Builds",
       "description": "Best Exoria class and race builds for every playstyle. Compare Sword, Magic, and hybrid options with tier ratings and beginner picks.",
       "metaTitle": "Exoria Builds - Best Class & Race Tier List",
       "metaDescription": "Find the best Exoria builds including top classes, race choices, and tier rankings. Optimized for beginners and experienced players alike.",
@@ -848,7 +848,7 @@
       "all": "All Builds"
     },
     "pve": {
-      "title": "Exoria PvE",
+      "title": "Exoria Roblox PvE",
       "description": "Boss guides, fight mechanics, drop tables, and recommended strategies for all Exoria PvE encounters and boss battles.",
       "metaTitle": "Exoria PvE - Boss Guide, Drops & Strategies",
       "metaDescription": "Complete Exoria boss guide with fight mechanics, rare drop tables, and recommended levels. Prepare for every PvE encounter in Exoria.",
@@ -868,7 +868,7 @@
       "all": "All PvE Guides"
     },
     "systems": {
-      "title": "Exoria Systems",
+      "title": "Exoria Roblox Systems",
       "description": "Deep dives into Exoria core systems including accessories, cards, purity path progression, and stat mechanics.",
       "metaTitle": "Exoria Systems - Accessories, Cards & Purity Path",
       "metaDescription": "Understand Exoria systems including accessories, card mechanics, purity path progression, and stat allocation for optimal character growth.",
@@ -888,7 +888,7 @@
       "all": "All Systems"
     },
     "weapons": {
-      "title": "Exoria Weapons",
+      "title": "Exoria Roblox Weapons",
       "description": "Complete Exoria weapon database with damage stats, upgrade paths, and the best weapon choices for each class and playstyle.",
       "metaTitle": "Exoria Weapons - Best Weapons & Upgrade Guide",
       "metaDescription": "Find the best Exoria weapons for your class. Includes damage stats, upgrade paths, and weapon tier rankings for all playstyles.",
@@ -908,7 +908,7 @@
       "all": "All Weapons"
     },
     "updates": {
-      "title": "Exoria Updates",
+      "title": "Exoria Roblox Updates",
       "description": "Exoria patch notes, version history, release announcements, and content additions from HADEZ_STUDIO.",
       "metaTitle": "Exoria Updates - Patch Notes & Version History",
       "metaDescription": "Track all Exoria updates including patch notes, new content additions, balance changes, and release history from HADEZ_STUDIO.",
