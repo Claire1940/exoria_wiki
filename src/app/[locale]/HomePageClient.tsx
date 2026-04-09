@@ -299,7 +299,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
               const sectionIds = [
                 'exoria-codes', 'exoria-trello-discord', 'exoria-beginner-guide', 'exoria-purity-path',
                 'exoria-classes-guide', 'exoria-weapons-guide', 'exoria-races-guide', 'exoria-skill-tree-guide',
-                'exoria-bosses-guide', 'exoria-dungeons-guide', 'exoria-quests-guide', 'exoria-cards-guide'
+                'exoria-bosses-guide', 'exoria-dungeons-guide', 'exoria-quests-guide', 'exoria-cards-guide',
+                'exoria-accessories-guide', 'exoria-events-guide', 'exoria-update-2-patch-notes', 'exoria-release-date'
               ]
               const sectionId = sectionIds[index]
 
@@ -929,7 +930,219 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
         </div>
       </section>
 
-      {/* FAQ Section */}
+
+      {/* Module 13: Exoria Accessories Guide */}
+      <section id="exoria-accessories-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaAccessoriesGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaAccessoriesGuide']} locale={locale}>
+                {t.modules.exoriaAccessoriesGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaAccessoriesGuide.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-2xl mx-auto mt-3">
+              {t.modules.exoriaAccessoriesGuide.intro}
+            </p>
+          </div>
+
+          {/* Desktop table */}
+          <div className="scroll-reveal overflow-x-auto rounded-xl border border-border hidden md:block">
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="bg-[hsl(var(--nav-theme)/0.1)] border-b border-border">
+                  {t.modules.exoriaAccessoriesGuide.tableHeaders.map((h: string, i: number) => (
+                    <th key={i} className="px-5 py-3 text-left font-semibold text-[hsl(var(--nav-theme-light))] whitespace-nowrap">
+                      {h}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {t.modules.exoriaAccessoriesGuide.items.map((row: any, i: number) => (
+                  <tr key={i} className="border-b border-border/50 hover:bg-white/5 transition-colors">
+                    <td className="px-5 py-4 font-semibold text-[hsl(var(--nav-theme-light))]">{row.accessoryLayer}</td>
+                    <td className="px-5 py-4 text-muted-foreground text-xs">{row.whatToTrack}</td>
+                    <td className="px-5 py-4 text-sm">{row.playerValue}</td>
+                    <td className="px-5 py-4 text-muted-foreground text-xs italic">{row.bestUseCase}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+
+          {/* Mobile stacked cards */}
+          <div className="scroll-reveal space-y-4 md:hidden">
+            {t.modules.exoriaAccessoriesGuide.items.map((row: any, i: number) => (
+              <div key={i} className="p-5 bg-white/5 border border-border rounded-xl">
+                <h3 className="font-bold text-[hsl(var(--nav-theme-light))] mb-2">{row.accessoryLayer}</h3>
+                <p className="text-xs text-muted-foreground mb-2">{row.whatToTrack}</p>
+                <p className="text-sm mb-2">{row.playerValue}</p>
+                <p className="text-xs text-muted-foreground italic border-t border-border/50 pt-2 mt-2">{row.bestUseCase}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 14: Exoria Events Guide */}
+      <section id="exoria-events-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaEventsGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaEventsGuide']} locale={locale}>
+                {t.modules.exoriaEventsGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaEventsGuide.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-2xl mx-auto mt-3">
+              {t.modules.exoriaEventsGuide.intro}
+            </p>
+          </div>
+
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-5">
+            {t.modules.exoriaEventsGuide.items.map((item: any, i: number) => (
+              <div
+                key={i}
+                className="group p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+              >
+                <div className="flex items-start justify-between mb-3">
+                  <h3 className="font-bold text-base group-hover:text-[hsl(var(--nav-theme-light))] transition-colors pr-3">
+                    {item.name}
+                  </h3>
+                  <span className="flex-shrink-0 text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] whitespace-nowrap">
+                    {item.whereToCheck}
+                  </span>
+                </div>
+                <p className="text-muted-foreground text-sm mb-3 leading-relaxed">{item.summary}</p>
+                <div className="flex items-start gap-2 pt-3 border-t border-border/50">
+                  <Check className="w-3.5 h-3.5 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                  <span className="text-xs text-muted-foreground">{item.rewardHook}</span>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 15: Exoria Update 2 Patch Notes */}
+      <section id="exoria-update-2-patch-notes" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-4xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaUpdate2PatchNotes.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaUpdate2PatchNotes']} locale={locale}>
+                {t.modules.exoriaUpdate2PatchNotes.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaUpdate2PatchNotes.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-2xl mx-auto mt-3">
+              {t.modules.exoriaUpdate2PatchNotes.intro}
+            </p>
+          </div>
+
+          {/* Vertical timeline */}
+          <div className="scroll-reveal relative">
+            {/* Vertical connector line */}
+            <div className="absolute left-6 md:left-8 top-8 bottom-8 w-px bg-[hsl(var(--nav-theme)/0.3)] z-0" />
+            <div className="space-y-6">
+              {t.modules.exoriaUpdate2PatchNotes.items.map((item: any, i: number) => (
+                <div key={i} className="relative z-10 flex gap-5 md:gap-7">
+                  <div className="flex-shrink-0 w-12 h-12 md:w-16 md:h-16 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border-2 border-[hsl(var(--nav-theme)/0.4)] flex items-center justify-center">
+                    <span className="text-[hsl(var(--nav-theme-light))] text-xs md:text-sm font-bold text-center leading-tight px-1">{String(i + 1).padStart(2, '0')}</span>
+                  </div>
+                  <div className="flex-1 pb-2 pt-1">
+                    <div className="flex flex-wrap items-center gap-3 mb-2">
+                      <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.15)] border border-[hsl(var(--nav-theme)/0.4)] text-[hsl(var(--nav-theme-light))] font-mono">
+                        {item.date}
+                      </span>
+                      <h3 className="font-bold text-base md:text-lg">{item.label}</h3>
+                    </div>
+                    <p className="text-muted-foreground text-sm leading-relaxed">{item.details}</p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Module 16: Exoria Release Date */}
+      <section id="exoria-release-date" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaReleaseDate.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaReleaseDate']} locale={locale}>
+                {t.modules.exoriaReleaseDate.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaReleaseDate.subtitle}
+            </p>
+            <p className="text-muted-foreground text-sm max-w-2xl mx-auto mt-3">
+              {t.modules.exoriaReleaseDate.intro}
+            </p>
+          </div>
+
+          {/* Desktop: 3-column table */}
+          <div className="scroll-reveal overflow-x-auto rounded-xl border border-border hidden md:block">
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="bg-[hsl(var(--nav-theme)/0.1)] border-b border-border">
+                  {t.modules.exoriaReleaseDate.tableHeaders.map((h: string, i: number) => (
+                    <th key={i} className="px-6 py-3 text-left font-semibold text-[hsl(var(--nav-theme-light))] whitespace-nowrap">
+                      {h}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {t.modules.exoriaReleaseDate.items.map((row: any, i: number) => (
+                  <tr key={i} className="border-b border-border/50 hover:bg-white/5 transition-colors">
+                    <td className="px-6 py-4 font-semibold">{row.milestone}</td>
+                    <td className="px-6 py-4 font-mono text-[hsl(var(--nav-theme-light))] font-bold whitespace-nowrap">{row.date}</td>
+                    <td className="px-6 py-4 text-muted-foreground text-xs leading-relaxed">{row.details}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+
+          {/* Mobile: stacked milestone cards */}
+          <div className="scroll-reveal space-y-4 md:hidden">
+            {t.modules.exoriaReleaseDate.items.map((row: any, i: number) => (
+              <div key={i} className="p-5 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-colors">
+                <div className="flex items-center justify-between mb-2">
+                  <h3 className="font-bold text-base">{row.milestone}</h3>
+                  <span className="text-xs font-mono px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.15)] border border-[hsl(var(--nav-theme)/0.4)] text-[hsl(var(--nav-theme-light))]">
+                    {row.date}
+                  </span>
+                </div>
+                <p className="text-muted-foreground text-sm leading-relaxed">{row.details}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+            {/* FAQ Section */}
       <Suspense fallback={<LoadingPlaceholder />}>
         <FAQSection
           title={t.faq.title}

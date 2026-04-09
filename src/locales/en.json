@@ -118,6 +118,26 @@
         "icon": "Layers",
         "title": "Exoria Cards Guide",
         "description": "Card collecting system, skill unlock links, rare drop farming, and build planning"
+      },
+      {
+        "icon": "Gem",
+        "title": "Exoria Accessories Guide",
+        "description": "Artifacts, forms, auras, and race synergy explained for post-class build tuning"
+      },
+      {
+        "icon": "Calendar",
+        "title": "Exoria Events Guide",
+        "description": "Discord drops, Trello event reference, update windows, and launch milestone beats"
+      },
+      {
+        "icon": "ScrollText",
+        "title": "Exoria Update 2 Patch Notes",
+        "description": "Full public patch timeline from Early Access to Free-to-Play and Update 2"
+      },
+      {
+        "icon": "CalendarDays",
+        "title": "Exoria Release Date",
+        "description": "Exact Early Access and Free-to-Play launch dates with milestone context"
       }
     ]
   },
@@ -569,6 +589,137 @@
         {
           "title": "Cards in Build Planning",
           "description": "Card collecting in Exoria connects naturally to classes, races, and progression routes — making the card page a bridge between all major build systems."
+        }
+      ]
+    },
+    "exoriaAccessoriesGuide": {
+      "eyebrow": "Build Layer",
+      "title": "Exoria Accessories and Build Extras",
+      "subtitle": "Exoria's accessory layer is a mix of artifacts, forms, auras, and reroll-supported build tuning. This module helps players understand what to chase after they settle on a core class path.",
+      "intro": "Treat accessories as the layer that sharpens identity after class, race, and basic combat choices are already in place.",
+      "tableHeaders": [
+        "Accessory Layer",
+        "What to Track",
+        "Player Value",
+        "Best Use Case"
+      ],
+      "items": [
+        {
+          "accessoryLayer": "Artifacts",
+          "whatToTrack": "Artifact farming is visible in active Exoria video coverage, including dedicated artifact sessions and class-plus-artifact showcase content.",
+          "playerValue": "Artifacts work well as a chase layer for players who already understand their base class and want stronger progression targets.",
+          "bestUseCase": "Prioritize artifact routes after your main class and weapon preference are locked in."
+        },
+        {
+          "accessoryLayer": "Forms and Auras",
+          "whatToTrack": "Official Hadez Studio shorts publicly showcase Dark Aria Form and Aura and Legendary Demon Form.",
+          "playerValue": "These are the clearest examples of Exoria's build-flavor layer beyond normal leveling and questing.",
+          "bestUseCase": "Best for players who want their end-build identity to feel visually and mechanically distinct."
+        },
+        {
+          "accessoryLayer": "Race Synergy",
+          "whatToTrack": "Current Exoria code coverage repeatedly frames rerolls as a way to refine your race direction.",
+          "playerValue": "Accessory goals become more meaningful after you stop rerolling and commit to a race identity.",
+          "bestUseCase": "Settle your race first, then target accessories or forms that reinforce that identity."
+        },
+        {
+          "accessoryLayer": "Ability Synergy",
+          "whatToTrack": "Public code guides also tie rerolls to abilities, not just race choice.",
+          "playerValue": "Accessories and forms fit into a larger optimization loop instead of sitting in isolation.",
+          "bestUseCase": "Finalize your class path and ability direction before hard-farming accessory-style upgrades."
+        }
+      ]
+    },
+    "exoriaEventsGuide": {
+      "eyebrow": "Live Ops",
+      "title": "Exoria Events and Timed Rewards",
+      "subtitle": "Exoria's event rhythm is easiest to follow through launch milestones, update windows, codes, and official announcement channels.",
+      "intro": "This module gives players a practical map for where live activity tends to surface first in Exoria.",
+      "items": [
+        {
+          "name": "Discord Announcement Cycle",
+          "summary": "The official Discord is the fastest place to watch for new drops, developer messaging, and timing changes around updates and live activity.",
+          "rewardHook": "Best for catching fresh news before guide pages are fully updated.",
+          "whereToCheck": "Official Discord invite"
+        },
+        {
+          "name": "Trello Event Reference",
+          "summary": "The official Exoria Trello covers events alongside classes, weapons, races, accessories, dungeons, and bosses.",
+          "rewardHook": "Best for structured reading once you want to understand how event content fits into the rest of the game.",
+          "whereToCheck": "Official Trello board"
+        },
+        {
+          "name": "Update Window Rewards",
+          "summary": "Public Exoria code coverage has listed active codes such as ASCENSION4K and LUCKOVERDRIVE tied to update windows.",
+          "rewardHook": "These code windows are the easiest timed rewards to claim between larger content beats.",
+          "whereToCheck": "Current code pages and official socials"
+        },
+        {
+          "name": "Launch Milestone Events",
+          "summary": "Exoria's event rhythm is built around milestone beats: Early Access, Free to Play, and then Update 2.",
+          "rewardHook": "These moments drive the biggest return spikes as players come back for resets, fresh quests, and new class routes.",
+          "whereToCheck": "Official YouTube launch videos and the live Roblox listing"
+        }
+      ]
+    },
+    "exoriaUpdate2PatchNotes": {
+      "eyebrow": "Update Log",
+      "title": "Exoria Update 2: Public Patch Timeline",
+      "subtitle": "This module covers the Update 2 details visible through the live Roblox title, official launch videos, and current update coverage.",
+      "intro": "Exoria is publicly labeled as a Free-to-Play experience running on Update 2, making the best treatment a short readable timeline of what changed and what players immediately felt.",
+      "items": [
+        {
+          "date": "March 7, 2026",
+          "label": "Early Access Opens",
+          "details": "The official Exoria launch video announced Early Access for March 7, 2026 after eight months of development."
+        },
+        {
+          "date": "April 5, 2026",
+          "label": "Free-to-Play Launch",
+          "details": "A later official launch video announced the wider Free-to-Play release for April 5, 2026."
+        },
+        {
+          "date": "April 2026",
+          "label": "Update 2 Goes Live",
+          "details": "The live Roblox experience title now reads Exoria [FREE TO PLAY + Update 2], making Update 2 part of the game's main public-facing identity."
+        },
+        {
+          "date": "April 2026",
+          "label": "Player-Facing Changes",
+          "details": "Current update coverage calls out 2 new classes and more quests as the clearest immediately visible Update 2 changes for active players."
+        }
+      ]
+    },
+    "exoriaReleaseDate": {
+      "eyebrow": "Launch Info",
+      "title": "Exoria Release Date",
+      "subtitle": "Exoria's release story is split into an Early Access opening and a wider Free-to-Play launch. This module gives users the exact dates they usually search for first.",
+      "intro": "For search intent, what matters is not just one date but the full launch sequence. Exoria opened through Early Access, then expanded to Free-to-Play, and now runs Update 2 under Hadez Studio.",
+      "tableHeaders": [
+        "Milestone",
+        "Date",
+        "Details"
+      ],
+      "items": [
+        {
+          "milestone": "Development Run-Up",
+          "date": "Pre-release",
+          "details": "Both official launch videos frame Exoria as the result of eight months of development before opening access."
+        },
+        {
+          "milestone": "Early Access Release",
+          "date": "March 7, 2026",
+          "details": "This was the first public access window announced by the developers."
+        },
+        {
+          "milestone": "Free-to-Play Release",
+          "date": "April 5, 2026",
+          "details": "This marked the broader public opening beyond the earlier access phase."
+        },
+        {
+          "milestone": "Current Live Phase",
+          "date": "April 2026",
+          "details": "The Roblox listing currently presents the game as Exoria [FREE TO PLAY + Update 2] by @HADEZ_STUDIO."
         }
       ]
     }
