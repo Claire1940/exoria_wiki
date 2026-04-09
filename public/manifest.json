@@ -1,12 +1,12 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Exoria Wiki - Codes, Classes & Bosses",
+  "short_name": "Exoria Wiki",
+  "description": "Track Exoria codes, classes, races, bosses, dungeons, and purity progression with clear Roblox guides built for faster leveling, rerolls, and drops.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
-  "background_color": "#0a0a0a",
+  "theme_color": "#3b82f6",
+  "background_color": "#070a14",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
