@@ -141,6 +141,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
 
   // FAQ accordion states
   const [faqExpanded, setFaqExpanded] = useState<number | null>(null)
+  // Skill tree accordion state
+  const [skillTreeExpanded, setSkillTreeExpanded] = useState<number | null>(null)
   // Copy code state
   const [copiedCode, setCopiedCode] = useState<string | null>(null)
 
@@ -295,7 +297,8 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
             {t.tools.cards.map((card: any, index: number) => {
               // 映射卡片索引到 section ID
               const sectionIds = [
-                'exoria-codes', 'exoria-trello-discord', 'exoria-beginner-guide', 'exoria-purity-path'
+                'exoria-codes', 'exoria-trello-discord', 'exoria-beginner-guide', 'exoria-purity-path',
+                'exoria-classes-guide', 'exoria-weapons-guide', 'exoria-races-guide', 'exoria-skill-tree-guide'
               ]
               const sectionId = sectionIds[index]
 
@@ -548,6 +551,194 @@ export default function HomePageClient({ latestArticles, moduleLinkMap, locale }
                   <ChevronDown className={`w-5 h-5 flex-shrink-0 transition-transform ${faqExpanded === i ? "rotate-180" : ""}`} />
                 </button>
                 {faqExpanded === i && (
+                  <div className="px-5 pb-5 text-muted-foreground text-sm">{faq.answer}</div>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 5: Exoria Classes Guide */}
+      <section id="exoria-classes-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaClassesGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaClassesGuide']} locale={locale}>
+                {t.modules.exoriaClassesGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaClassesGuide.intro}
+            </p>
+          </div>
+
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 gap-4">
+            {t.modules.exoriaClassesGuide.cards.map((card: any, i: number) => (
+              <div
+                key={i}
+                className="group p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]"
+              >
+                <div className="flex items-center justify-between mb-3">
+                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))]">
+                    {card.tag}
+                  </span>
+                </div>
+                <h3 className="font-bold text-lg mb-2 group-hover:text-[hsl(var(--nav-theme-light))] transition-colors">
+                  {card.title}
+                </h3>
+                <p className="text-muted-foreground text-sm mb-3">{card.description}</p>
+                <ul className="space-y-1">
+                  {card.highlights.map((h: string, j: number) => (
+                    <li key={j} className="flex items-start gap-2">
+                      <Check className="w-3.5 h-3.5 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                      <span className="text-xs text-muted-foreground">{h}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 6: Exoria Weapons Guide */}
+      <section id="exoria-weapons-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaWeaponsGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaWeaponsGuide']} locale={locale}>
+                {t.modules.exoriaWeaponsGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaWeaponsGuide.intro}
+            </p>
+          </div>
+
+          {/* Desktop table */}
+          <div className="scroll-reveal overflow-x-auto rounded-xl border border-border hidden md:block">
+            <table className="w-full text-sm">
+              <thead>
+                <tr className="bg-[hsl(var(--nav-theme)/0.1)] border-b border-border">
+                  {t.modules.exoriaWeaponsGuide.tableHeaders.map((h: string, i: number) => (
+                    <th key={i} className="px-5 py-3 text-left font-semibold text-[hsl(var(--nav-theme-light))] whitespace-nowrap">
+                      {h}
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {t.modules.exoriaWeaponsGuide.rows.map((row: any, i: number) => (
+                  <tr key={i} className="border-b border-border/50 hover:bg-white/5 transition-colors">
+                    <td className="px-5 py-4 font-mono font-semibold text-[hsl(var(--nav-theme-light))]">{row.name}</td>
+                    <td className="px-5 py-4 text-muted-foreground">{row.type}</td>
+                    <td className="px-5 py-4">{row.buildRole}</td>
+                    <td className="px-5 py-4 text-muted-foreground text-xs">{row.details}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+
+          {/* Mobile stacked cards */}
+          <div className="scroll-reveal space-y-3 md:hidden">
+            {t.modules.exoriaWeaponsGuide.rows.map((row: any, i: number) => (
+              <div key={i} className="p-4 bg-white/5 border border-border rounded-xl">
+                <div className="flex items-center justify-between mb-2">
+                  <span className="font-mono font-bold text-[hsl(var(--nav-theme-light))]">{row.name}</span>
+                  <span className="text-xs px-2 py-0.5 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))]">
+                    {row.type}
+                  </span>
+                </div>
+                <p className="text-sm font-medium mb-1">{row.buildRole}</p>
+                <p className="text-xs text-muted-foreground">{row.details}</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 7: Exoria Races Guide */}
+      <section id="exoria-races-guide" className="scroll-mt-24 px-4 py-20">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaRacesGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaRacesGuide']} locale={locale}>
+                {t.modules.exoriaRacesGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaRacesGuide.intro}
+            </p>
+          </div>
+
+          <div className="scroll-reveal grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+            {t.modules.exoriaRacesGuide.cards.map((card: any, i: number) => (
+              <div
+                key={i}
+                className={`group p-6 bg-white/5 border border-border rounded-xl hover:border-[hsl(var(--nav-theme)/0.5)] transition-all duration-300 hover:shadow-lg hover:shadow-[hsl(var(--nav-theme)/0.1)]${i === 0 ? ' md:col-span-2 lg:col-span-1' : ''}`}
+              >
+                <div className="flex items-center justify-between mb-3">
+                  <span className="text-xs px-2 py-1 rounded-full bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))]">
+                    {card.tag}
+                  </span>
+                </div>
+                <h3 className="font-bold text-lg mb-2 group-hover:text-[hsl(var(--nav-theme-light))] transition-colors">
+                  {card.title}
+                </h3>
+                <p className="text-muted-foreground text-sm mb-3">{card.description}</p>
+                <ul className="space-y-1">
+                  {card.highlights.map((h: string, j: number) => (
+                    <li key={j} className="flex items-start gap-2">
+                      <Check className="w-3.5 h-3.5 text-[hsl(var(--nav-theme-light))] mt-0.5 flex-shrink-0" />
+                      <span className="text-xs text-muted-foreground">{h}</span>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Module 8: Exoria Skill Tree Guide */}
+      <section id="exoria-skill-tree-guide" className="scroll-mt-24 px-4 py-20 bg-white/[0.02]">
+        <div className="container mx-auto max-w-5xl">
+          <div className="text-center mb-12 scroll-reveal">
+            <span className="inline-block px-3 py-1 rounded-full text-xs font-semibold uppercase tracking-wider bg-[hsl(var(--nav-theme)/0.1)] border border-[hsl(var(--nav-theme)/0.3)] text-[hsl(var(--nav-theme-light))] mb-4">
+              {t.modules.exoriaSkillTreeGuide.eyebrow}
+            </span>
+            <h2 className="text-4xl md:text-5xl font-bold mb-4">
+              <LinkedTitle linkData={moduleLinkMap['exoriaSkillTreeGuide']} locale={locale}>
+                {t.modules.exoriaSkillTreeGuide.title}
+              </LinkedTitle>
+            </h2>
+            <p className="text-muted-foreground text-lg max-w-3xl mx-auto">
+              {t.modules.exoriaSkillTreeGuide.intro}
+            </p>
+          </div>
+
+          <div className="scroll-reveal space-y-2">
+            {t.modules.exoriaSkillTreeGuide.faqs.map((faq: any, i: number) => (
+              <div key={i} className="border border-border rounded-xl overflow-hidden">
+                <button
+                  onClick={() => setSkillTreeExpanded(skillTreeExpanded === i ? null : i)}
+                  className="w-full flex items-center justify-between p-5 text-left hover:bg-white/5 transition-colors"
+                >
+                  <span className="font-semibold">{faq.question}</span>
+                  <ChevronDown className={`w-5 h-5 flex-shrink-0 transition-transform ${skillTreeExpanded === i ? "rotate-180" : ""}`} />
+                </button>
+                {skillTreeExpanded === i && (
                   <div className="px-5 pb-5 text-muted-foreground text-sm">{faq.answer}</div>
                 )}
               </div>

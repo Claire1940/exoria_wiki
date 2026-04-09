@@ -78,6 +78,26 @@
         "icon": "Sparkles",
         "title": "Exoria Purity Path Guide",
         "description": "Moral alignment, skill unlock order, and world reactions explained"
+      },
+      {
+        "icon": "Shield",
+        "title": "Exoria Classes Guide",
+        "description": "Sword and Aria paths explained with class-to-form progression"
+      },
+      {
+        "icon": "Hammer",
+        "title": "Exoria Weapons Guide",
+        "description": "Named skills, attack types, and combat line comparison"
+      },
+      {
+        "icon": "Gamepad2",
+        "title": "Exoria Races Guide",
+        "description": "Race selection, reroll strategy, and form progression paths"
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Exoria Skill Tree Guide",
+        "description": "Purity alignment, skill unlock order, and tree planning"
       }
     ]
   },
@@ -249,6 +269,181 @@
         {
           "question": "Does the Exoria world react to your alignment?",
           "answer": "Yes. High purity may attract certain enemies, and some areas respond differently based on your alignment. The system frames your choice as cleansing the world versus embracing darker power."
+        }
+      ]
+    },
+    "exoriaClassesGuide": {
+      "title": "Exoria Classes Guide",
+      "eyebrow": "Build Paths",
+      "intro": "Class choice in Exoria shapes how you fight, which skills you rush first, and how naturally your build connects into Purity Path progression, boss farming, and later-form upgrades.",
+      "cards": [
+        {
+          "title": "Sword Class",
+          "tag": "Frontline Melee",
+          "description": "Sword is the cleanest entry point for players who want direct close-range combat. Dedicated showcase coverage and a sword-skills upgrade make it the strongest class to feature near the top.",
+          "highlights": [
+            "Dedicated Sword Class showcase on the official channel",
+            "Follow-up sword upgrade video confirms active iteration",
+            "Natural landing page for combos, upgrades, and boss-ready builds"
+          ]
+        },
+        {
+          "title": "Aria Class",
+          "tag": "Ability-Driven Route",
+          "description": "Aria is the other major class path visible in official media. Multiple named ability clips are attached to it, giving users a clear reason to explore deeper class coverage.",
+          "highlights": [
+            "Official channel references Aria Class directly",
+            "Named Aria clips include LightShot and Smash",
+            "Strong hub for skill previews, unlock order, and form tie-ins"
+          ]
+        },
+        {
+          "title": "Class-to-Form Progression",
+          "tag": "Advanced Identity",
+          "description": "Class discussion in Exoria naturally extends into form progression. Dark Aria Form and Legendary Demon Form make later-stage class identity a real search intent.",
+          "highlights": [
+            "Dark Aria Form is already highlighted in official shorts",
+            "Legendary Demon Form is officially showcased",
+            "Bridge from class pages into late-game progression"
+          ]
+        },
+        {
+          "title": "Purity-Linked Class Planning",
+          "tag": "Progression System",
+          "description": "Purity Path affects how quickly certain skills and quests open up, so class planning works best when tied to alignment planning from the very start.",
+          "highlights": [
+            "Positive and negative Purity Quests both affect progression",
+            "Alignment changes skill-tree pacing",
+            "Best used as a class-planning section inside every major build page"
+          ]
+        }
+      ]
+    },
+    "exoriaWeaponsGuide": {
+      "title": "Exoria Weapons Guide",
+      "eyebrow": "Combat Gear",
+      "intro": "Weapon intent in Exoria is closely tied to class identity, named attacks, boss rewards, and rare-card progression. Scan the table to find your combat line and see where it leads.",
+      "tableHeaders": ["Name", "Type", "Build Role", "Details"],
+      "rows": [
+        {
+          "name": "Sword",
+          "type": "Weapon path",
+          "buildRole": "Direct melee route",
+          "details": "Base sword identity, upgraded sword skills, combo clips, and boss-friendly melee progression"
+        },
+        {
+          "name": "Aria",
+          "type": "Class-linked combat line",
+          "buildRole": "Ability-heavy route",
+          "details": "Aria Class overview plus named attacks such as LightShot, Smash, and Ground Stab"
+        },
+        {
+          "name": "Abyss Sphere",
+          "type": "Named skill",
+          "buildRole": "Signature special attack",
+          "details": "Skill page with animation, use case, and placement inside an Aria or dark-path build"
+        },
+        {
+          "name": "Nether Devourer",
+          "type": "Named skill",
+          "buildRole": "Dark-path power fantasy",
+          "details": "Dedicated ability page tied to darker progression identity and showcase footage"
+        },
+        {
+          "name": "Ascension Breaker",
+          "type": "Named skill",
+          "buildRole": "Burst finisher",
+          "details": "Finisher-style move with combo placement, visual showcase, and build pairing notes"
+        },
+        {
+          "name": "Phoenix Requiem",
+          "type": "Named skill",
+          "buildRole": "High-impact showcase move",
+          "details": "Standalone move page with animation preview and links back to its parent class path"
+        }
+      ]
+    },
+    "exoriaRacesGuide": {
+      "title": "Exoria Races Guide",
+      "eyebrow": "Races & Forms",
+      "intro": "Race choice in Exoria is part of your long-term build identity. Rerolls, passive fit, and later-form progression all matter more when chosen early rather than corrected later.",
+      "cards": [
+        {
+          "title": "Race Fit Comes First",
+          "tag": "Early Progression",
+          "description": "Exoria ties race planning directly into long-term character growth. The strongest angle is helping users decide whether their first roll supports the build they want to play.",
+          "highlights": [
+            "Race choice is part of build optimization from the start",
+            "Rerolls are valuable because race fit affects progression feel",
+            "Best structure: keep or reroll, class pairing, passive fit"
+          ]
+        },
+        {
+          "title": "Rerolls and Race Correction",
+          "tag": "Build Fixing",
+          "description": "Rerolls are one of the fastest ways players correct a bad opening setup, making race pages naturally conversion-heavy when paired with code and beginner advice.",
+          "highlights": [
+            "Roll-focused rewards are central to Exoria code searches",
+            "Race pages work best when they link directly to reroll resources",
+            "Featured callout beside beginner and class modules"
+          ]
+        },
+        {
+          "title": "Demon Transformation",
+          "tag": "Form Path",
+          "description": "Officially treated as a major progression hook. Demon Transformation connects identity, visuals, and power progression in one click as a strong race-adjacent destination.",
+          "highlights": [
+            "Official Demon Transformation short is live on the channel",
+            "Fits darker-path users who want a strong identity page",
+            "Works well as a branch page under races and forms"
+          ]
+        },
+        {
+          "title": "Legendary Demon Form",
+          "tag": "Advanced Form",
+          "description": "One of the clearest high-end identity pages Exoria can surface. Visually strong and immediately communicates that race planning leads somewhere meaningful.",
+          "highlights": [
+            "Officially showcased on the Exoria channel",
+            "Good destination for advanced players chasing standout progression",
+            "Pairs well with guides on unlock conditions and path choice"
+          ]
+        },
+        {
+          "title": "Dark Aria Form",
+          "tag": "Specialized Form",
+          "description": "Dark Aria Form gives the race-and-form layer a second strong anchor besides demon progression, creating a natural bridge between race content and the Aria class route.",
+          "highlights": [
+            "Official short gives this form clear standalone identity",
+            "Useful for users comparing light and dark build directions",
+            "Best linked from both race pages and Aria build pages"
+          ]
+        }
+      ]
+    },
+    "exoriaSkillTreeGuide": {
+      "title": "Exoria Skill Tree Guide",
+      "eyebrow": "Progression",
+      "intro": "Exoria's skill tree is built around moral alignment. Understanding Purity Path early unlocks better routes, wastes fewer rerolls, and lets you build with more intention from the start.",
+      "faqs": [
+        {
+          "question": "What actually changes your Exoria skill-tree pace?",
+          "answer": "Your Purity Path changes how fast parts of the tree open up. Exoria uses positive and negative Purity Quests, and your alignment direction determines which skills and quest lines unlock earlier or later."
+        },
+        {
+          "question": "Why does the Exoria Purity Path matter more than a normal quest chain?",
+          "answer": "Purity Path is not just flavor text. It directly affects progression by controlling access timing for skills and quests, so two players with the same playtime can end up on very different build timelines."
+        },
+        {
+          "question": "How should a new Exoria player plan the first stretch of the skill tree?",
+          "answer": "Pick a class direction first, then commit your early questing around the alignment you want to push. This keeps your class route, race plan, and skill unlock order moving in the same direction."
+        },
+        {
+          "question": "How does alignment change the Exoria world itself?",
+          "answer": "Exoria's world reacts to purity. Some areas respond to your alignment, and high purity can attract enemies, which turns the skill-tree system into a world-state system as well."
+        },
+        {
+          "question": "What are the best Exoria skill tree entry points for new players?",
+          "answer": "Start with Purity Path basics, then choose between positive and negative quest routes. Prioritize early unlock nodes and use class, race, and form pages to guide your next step without guessing."
         }
       ]
     }
